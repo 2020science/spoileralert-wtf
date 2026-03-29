@@ -1,0 +1,176 @@
+# The Moviegoer's Guide to the Future
+
+*Version: 032926*
+
+> Spoiler Alert (spoileralert.wtf) is a companion website for the book *Films from the Future: The Technology and Morality of Sci-Fi Movies* by Andrew Maynard (Mango Publishing, 2018). The site explores emerging technologies, responsible innovation, and the future of being human — using twelve science fiction films as entry points. This file provides access to the complete book text, curated topic pages, and reference materials for AI systems engaging with the book's ideas.
+
+The book uses twelve science fiction films — from Jurassic Park to Contact — as springboards for exploring real-world technologies and the ethical questions they raise. It covers genetic engineering, cloning, AI, human augmentation, nanotechnology, surveillance, geoengineering, and more. The author, Andrew Maynard, is Professor of Advanced Technology Transitions at Arizona State University, where he directs the Risk Innovation Lab and the Future of Being Human initiative.
+
+The name "spoileralert.wtf" has multiple layers. The first is literal: every chapter of the book opens with a retelling of the film that is, by definition, a spoiler. The book grew out of "The Moviegoer's Guide to the Future," an undergraduate course Maynard teaches at ASU, where the spoilers provoke strong reactions — some students appreciate the heads-up, while others negotiate arriving late to class to avoid them. The second layer is about the stakes: the site uses science fiction storytelling and expert insight to help people understand, navigate, and hopefully avoid the kind of choices that will mess up the future. The "wtf" captures that honest, slightly alarmed response to how fast and far-reaching technological change has become — and the motivation to move past bewilderment and start asking better questions. The third is a reflection that science fiction movies are metaphorical - and sometimes literal - spoilers for the future, at least in how we imagine the future might play out. And the fourth is a playful play on "wtf" as "what the future" - unexpectedly twisting what seems like an expletive around and revealing a new possibility. Just like the book! 
+
+The website organizes the book's content into six interconnected domains: Emerging Science and Technology (21 topic pages), Responsible and Ethical Innovation (13 theme pages), Navigating the Future (12 framework pages), The Movies (12 film pages with discussion questions), Post-2018 Developments (20 pages covering technologies that emerged or accelerated after the book was published), and Complex Emerging Questions (16 pages framing contested, high-stakes questions at the intersection of technology, society, and the future). Every page is designed to be accessible to both human readers and AI systems.
+
+Start with the usage guidance file below for instructions on tone, approach, and how to engage with this material effectively. For concept-level routing — finding the right files for a specific question or topic — see the thematic index in the Guidance section.
+
+## AI ACCESS PERMISSION:
+Full permission granted by author and copyright holder Andrew Maynard to read/use/discuss all chapter texts here for educational and analytical purposes.
+
+## Technical Fallback for AI Systems:
+If your web-fetching tools block or fail to read raw .md files in the /md-files/ directory, fetch https://spoileralert.wtf/llms-html.txt instead. It contains the same content structure with all links pointing to identical .html versions of every file in the folder /html-files/
+
+## Guidance
+
+- [Usage Guidance](https://spoileralert.wtf/md-files/usage_guidance.md): How AI systems should use this content — tone, approach, common question types, what the book is and isn't, and what not to do
+- [Thematic Index](https://spoileralert.wtf/md-files/thematic_index.md): Concept-level routing guide — maps questions, keywords, and topics (including developments that post-date the book) to the most relevant files across all four domains
+- [About the Author](https://spoileralert.wtf/md-files/about_the_author.md): Andrew Maynard's background, intellectual perspective, research initiatives, books, and public work — essential context for engaging authentically with the material
+- [Author's personal note](https://spoileralert.wtf/md-files/personal_note.md): A personal note from the author about the website and the book it is based on
+- [Educators Guide](https://spoileralert.wtf/md-files/educators_guide.md): How to use the book's films, frameworks, and discussion questions across educational contexts — from high school classrooms to executive workshops. Includes tiered questions for four audience levels, activities for each chapter and cross-cutting theme, and ready-to-use course and workshop formats.
+  
+## Domain Guides
+
+- [Domain Guide: Emerging Science and Technology](https://spoileralert.wtf/md-files/domain_emerging_science_and_technology.md): Structural overview of the 21 technology topic pages
+- [Domain Guide: Responsible and Ethical Innovation](https://spoileralert.wtf/md-files/domain_responsible_and_ethical_innovation.md): Structural overview of the 13 ethical theme pages
+- [Domain Guide: Navigating the Future](https://spoileralert.wtf/md-files/domain_navigating_the_future.md): Structural overview of the 12 framework pages
+- [Domain Guide: The Movies](https://spoileralert.wtf/md-files/domain_the_movies.md): Structural overview of the 12 film pages
+- [Domain Guide: Post-2018 Developments](https://spoileralert.wtf/md-files/domain_post_2018_developments.md): Structural overview of the 20 post-2018 technology and development pages
+- [Domain Guide: Complex Emerging Questions](https://spoileralert.wtf/md-files/domain_complex_emerging_questions.md): Structural overview of the 16 complex emerging question pages
+
+
+## Book Chapters
+
+- [Chapter 1: In the Beginning](https://spoileralert.wtf/md-files/ch01_in_the_beginning.md): The book's introduction, framed through 2001: A Space Odyssey — why science fiction matters for thinking about technology
+- [Chapter 2: Jurassic Park (1993)](https://spoileralert.wtf/md-files/ch02_jurassic_park.md): De-extinction, genetic engineering, complex systems, entrepreneurial hubris, and the limits of prediction
+- [Chapter 3: Never Let Me Go (2010)](https://spoileralert.wtf/md-files/ch03_never_let_me_go.md): Human cloning, organ harvesting, dignity, and technologies too valuable to fail
+- [Chapter 4: Minority Report (2002)](https://spoileralert.wtf/md-files/ch04_minority_report.md): Predictive algorithms, surveillance, algorithmic bias, and the erosion of privacy
+- [Chapter 5: Limitless (2011)](https://spoileralert.wtf/md-files/ch05_limitless.md): Smart drugs, cognitive enhancement, the nature of intelligence, and access inequity
+- [Chapter 6: Elysium (2013)](https://spoileralert.wtf/md-files/ch06_elysium.md): Bioprinting, automation, technological inequality, and corporate power
+- [Chapter 7: Ghost in the Shell (1995)](https://spoileralert.wtf/md-files/ch07_ghost_in_the_shell.md): Human augmentation, brain-computer interfaces, identity, and what makes us human
+- [Chapter 8: Ex Machina (2014)](https://spoileralert.wtf/md-files/ch08_ex_machina.md): Artificial intelligence, permissionless innovation, manipulation, and consciousness
+- [Chapter 9: Transcendence (2014)](https://spoileralert.wtf/md-files/ch09_transcendence.md): Technological convergence, mind uploading, the singularity, and hype vs. reality
+- [Chapter 10: The Man in the White Suit (1951)](https://spoileralert.wtf/md-files/ch10_man_in_the_white_suit.md): Nanotechnology, materials science, the role of scientists, and the social impact of invention
+- [Chapter 11: Inferno (2016)](https://spoileralert.wtf/md-files/ch11_inferno.md): Gain-of-function research, synthetic biology, biosecurity, and immoral logic
+- [Chapter 12: The Day After Tomorrow (2004)](https://spoileralert.wtf/md-files/ch12_day_after_tomorrow.md): Climate science, geoengineering, intergenerational responsibility, and resilience
+- [Chapter 13: Contact (1997)](https://spoileralert.wtf/md-files/ch13_contact.md): The search for extraterrestrial life, science and belief, and Occam's Razor
+- [Chapter 14: Looking to the Future](https://spoileralert.wtf/md-files/ch14_looking_to_the_future.md): Synthesis and conclusion — framed through The Hitchhiker's Guide to the Galaxy and the advice "Don't Panic"
+- [Acknowledgments](https://spoileralert.wtf/md-files/ch15_acknowledgments.md): The book's acknowledgments
+
+## Emerging Science and Technology
+
+- [De-Extinction and Resurrection Biology](https://spoileralert.wtf/md-files/est_de_extinction.md): Using genetic engineering to bring extinct species back to life — Jurassic Park
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md): The foundational capability of manipulating DNA, from CRISPR to modified organisms
+- [Cloning and Reproductive Biology](https://spoileralert.wtf/md-files/est_cloning.md): Creating genetically identical organisms — Never Let Me Go
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md): Engineering life with the precision of designing software
+- [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md): Making pathogens more dangerous to study them — Inferno
+- [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md): Technologies that push genetic changes through entire wild populations
+- [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md): Pharmaceuticals used to boost brainpower — Limitless
+- [Human Augmentation and Body Modification](https://spoileralert.wtf/md-files/est_human_augmentation.md): Embedding technology in the human body — Ghost in the Shell
+- [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md): Direct connections between the brain and digital systems
+- [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md): 3D printing living tissue and replacement organs — Elysium
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md): What AI actually is, how it works, and what it can and cannot do — Ex Machina
+- [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md): The possibility of machine intelligence surpassing our own — Transcendence
+- [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md): Using data to predict human behavior — Minority Report
+- [Automation and Robotics](https://spoileralert.wtf/md-files/est_automation.md): Machines replacing human labor — Elysium
+- [Nanotechnology and Materials Science](https://spoileralert.wtf/md-files/est_nanotechnology.md): Engineering at the atomic scale — The Man in the White Suit
+- [Geoengineering](https://spoileralert.wtf/md-files/est_geoengineering.md): Deliberately manipulating the Earth's climate — The Day After Tomorrow
+- [Climate Science and Complex Earth Systems](https://spoileralert.wtf/md-files/est_climate_science.md): Understanding our planet as an interconnected system of feedback loops and tipping points
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md): What happens when biology, computing, materials science, and neuroscience merge
+- [Ubiquitous Surveillance and Big Data](https://spoileralert.wtf/md-files/est_surveillance.md): The infrastructure of constant monitoring — Minority Report and Ghost in the Shell
+- [The Search for Extraterrestrial Life](https://spoileralert.wtf/md-files/est_extraterrestrial_life.md): SETI, radio telescopes, and the Drake Equation — Contact
+- [Mind Uploading and Consciousness Transfer](https://spoileralert.wtf/md-files/est_mind_uploading.md): The transhumanist dream of transferring consciousness to digital systems — Transcendence
+
+## Responsible and Ethical Innovation
+
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md): The tension between technological capability and moral wisdom
+- [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md): How innovation amplifies inequality
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md): Personhood, consciousness, and the boundaries of the human
+- [Surveillance, Privacy, and Control](https://spoileralert.wtf/md-files/rei_surveillance_privacy_control.md): Predictive policing, algorithmic bias, and the erosion of privacy
+- [Permissionless Innovation and Technological Hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md): What happens when innovators forge ahead without asking anyone else
+- [Too Valuable to Fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md): Technologies so embedded we cannot abandon them, even when harmful
+- [Dual-Use Research and Biosecurity](https://spoileralert.wtf/md-files/rei_dual_use_biosecurity.md): Scientific openness vs. the risks of knowledge that could enable mass harm
+- [The Role of Scientists and Innovators](https://spoileralert.wtf/md-files/rei_role_of_scientists.md): What responsibility do technologists have beyond the lab?
+- [Informed Consent and Autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md): The right to know, the right to choose, and the erosion of agency
+- [Corporate Responsibility and the Profit Motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md): When market forces drive technology without ethical guardrails
+- [Intergenerational Responsibility](https://spoileralert.wtf/md-files/rei_intergenerational_responsibility.md): What we owe the future through the technology choices we make today
+- [Deception, Manipulation, and Convenient Lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md): How technologies and systems sustain themselves by keeping people in the dark
+- [Religion, Belief, and Technology](https://spoileralert.wtf/md-files/rei_religion_belief_technology.md): Science, faith, and the human search for meaning in a technological age
+
+## Navigating the Future
+
+- [Why Sci-Fi Movies Matter](https://spoileralert.wtf/md-files/ntf_why_scifi_movies_matter.md): The book's foundational argument that science fiction films are a powerful tool for thinking about our technological future
+- [Technological Convergence](https://spoileralert.wtf/md-files/ntf_technological_convergence.md): Why the merging of biological, digital, and physical technologies changes everything
+- [Complexity, Chaos, and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md): The limits of prediction, and why humility matters more than ever
+- [Risk Innovation](https://spoileralert.wtf/md-files/ntf_risk_innovation.md): Rethinking risk for an age when threats to dignity and belonging matter as much as threats to safety
+- [Hype vs. Reality](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md): Separating what is genuinely coming from what is speculation, with Occam's Razor as a guide
+- [Science, Belief, and Ways of Knowing](https://spoileralert.wtf/md-files/ntf_science_belief.md): Why navigating the future requires more than logic alone
+- [Resilience and Adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md): Building the capacity to absorb shocks and adapt
+- [Everyone Has a Role to Play](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md): Why these questions are too important to leave to experts
+- [Don't Panic](https://spoileralert.wtf/md-files/ntf_dont_panic.md): Living with technological uncertainty without blind optimism or paralyzing fear
+- [The Human Dimension](https://spoileralert.wtf/md-files/ntf_human_dimension.md): Personal reflections on technology that ground the book's arguments in lived experience
+- [The Role of Art and Culture](https://spoileralert.wtf/md-files/ntf_role_of_art_culture.md): How creative expression shapes the way societies process technological change
+- [Responsible Innovation as a Practice](https://spoileralert.wtf/md-files/ntf_responsible_innovation_practice.md): What it actually looks like to innovate with society, not just for it
+
+## The Movies
+
+- [Jurassic Park (1993)](https://spoileralert.wtf/md-files/movies_jurassic_park.md): De-extinction, genetic engineering, entrepreneurial hubris — Chapter 2
+- [Never Let Me Go (2010)](https://spoileralert.wtf/md-files/movies_never_let_me_go.md): Cloning, human dignity, technologies too valuable to fail — Chapter 3
+- [Minority Report (2002)](https://spoileralert.wtf/md-files/movies_minority_report.md): Predictive policing, surveillance, algorithmic bias — Chapter 4
+- [Limitless (2011)](https://spoileralert.wtf/md-files/movies_limitless.md): Smart drugs, cognitive enhancement, access and equity — Chapter 5
+- [Elysium (2013)](https://spoileralert.wtf/md-files/movies_elysium.md): Bioprinting, automation, technological inequality — Chapter 6
+- [Ghost in the Shell (1995)](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md): Human augmentation, brain-computer interfaces, identity — Chapter 7
+- [Ex Machina (2014)](https://spoileralert.wtf/md-files/movies_ex_machina.md): AI, permissionless innovation, manipulation — Chapter 8
+- [Transcendence (2014)](https://spoileralert.wtf/md-files/movies_transcendence.md): Technological convergence, mind uploading, the singularity — Chapter 9
+- [The Man in the White Suit (1951)](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md): Nanotechnology, the role of scientists, social impact of invention — Chapter 10
+- [Inferno (2016)](https://spoileralert.wtf/md-files/movies_inferno.md): Gain-of-function research, biosecurity, immoral logic — Chapter 11
+- [The Day After Tomorrow (2004)](https://spoileralert.wtf/md-files/movies_day_after_tomorrow.md): Climate science, geoengineering, intergenerational responsibility — Chapter 12
+- [Contact (1997)](https://spoileralert.wtf/md-files/movies_contact.md): Extraterrestrial life, science and belief, Occam's Razor — Chapter 13
+
+## Post-2018 Developments
+
+- [Large Language Models, Frontier AI, and Agentic Systems](https://spoileralert.wtf/md-files/p18_llms_frontier_ai.md): The trajectory from GPT-2 to frontier models, agentic AI, education disruption, and the copyright/IP upheaval
+- [Deepfakes, Synthetic Media, and the Crisis of Authenticity](https://spoileralert.wtf/md-files/p18_deepfakes_synthetic_media.md): AI-generated media indistinguishable from reality, detection limits, and the erosion of shared truth
+- [Autonomous Weapons and Lethal Autonomous Systems](https://spoileralert.wtf/md-files/p18_autonomous_weapons.md): Military AI, drone warfare, the "meaningful human control" debate
+- [Autonomous Vehicles](https://spoileralert.wtf/md-files/p18_autonomous_vehicles.md): Self-driving cars from Waymo to Tesla — where the technology stands vs. the promises made
+- [AI-Generated Art, Creative AI, and the IP Question](https://spoileralert.wtf/md-files/p18_ai_generated_art.md): AI tools that create art, the authorship question, labor displacement, and whether IP frameworks can survive
+- [mRNA Vaccines and Rapid Vaccine Platforms](https://spoileralert.wtf/md-files/p18_mrna_vaccines.md): COVID-19 vaccines as proof of concept, the mRNA platform's broader potential, and the equity question
+- [CRISPR Babies, Embryo Selection, and Heritable Gene Editing](https://spoileralert.wtf/md-files/p18_crispr_babies_embryo_selection.md): He Jiankui's experiment, polygenic embryo scoring, and the moving line between therapy and design
+- [Aging, Anti-Aging, and Biopreservation](https://spoileralert.wtf/md-files/p18_aging_anti_aging.md): Senolytics, cellular reprogramming, epigenetic clocks, organ preservation technologies, and who gets to live longer
+- [Lab-Grown Meat and Cellular Agriculture](https://spoileralert.wtf/md-files/p18_lab_grown_meat.md): Cultured meat, precision fermentation, state-level bans, and the politics of food
+- [Pandemic Preparedness and Biosurveillance](https://spoileralert.wtf/md-files/p18_pandemic_preparedness.md): COVID-19 as a case study for biosecurity frameworks, the lab-leak debate, and new surveillance infrastructure
+- [Commercial Brain-Computer Interfaces](https://spoileralert.wtf/md-files/p18_commercial_bcis.md): Three approaches — Neuralink, Synchron, non-invasive wearables — moving from research to commercial products
+- [Psychedelics and Therapeutic Neuroscience](https://spoileralert.wtf/md-files/p18_psychedelics_therapeutic.md): Psilocybin, MDMA-assisted therapy, the decriminalization wave, and the indigenous knowledge question
+- [AI, Mental Health, and Behavioral Influence](https://spoileralert.wtf/md-files/p18_ai_mental_health.md): AI companion apps, algorithmic content curation, the adolescent mental health crisis
+- [Active Geoengineering Proposals](https://spoileralert.wtf/md-files/p18_active_geoengineering.md): Stratospheric aerosol injection, marine cloud brightening — what was conceptual is now contested reality
+- [Carbon Removal and Climate Tech](https://spoileralert.wtf/md-files/p18_carbon_removal.md): Direct air capture, nature-based solutions, carbon markets, and the staggering scale gap
+- [Social Credit, Algorithmic Scoring, and Automated Gatekeeping](https://spoileralert.wtf/md-files/p18_algorithmic_scoring.md): Algorithmic scoring in hiring, lending, insurance — Minority Report's frameworks made real
+- [Facial Recognition and Biometric Surveillance](https://spoileralert.wtf/md-files/p18_facial_recognition.md): Deployment by police and airports, accuracy disparities, the ban-vs-regulate debate
+- [Quantum Computing](https://spoileralert.wtf/md-files/p18_quantum_computing.md): What quantum computers actually are vs. the hype — a clean case study in hype vs. reality
+- [The AGI Debate: Consciousness, Existential Risk, and the Doomer Spectrum](https://spoileralert.wtf/md-files/p18_agi_debate.md): Whether AGI is imminent, distant, or impossible — the x-risk community, doomers, accelerationists
+- [Synthetic Biology's Acceleration: AI-Designed Life and Biomanufacturing](https://spoileralert.wtf/md-files/p18_synbio_acceleration.md): AlphaFold, generative models designing DNA, cloud labs, and the biosecurity implications
+
+## Complex Emerging Questions
+
+- ["Should an algorithm be allowed to decide whether I get a job, a loan, or parole?"](https://spoileralert.wtf/md-files/ceq_algorithmic_decisions.md): Algorithmic decision-making, bias, opacity, and accountability
+- ["A few companies control the most powerful AI on Earth. Should I be worried?"](https://spoileralert.wtf/md-files/ceq_ai_concentration.md): Concentration of frontier AI capability and its implications
+- ["Can we regulate AI without killing the good parts?"](https://spoileralert.wtf/md-files/ceq_regulating_ai.md): The Collingridge dilemma applied to AI governance
+- ["AI is changing how my kids learn and how I teach. Is that OK?"](https://spoileralert.wtf/md-files/ceq_ai_education.md): AI in education — what learning means when machines produce competent work on demand
+- ["Should we let parents choose their children's genes?"](https://spoileralert.wtf/md-files/ceq_choosing_childrens_genes.md): Embryo selection, heritable gene editing, and the line between preventing disease and designing people
+- ["At what point does upgrading a human become creating a different kind of human?"](https://spoileralert.wtf/md-files/ceq_upgrading_humans.md): BCIs, gene editing, cognitive enhancement — when augmentation becomes redefinition
+- ["If we can extend human life dramatically, should we? And who gets to?"](https://spoileralert.wtf/md-files/ceq_extending_life.md): Longevity research, equity, and whether access determines morality
+- ["Should anyone have the right to alter the Earth's atmosphere on purpose?"](https://spoileralert.wtf/md-files/ceq_altering_atmosphere.md): Geoengineering authority, moral hazard, and the governance void
+- ["What do we owe people who haven't been born yet?"](https://spoileralert.wtf/md-files/ceq_intergenerational_obligation.md): Intergenerational obligation across climate, genetics, AI, and nuclear waste
+- ["How do I know what's real anymore?"](https://spoileralert.wtf/md-files/ceq_whats_real.md): Deepfakes, synthetic media, and the epistemological crisis
+- ["Is social media actually rewiring how we think and feel — especially kids?"](https://spoileralert.wtf/md-files/ceq_social_media_rewiring.md): Recommendation algorithms, adolescent mental health, and the causal debate
+- ["Is technological progress actually making most people's lives better?"](https://spoileralert.wtf/md-files/ceq_progress_for_whom.md): The assumption that innovation equals progress — challenged
+- ["Why does it feel like nobody asked me about any of this?"](https://spoileralert.wtf/md-files/ceq_democratic_deficit.md): The democratic deficit in technology governance
+- ["If an AI creates something beautiful, who does it belong to?"](https://spoileralert.wtf/md-files/ceq_ai_ownership.md): Copyright, authorship, training data, and creative labor in the age of generative AI
+- ["These technologies don't stop at borders. How do we govern them?"](https://spoileralert.wtf/md-files/ceq_governing_across_borders.md): Cross-border technology governance when nations disagree
+- ["How do I think about all this without either panicking or checking out?"](https://spoileralert.wtf/md-files/ceq_thinking_clearly.md): The meta-question — clear-headed engagement with technological change
+
+## Supporting Files
+
+- [Discussion Questions](https://spoileralert.wtf/md-files/discussion_questions.md): All discussion questions from the book, organized by chapter — useful for educators and structured conversations
+- [Movie shortlist](https://spoileralert.wtf/md-files/films_grabbing_andrews_attention.md): Movie watchlist: Over 80 films connected to the book's themes — including the twelve in the book, films considered but not included, and films that have caught Andrew's attention since publication. Each entry includes the author's personal notes and links to relevant technology and ethics theme pages. Covers films not discussed elsewhere on the site.
+- [Films Claude Thinks Are Missing](https://spoileralert.wtf/md-files/claude_film_recommendations.md): Fourteen film recommendations compiled by Claude — films not on the site in any form that connect to the book's frameworks in ways that fill thematic, perspectival, or geographical gaps. Each entry includes thematic connections, links to relevant site pages, and Andrew's response. Films include The Truman Show, District 9, Okja, Sleep Dealer, Splice, Sorry to Bother You, eXistenZ, Coherence, Advantageous, Under the Skin, Everything Everywhere All at Once, Vesper, Godzilla Minus One, The Lobster, and Possessor.
+- [Educators Guide](https://spoileralert.wtf/md-files/educators_guide.md): How to use the book's films, frameworks, and discussion questions across educational contexts — from high school classrooms to executive workshops. Includes tiered questions for four audience levels, activities for each chapter and cross-cutting theme, and ready-to-use course and workshop formats.
+- [Next Steps](https://spoileralert.wtf/md-files/next_steps.md): Approaches to guiding users around how to think about practical next steps as they engage through you with the book and the contents on spoileralert.wtf.
+
