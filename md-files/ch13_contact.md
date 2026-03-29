@@ -1,0 +1,641 @@
+# Chapter 13: Contact — Living by More than Science Alone
+
+*From Films from the Future: The Technology and Morality of Sci-Fi Movies by Andrew Maynard*
+
+---
+
+“…okay to go…”
+―Ellie Arroway
+
+## An Awful Waste of Space
+On Wednesday, June 17, 1981, Carl Sagan’s Cosmos had its premiere
+on British TV. Since its launch, the series has become the stuff of
+legend, so much so that I’ve lost count of the people I know who
+were inspired to pursue a career in science after watching it.
+Sadly, I wasn’t one of them.
+Back then, my parents had a nagging worry that the TV my siblings
+and I watched was stunting our development. As a result, we
+periodically went through patches as a family of having no television
+in the house. This was complicated somewhat by my grandfather,
+failing to understand the reason why we were occasionally
+television-less, bringing us replacement sets as fast as my parents
+disposed of them. Despite this, we still had extended periods where
+I was largely cut off from popular TV culture. And this included the
+first run of Cosmos.
+Fortunately, I managed to find my way into a successful career as a
+scientist without Sagan’s guiding hand. But this didn’t stop me being
+drawn into his world through his movie Contact later on, and the
+science fiction novel it’s based on.
+Sagan was a charismatic and often polarizing scientist, and one
+whose vision extended far beyond the laboratory. He understood
+and deeply respected the process of science. But in his thinking,
+science was about far more than simply learning about the world we
+
+live in. To Sagan, science was a way of seeing and making sense of
+the universe. His was a vision of science that extended far beyond
+textbook methodologies and tedious experiments, and it’s one that
+continues to inspire scientists, engineers, and technologists to this
+day. It’s also a vision that runs deep through what is perhaps one
+of the most respected and revered science fiction movies among
+people who make a living through science: Contact.[^177]
+
+Contact is a movie about the nature and wonder of science that’s
+driven along by the discovery of extraterrestrial intelligence. At the
+center of the story is Dr. Ellie Arroway (played by Jodie Foster),
+an astronomer who is driven in her search for extraterrestrial life,
+but who has a scientist’s eye for testing every scrap of evidence to
+make sure that her biases aren’t blinding her. She’s smart, articulate,
+driven, and has a complex relationship with her peers—much like
+Sagan himself.
+From an early age, Arroway has been obsessed with the idea of
+intelligent life beyond Earth, and as the story begins, we find her at
+the Arecibo radio telescope in Puerto Rico, looking for evidence of
+extraterrestrial signals from other star systems. The setting echoes
+Sagan’s early work on the search for extraterrestrial life, using the
+same telescope. And, like Sagan, Arroway is both ridiculed and
+disappointed in her research, but carries on regardless.
+While at Arecibo, Arroway meets a young and charismatic religious
+leader, Palmer Joss (Matthew McConaughey), and butts heads with
+him intellectually while falling into bed with him physically. It’s
+also at Arecibo that we see Arroway first having a run-in with the
+Director of the National Science Foundation, David Drumlin (Tom
+Skerritt). Arroway is funded through the NSF. Yet Drumlin believes
+her energy should be focused on what he considers (at the time) to
+be more productive scientific questions, and as a result, he cuts her
+funding, while being painfully patronizing and manipulative toward
+her in the process.
+Not to be beaten, Arroway seeks out other funding sources for
+her research, and ends up attracting the patronage of the megaentrepreneur S. R. Haddon (played by John Hurt). Haddon is
+
+With Haddon’s support, Arroway switches her research to using the
+Very Large Array radio telescope, or VLA, in New Mexico (another
+instrument that actually exists), yet Drumlin once again interferes
+by denying her access to this NSF-funded facility. Just as Arroway’s
+hopes begin to fade, she detects a strong signal from what appears
+to be beyond the solar system. As the significance of the finding
+becomes clear, people start trying to take the discovery away from
+her. First the security agencies move in, paranoid of what they don’t
+understand. Then Drumlin steps in and deftly assumes ownership of
+the discovery, leveraging his position and standing to get what he
+sees as the opportunity of a lifetime.
+Meanwhile, the discovery has attracted large crowds to the area
+outside the VLA, and there’s a massive party vibe going on as people
+use the discovery as an excuse to let their hair down and have some
+fun. But, within the crowd, there are also religious fanatics who
+clearly feel threatened by the signals being received. While this is
+going on, the team at the VLA continue to find more detail in the
+signal, including what look like blueprints for building an alien
+device. As the significance of this finding sinks in, the question of
+how to respond to the discovery is kicked up to the White House,
+and Drumlin assumes the role of lead scientist, while Arroway is
+downgraded to being just one of his team.
+At this point, Palmer Joss—now a religious advisor to the President
+of the United States—comes back into the story. Joss is brought
+in to provide advice on how the presence of the extraterrestrial
+signal potentially threatens long-held beliefs on humans’ “special
+relationship” with their various gods. At one point, a member of
+Congress even comes out with, “We don’t even know if they [the
+aliens] believe in God.”
+As various experts and advisors congregate in Washington, DC,
+to discuss next steps, Arroway is reunited with Palmer Joss, and
+they quickly fall into a relationship where their physical and
+intellectual attraction to each other is complicated by seemingly
+irreconcilable differences on science and belief. Meanwhile, as the
+assembled experts grapple with deciphering the content of the
+alien signal, they hit a wall. And, once again, Arroway’s patron S.
+R. Haddon provides her with a way of getting back into the game.
+Drumlin’s team of experts have been struggling to make sense of
+
+Contact: Living By More Than Science Alone
+
+impressed by Arroway’s passion, vision, and ability, and decides to
+invest in her and her work.
+
+the blueprints transmitted in the signal, but the mega-smart, megarich Haddon has deciphered them. And to back up his investment in
+Arroway, he passes the relevant information on to her.
+With the key to the code, it rapidly becomes clear that the signal
+contains plans to build a device that will transport a single human
+being through space, and presumably to the star system of Vega
+from whence it originated. Arroway is desperate to be selected to
+make this journey, but is pretty sure that Drumlin will block her yet
+again. It turns out, though, that Drumlin has other plans, and has
+put himself forward as the person best qualified to be the first to
+meet an alien species.
+Because deciding who is best equipped to represent all of humanity
+when meeting the aliens is such a momentous decision, a shortlist
+of twelve candidates is compiled—with the final choice to be made
+by an international panel. Arroway makes this shortlist, and as
+the selection process continues, it finally comes down to her and
+Drumlin. In making their decision, the selection panel hold a final
+public hearing with both candidates. There’s only one problem; the
+selection panel includes Arroway’s lover and intellectual opponent,
+Palmer Joss, and he doesn’t want to lose her.
+Arroway aces her interview until Joss asks, “Do you believe in God,
+Dr. Arroway?” She replies honestly with, “As a scientist, I rely on
+empirical evidence. And in this matter, I don’t believe there’s data
+either way.” Drumlin, on the other hand, when asked the same
+question, gives a politician’s answer, and tells the panel what they
+want to hear. As a result, he’s chosen over Arroway.
+As the launch of the alien device draws nearer, Drumlin, who is now
+cast in the role of public science-explainer-in-chief, takes part in a
+publicly broadcast test-run of the system. Drumlin begins to emerge
+at this point as a charismatic science communicator and popularizer,
+and is slightly disparaged by his scientific colleagues for it, a rather
+complex nod to the pushback Sagan himself received for his own
+public persona. On the video feed for the test, Arroway recognizes a
+religious activist within a secure area, and urgently warns Drumlin
+over the communications headset. Drumlin confronts the person,
+but it’s too late. The extremist reveals he’s wearing explosives and
+detonates them, killing Drumlin, and spectacularly destroying the
+machine.
+This appears to be the end of the line for humanity’s first attempt
+to make contact with an alien intelligence, until Haddon steps
+
+As the pod is launched, Arroway finds herself catapulted through
+space, eventually ending on a palm-surrounded beach in a scene
+that mimics a picture from her childhood. Here, she sees a figure
+approaching her, which resolves into her father, long dead at this
+point, and the inspiration for her life’s work. He explains that what
+she is seeing is simply a representation that the aliens thought
+would feel familiar to her. In their brief conversation, she learns
+that she’s traveled through a series of wormholes to an interstellar
+junction, that this massive network of interstellar transportation
+conduits was built by a previous civilization, and that there’s a long
+history of emerging civilizations being introduced to their galactic
+neighbors by building machines like the one Arroway has been
+transported by.
+Following the encounter, Arroway is transported back to Earth, only
+to discover that, to the Earth-bound observers, no time has passed.
+To these observers, the pod she was in simply dropped straight
+through the machine and into the net below; the experiment was
+a failure.
+Confused, Arroway explains what she experienced. But she has no
+proof, only her knowledge that, to her, it was real. And this is where
+Sagan and the movie begin to explore the relationship between
+science and belief. Arroway’s journey as a scientist starts from her
+unshakable conviction that she can only understand the world by
+using evidence to test what she believes to be true, and having the
+discipline to ditch beliefs that don’t stand up to the test, no matter
+how compelling they are. Yet the movie ends with her believing
+in something that she has no evidence for, other than her own
+experience. Much like the religious experience that transformed
+Palmer Joss’ life, Arroway has an unshakable conviction that what
+she experienced was real. Yet she has no proof with which to
+
+Contact: Living By More Than Science Alone
+
+in once again and shows Arroway a satellite image of a remote
+location in Japan, and a second machine. As the world is informed
+of this backup machine, Arroway becomes the person chosen to
+be transported in it. She’s installed into the machine’s pod, and
+the countdown to launch commences. As the alien machine ramps
+up, communication with Arroway becomes increasingly faint,
+until one of her colleagues—Kent Clark, a blind scientist who first
+identified the presence of additional information in the signal from
+Vega (played by William Fichtner)—manages to pick her up, faintly
+repeating “…okay to go…okay to go….”
+
+convince others. And so, she finds herself in the same boat as Joss,
+and his belief that experience and hope transcend proof.
+Yet, as the consummate scientist, Arroway doesn’t expect others to
+take her word on faith. Instead, she’s driven to look for evidence to
+support her experience, not out of despair, but out of the conviction
+that, if what she experienced was true, there will be evidence to
+be found.
+What she doesn’t know is that this evidence exists, but is being kept
+from her. Unbeknown to Arroway, the video from her pod came
+back blank. But instead of just a few seconds of blank screens as
+the pod fell through the machine, it contained nineteen minutes of
+nothing, the same amount of time Ellie claimed she had been away.
+Yet, despite not knowing about this, Arroway has the strength of
+her convictions and the discipline of her science to support her, and
+the movie ultimately leaves us with an affirmation of the power of
+combining science and belief to better understand ourselves, and
+our place within the universe.
+
+While Contact is clearly science fiction, it is, in many ways, a
+homage to the scientific process, and to the scientifically rigorous
+search for extraterrestrial life. In the movie, Ellie Arroway’s character
+is largely based on the real life astronomer Jill Tarter, and the film
+as a whole draws extensively on Sagan’s own experiences. This is a
+movie that celebrates the use of reason and evidence to expand our
+understanding of the universe. Yet it also acknowledges that reason
+needs to be combined with imagination if we’re to truly appreciate
+who we are, and the world we inhabit. And it does this by grappling
+with the tensions between science and belief head-on.
+
+## More than Science Alone
+It doesn’t take much to realize that there’s an uneasy relationship
+between science and religion; one that spills over into how we think
+about and develop new technologies. To some, religion implies an
+adherence to a belief in how things are in spite of evidence, rather
+than an understanding that’s based on evidence. Because of this,
+there is a sense that science versus belief is an either/or option.
+This tension between science and religion, of course, goes back
+centuries. Galileo, for instance, is often revered for challenging
+received religious dogma about the solar system with cold, hard
+evidence. And he’s just one person in a science-hall-of-fame of
+
+Putting religion aside for a moment, “belief” is something that
+we seem predisposed to as humans. In part, it’s is a product of
+the ways our minds have evolved to survive in a complex and
+dangerous world. And it draws on our exquisite ability to interpret
+our surroundings and our place in them in ways that are useful for
+keeping us alive, but are not necessarily grounded in reality.
+As a species, we have a whole arsenal of mental short-cuts, or
+heuristics, and cognitive biases that work together to keep us safe
+and prevent our conscious intellect from leading us into danger.
+Through these evolved traits, we’ve become wonderfully adept at
+feeling like the decisions we make have a rational basis. And as part
+of this, we’ve developed an incredible ability to see patterns and
+meaning in just about everything.
+These patterns that our mind “sees” in the world around us often
+provide us with early warnings of danger, or early indications of
+benefits. They’re how our brains learn to make sense of the world,
+by avoiding what could harm us, and being attracted to what
+could be good for us. And part of our success as a species is being
+incredibly good at this—so good in fact that our technologies are,
+in many cases, still catching up with the human brain’s ability to
+intuitively detect and decode patterns, whether in the environment,
+in trends, or in behaviors. Yet, our cognitive traits all too easily
+mislead us into misinterpreting what we see, hear, and experience as
+being true, despite evidence to the contrary.[^178]
+With this biological drive to find patterns and meaning in
+everything, it’s not surprising that we end up being driven by what
+we believe to be true (or what our evolved brains tell us must be
+so) and creating gods (or aliens) to justify this. From a rational
+perspective, it’s easy to dismiss such tendencies as being mere selfdelusion. And yet, the nature of belief is too complex, too ingrained
+in us, to be dismissed through simple logic. It’s so much a part
+
+Contact: Living By More Than Science Alone
+
+figures who have dared to question deeply held beliefs through
+experimentation and the rigor of scientific discovery. Yet, as Contact
+attempts to explore, this relationship between science and belief is
+more complex than is sometimes assumed.
+
+of us that even the most avowedly logical person reaches a point
+where they have to depart from the world of evidence, and take a
+leap of faith, realizing that, in some cases, the value of something
+transcends whether it can be proven, or the degree to which
+evidence-based analysis supports it. Even though faith and science
+are often pitted against each other, I suspect that a surprising
+number of scientists have their own beliefs that define who they are
+and what they strive for, regardless of any evidence-based analysis.
+In effect, life and meaning are about more than science alone,
+whether you believe in a higher “being,” or a spiritual dimension, or
+simply understand belief to be an emergent biological property that
+defines who and what we are.
+In Contact, Sagan wrestles with this seeming paradox at the nexus
+of science and belief through the relationship between Ellie Arroway
+and Joss Palmer. Importantly, he sets the issue up, not as science
+versus dogma, but as understanding the relationship between
+science and meaning.
+At the beginning of the movie, Ellie represents rational, evidencebased science. She inhabits a world based on what is testable.
+And she is intellectually honest; she’s willing to sacrifice what
+she hopes is true in the cold light of evidence to the contrary. In
+contrast, Palmer inhabits a world of faith. He lives his life on the
+deep conviction that there is meaning beyond what is testable and
+validatable by science. He deeply believes that there is more to
+humans, and more to the universe we inhabit, that lies beyond the
+ken of scientists and their empiricism.
+Yet, as their experiences through the movie expose their true
+characters, we see that they are more alike than different. Ellie is
+driven by a belief that there must be alien intelligence. She doesn’t
+use the language of belief and faith, but there’s something more
+that she’s striving for. Ellie is on a journey of discovery. Palmer, on
+the other hand, is a person whose faith completes him. It fills a
+need in his life and provides a sense of wholeness, and it helps him
+make sense of what otherwise would make no sense. He knows
+where he’s going, and doesn’t need science to point him in the right
+direction. Yet, at the end of the movie, both Ellie and Palmer are in a
+similar position, believing in something that they cannot prove, but
+that nevertheless defines them.
+This said, there’s also a profound difference between Ellie and
+Palmer. While Palmer represents believers who seek to proselytize—
+
+But—and this is perhaps where the Ellie metaphor diverges most
+from faith-based belief—this way of seeing the world requires rigor
+in how we test our beliefs. It needs honesty in our willingness to
+drop ideas that don’t align with evidence. And it depends on our
+ability to distinguish wishful thinking from reality. And this brings us
+to a recurring theme in Contact: Occam’s Razor.
+
+## Occam’s Razor
+William of Occam was a fourteenth-century English philosopher,
+friar, and theologian. From historic accounts, he was sharp thinker,
+and a somewhat controversial religious figure in his time. Yet, these
+days, he is best known for the scientific rule of thumb that bears
+his name.
+Occam was, without doubt, a religious man. But in his theological
+work, he challenged people to question the validity of complex
+explanations for things where simpler ones worked equally well. It
+wasn’t until after his death, though, that people began to attach his
+name to this type of thinking.
+The idea that simpler explanations are more likely to be true than
+more complex ones goes as far back as Greek philosophers like
+Aristotle—probably farther, given the somewhat obvious nature of
+the observation. Yet it’s Occam’s name that we now associate with a
+“simpler is probably truer” approach to making sense of the world.
+
+Contact: Living By More Than Science Alone
+
+to persuade others to take on their beliefs—Ellie’s mission is to
+provide evidence to support her belief. And this, to me, gets to the
+heart of the role of belief in science. Like many real-life scientists,
+creativity, imagination, and believing in what lies beyond proof
+are integral to who Ellie is. She is a complex person who is in part
+defined by her science, but is much more than her science alone.
+Ellie is a metaphor for the place of science in society, as we strive
+to understand our relationship with our future and the universe
+we’re part of. Through her character, we understand that science is
+a way of knowing ourselves and the world around us that doesn’t
+preclude faith and belief, but is a means of responding to them. This
+is not an either/or philosophy of faith versus science; neither is it
+a rigid set of rules about what is right and what is wrong. Rather,
+it’s a way of seeing the world and ourselves that, when combined
+with humility, respect for others, curiosity and wonder, can be
+positively transformative.
+
+Ironically, Occam’s intellectual incisiveness was focused on making
+sense of faith-based interpretations of the world and how we should
+live in it. As a Christian, he was a believer in God (publicly at least),
+and committed to interpreting God’s will and actions, through what
+was written in sacred texts and what was observable in the world
+around him. He was a firm believer that the “ways of God” are not
+open to reason; he’d have probably got along well with Palmer Joss.
+At the same time, he was no fool. He realized that, where two or
+more explanations for something existed, the simplest, least fanciful
+of them was more likely to be closer to the truth.
+This is, of course, something that every parent and teacher knows
+well. “The dog ate my homework” really struggles to compete
+with alternatives like “I forgot.” It’s this realization that simpler
+explanations are more likely to be true that has led to Occam’s
+Razor becoming part of the canon of twenty-first-century scientific
+practice. There are multiple definitions of the Razor (so-called
+because it helps cut away misleading ideas to reveal the truth), but
+most of these come down to stating that, when there are multiple
+explanations for something, the one that depends on the fewest
+assumptions is more likely to be the right one. Simplicity, in this
+case, comes about because we have to make up less stuff in order to
+explain something.
+A more direct description of Occam’s Razor is that, if an explanation
+for something involves wild stories and fantastical ideas that cannot
+be tested, it’s probably not right. This is how Ellie invokes it when
+she first meets Palmer. To her, there wasn’t any point in talking
+about faith and belief, because it failed Occam’s Razor at the first
+hurdle. Faith, to her, especially faith in a higher being, relied
+on too many untestable assumptions where there were simpler
+explanations. And, while she discovered that life is often not that
+simple, the principle remains a powerful way of sifting out attractive
+but dangerously misleading ideas from those that better reflect
+reality.
+
+So how does Occam’s Razor apply to technological innovation?
+Through the previous chapters, we’ve touched on emerging
+technologies that could transform our lives in the future: genetic
+engineering, gene editing, mind and body enhancements, artificial
+intelligence, nanotechnology, geoengineering, and a whole lot more.
+Each offers the promise of a vastly better future if used wisely.
+
+Here, Occam’s rule of thumb becomes especially helpful. Just as it
+helps weed out fanciful explanations of how the world works from
+more reasonable ones, it can also help separate fantasy from more
+likely outcomes as we think about the future. For instance, we can
+make a shrewd guess that future scenarios that depend on more
+assumptions and more fantastical ideas are less likely to come about
+than those that use fewer assumptions and are less fantastical.
+This simple rule of thumb becomes increasingly relevant as we
+invest hard money in science and technology with the intention
+of creating a better future. It’s often when there’s money on the
+table that the hard-nosed thinking starts, and technology is no
+exception. So, given the option of investing a sizable wad of cash in
+avoiding “gray goo,” for instance, or in preparing for the advent of
+superintelligence (both of which depend on a house-of-cards stack
+of assumptions), or investing a similar amount in avoiding health
+and environmental harm from new materials, Occam’s Razor would
+probably favor the latter. It’s not that gray goo or superintelligence
+don’t have some probability of occurring (although it may be
+vanishingly small). It’s simply that, because they depend on an
+increasingly tenuous number of untested assumptions, supporting
+them becomes more an act of faith than of reason.
+Yet there’s a catch here, which is why Occam’s Razor should never
+be considered as more than an aid to decision-making. Just because
+there are simpler, less assumption-filled alternatives to imagined
+future scenarios, it doesn’t mean that more complex options will
+turn out to be wrong. What Occam’s Razor states is that there is a
+lower probability of options that rely on more assumptions being
+true, but not a zero probability. And this leaves the door open to
+more complex, more fanciful possibilities being plausible, even
+though they’re possibilities that have a much lower chance of
+being right.
+In Contact, this is the hope that Ellie hangs on to as she continues
+her search for extraterrestrial intelligence. She knows that,
+
+Contact: Living By More Than Science Alone
+
+But each also comes with tremendous risks if used irresponsibly.
+And this, together with the multiplicative dangers of what happens
+when these technologies merge and converge, demands forethought
+around how to use emerging science and technology responsibly.
+Yet here we face a conundrum, in that the best we can do in
+planning for the future is to make educated guesses based on what’s
+happened in the past, and what we know in the present.
+
+intellectually, the cards are stacked against her, that all she has to go
+on is her conviction that she experienced something real. But, rather
+than allow the same Occam’s Razor she used earlier with Palmer to
+defeat her, she is determined to discover something that will defeat
+the razor’s edge itself.
+This, to me, gets to the very core of science as a human endeavor.
+Critical thinking alone is almost inhuman in its cold impartiality. On
+the other hand, creativity on its own leads down a path of fantasy
+and delusion. But when the two are combined, we have a powerful
+way of using science and the imagination to find meaning in the
+universe we’re a part of, and to chart a course toward a future that
+celebrates who we are and what we might become.
+This is what we see playing out in Contact, and why to me it’s
+such a powerful reflection of the soul at the heart of science, not
+simply the process. It’s also where we see the “humanity” of science
+beginning to shine. This is where science emerges as a disciplined
+pathway to awe and wonder, and a rigorous way to develop new
+knowledge that enriches lives and empowers people. Here, it’s the
+humanity of science that also leads us to not just ask if we can
+do something, but whether we should, and, if we do, what the
+consequences might be, together with how we might ensure that
+they work to the good of society rather than against it.
+As we’ve seen throughout this book, these are tough questions that
+demand careful thought and input from everyone with a stake in
+the game. When we’re dealing with science that potentially touches
+everyone, we all become stakeholders in the process. We’ve seen
+this with technologies that potentially change who we are: cognitive
+enhancers, genetic modification, body augmentation, and brainmachine interfaces, for instance. We’ve also seen it in technologies
+that might transcend us and lead to life that is beyond what we
+consider “human,” including intelligent machines. But what about
+technologies that may lead to the discovery of life that didn’t even
+evolve on Earth?
+
+## What If We’re Not Alone?
+In 1961, a group of ten scientists got together to discuss the search
+for extraterrestrial life—among them were Carl Sagan and the
+astrophysicist Frank Drake. What came out of that meeting was an
+equation that the group felt gave the best stab at estimating (at least
+to an order of magnitude) the number of intelligent civilizations
+
+The Drake Equation is a wonderful piece of scientific back-of-theenvelope mathematical speculation that any physicist should feel
+immediately at home with. The original equation consists of seven
+factors, or things the group thought were important in estimating
+the number of intelligent and contactable civilizations. Because
+they had no evidence for what values to give any of these factors,
+they guessed. Or, to be more precise, they came up with order of
+magnitude estimates.
+At that first meeting of what came to be known as the Order of
+the Dolphin (the group had a somewhat offbeat sense of humor),
+they estimated that there were probably between a thousand and a
+hundred million intelligent civilizations in our galaxy alone. Even
+allowing for the rather large range, this is a massive number. And
+this is in just one of the hundreds of billions of galaxies in the
+universe. Since then, the Drake Equation has been modified and
+new estimates for the various factors made. But the reality remains
+that, even with conservative estimates, the galaxy we live in is
+so vast that it is almost inconceivable that the conditions haven’t
+occurred elsewhere for intelligent life to evolve.
+To Sagan, Drake, and others, this back-of-the-envelope estimate
+drove their belief that we are not alone. Indeed, it plays into Sagan
+stating that, “The universe is a pretty big place. If it’s just us, seems
+like an awful waste of space” (something that both Ellie and her
+father repeat in Contact). The professional and scientific intuition
+of the Order of the Dolphin suggested that intelligent life existed
+beyond Earth, and all that was needed to prove it was the evidence
+that would inevitably come from better science.
+We’re still looking for the evidence that Sagan hoped for. But
+over the past few years, there have been profound changes in
+our understanding of the universe that have gotten us closer to
+realizing that we are probably not alone. And topping these out is
+the discovery of large numbers of planets circling other suns in the
+galaxy, or “exoplanets.”
+
+Contact: Living By More Than Science Alone
+
+within our galaxy that are capable of communicating with us. Over
+a couple of intense days, the group discussed what factors would
+affect the possibility of planets existing that could harbor intelligent
+life, the likelihood of intelligence emerging, and the chances of them
+getting a signal to us that we detected. And what emerged was the
+now-famous Drake Equation.
+
+The earliest evidence for exoplanets dates back to the 1980s. But
+the game-changer came when NASA launched the Kepler space
+observatory in 2009. Kepler enabled the search for planets around
+distant stars by measuring reductions in light from these far-off
+suns as orbiting planets came between the star and the Earth.
+And the results were eye-popping. At the time of writing, NASA’s
+exoplanet exploration program had confirmed the existence of over
+3,700 exoplanets in the galaxy, with more than 4,400 additional
+possible candidates.
+But that’s not all. So far, over eight hundred of those planets could
+be similar to Earth.
+To someone who grew up reading science fiction and studying
+science, this is a jaw-dropping discovery. And we’ve only just started
+on this scientific journey. We are just beginning to realize that we
+live in a universe that’s rich with Earth-like planets which could be
+home to living organisms, and possibly, intelligent life.
+Sadly, Sagan died in 1996—a year before Contact was released,
+and thirteen years before Kepler was launched. But had he been
+alive, he would have been thrilled at how the scales are beginning
+to tip toward the likelihood of life existing elsewhere. Yet, even if
+the universe is teeming with life, the possibilities of us detecting
+alien beings are small, given the times and distances involved.
+The chances of making contact with an alien intelligence are even
+smaller. For distant stars, there’s a good chance that if we ever did
+receive a signal, the beings that sent it would have long since moved
+on. Yet this convergence between dreams and science does shine a
+spotlight on the question of what we would do if we did discover
+alien intelligence, and how our world would change as a result.
+I must confess, I have a sneaky suspicion that it would be a sevenday wonder; a “that’s nice—what’s for dinner” type of event. And the
+reason is simply that, in my experience, we humans have a nearinfinite inability to remain awed by new discoveries.
+This may sound a little cynical, but just think of how quickly the
+awesome becomes the mundane in our lives. Start with the mindblowing biology that makes us what we are, the unimaginable
+vastness of the universe, the majesty of our neighboring planets, the
+incredible ingenuity of nature. And then there are the inventions that
+we rely on every day: Cars, planes, smartphones, computers, modern
+agriculture. We live in a stunning, awe-inspiring, pretty damn
+
+This amazing ability to go from “wow” to “meh” in a matter of days
+turns out to be a really important survival mechanism. Without it,
+we’d all be walking around with our mouths open, forgetting to look
+where we’re going. Because of this, I suspect that we’ll see the same
+wow-to-meh trend if we ever detect evidence of alien intelligence.
+Sure, such a discovery will be life-changing to start with, at least
+until the next seven-day wonder comes along. But soon, the
+everyday realities of life will swamp the larger significance of the
+discovery, much as they swamp the discovery that, unless we change
+how we behave, the earth’s climate’s going to overheat, or that we’re
+building urban sprawls in areas prone to environmental disasters, or
+that our eating habits are slowly killing us.
+Of course, there is the question of how such a discovery would
+affect religious beliefs, and organized religion more broadly. Among
+intellectuals who like to think about these things, the question of
+what happens if we threaten God’s existence, either through our
+own inventions or through the discovery that we’re not special,
+is an important one. It’s so important, in fact, that academics love
+to speculate about what people think about the risks of “playing
+God” (if we’re creating life in the lab), or “debunking God” (if we
+discover that we’re not special). But even here, I suspect that the
+religious response to a signal from the stars will ultimately be
+somewhat ambivalent. In part, I think this will be the case because
+previous indications of life beyond Earth haven’t had that much of
+an impact, even before they’ve been disproved. But mainly I suspect
+that this will be because religious beliefs, like people, are incredibly
+adaptable to the reality they exist in.
+This is, of course, all highly speculative. Assuming that we are not
+alone, the sheer vastness of the universe does make it unlikely
+that a signal from another intelligence will reach us before we’ve
+blown ourselves up or suffered some equally gruesome fate. But, at
+the same time, the question of how we might react to discovering
+we’re not the only life around is a profoundly important one, not
+necessarily because of the possibility of life existing beyond Earth,
+but because we’re edging closer to creating our own “aliens” here on
+Earth. Whether through genetic engineering, AI, or advanced human
+augmentation, it’s quite possible that we’ll one day be faced with
+something that has not evolved in the conventional way, and yet is,
+in every way, alive.
+
+Contact: Living By More Than Science Alone
+
+amazing world, with a million and one things that are just as mindblowing as discovering aliens. And yet most of us simply don’t care.
+
+The question is, when we do reach this technological
+breakthrough—and we’re well on the way to achieving this—how
+will we respond to these home-grown “aliens”?
+My fear is that these will be yet another passing wonder. If so,
+this would be a problem, for two reasons. First, while we may be
+ambivalent toward claims that someone’s created an artificial cell/
+plant/animal, or that they’ve developed a smarter/more intelligent
+computer, these will change our lives. And the less the majority of us
+care about this, the more we give those that do care the opportunity
+to do what they like, even if it ends up harming us. It’s all well and
+good hoping that scientists and technologists act responsibly. But
+responsibility here also means that we collectively need to give a
+damn about the future we’re creating, and whether it’s the future we
+want for ourselves and for generations to come.
+This is important—it’s partly why I wrote this book. But there is a
+second problem. This is the risk of us slipping into complacency,
+and not reveling in the awe and wonder of the world we’re
+building. Because, make no mistake, our scientists, engineers, and
+technologists are catching up with the wild imaginations of science
+fiction movie writers and directors awfully fast. If you open your
+eyes and really look at what we are achieving, it’s truly mindblowing!
+Contact—and every other movie in this book—is a reminder that
+science and technology are more than a little dangerous if not
+approached carefully, and that a “meh” response probably isn’t
+the best strategy for handling them. But it’s also a reminder of the
+awesomeness of science and technology, and what we can achieve
+if we get things right. And it’s an exhortation to never let go of our
+dreams, and to embrace the wonder that comes from exploring the
+universe we find ourselves in.
+
+
+[^177]: I may be slipping into hyperbole here, but over the years talking with colleagues, this is the movie that often comes out as most closely reflecting how they feel about science, and how it inspires them.
+
+[^178]: A lot has been written about how our cognitive biases and mental shortcuts affect what we believe and how we behave, including how we respond to information that jars with what we believe to be true. Two good starting points for beginning to explore this area are Daniel Kahneman’s 2013 book, “Thinking Fast and Slow” (published by Farrar, Straus and Giroux), and the 2017 US National Academy of Sciences report, “Communicating Science Effectively” (published by the National Academies Press), https://www.nap.edu/catalog/23674/communicating-science-effectively-a-researchagenda.

@@ -1,0 +1,51 @@
+## Mind Uploading and Consciousness Transfer
+
+Could you transfer your mind to a computer and live forever? It is one of the most audacious ideas in the transhumanist vision of the future, and it sits at the intersection of neuroscience, artificial intelligence, and philosophy. *Films from the Future* uses the movie *Transcendence* to explore this concept, and in doing so, exposes just how far the gap stretches between the dream and the science.
+
+### What Is Mind Uploading?
+
+Mind uploading, sometimes called whole brain emulation, is the hypothetical process of scanning the complete structure and activity of a human brain and reproducing it in a digital substrate. The idea is that if consciousness arises from the particular arrangement and activity of neurons, then a sufficiently detailed digital copy of that arrangement should produce the same consciousness in a computer.
+
+The concept depends on several assumptions, each of which is contested. First, it assumes that consciousness is entirely a product of neural structure and activity, with no essential ingredient that is non-physical. Second, it assumes that we can scan a brain at sufficient resolution to capture everything that matters. Third, it assumes that the resulting digital replica would experience subjective consciousness, not just simulate the outward behaviors of a conscious being.
+
+Each of these assumptions raises profound questions. We do not yet have a scientific consensus on what consciousness is, let alone a theory that would allow us to predict whether a digital copy of a brain would be conscious. The computational requirements for simulating a complete human brain are staggering, perhaps billions of times beyond current capabilities. And even if we could create such a simulation, there is no agreed-upon way to determine whether the result is genuinely aware or merely an extremely convincing imitation.
+
+### How the Book Explores It
+
+*Films from the Future* (Chapter 9) uses *Transcendence* to explore mind uploading and its implications. In the 2014 film, AI researcher Will Caster is dying, and his colleagues race to upload his consciousness into a revolutionary computer system. They succeed, and the digital Caster begins to expand his intelligence, eventually merging with nanotechnology and biotechnology to achieve powers that border on the divine.
+
+The book is clear-eyed about the science. The technology depicted in *Transcendence* is not just beyond current capabilities; it relies on assumptions about consciousness, computation, and biology that may never be validated. But the film serves as a useful vehicle for exploring the ideas that drive the transhumanist movement, particularly the conviction that technology can and should be used to transcend the limitations of biology.
+
+The chapter discusses Ray Kurzweil's singularity hypothesis, which envisions mind uploading as a stepping stone to immortality, and connects it to similar ideas in the Raelian movement (discussed in the context of cloning in Chapter 3). The book suggests that while these visions are fascinating, they depend on chains of assumptions so long and so untested that they warrant skepticism. Occam's Razor, introduced in the Contact chapter, is a useful tool here: the more assumptions a prediction requires, the less likely it is to unfold as described.
+
+### Where Things Stand Today
+
+Neuroscience has made significant progress in mapping brain structures and understanding neural circuits. Projects like the Human Connectome Project aim to create comprehensive maps of the brain's wiring. Brain-computer interfaces are enabling direct communication between neural tissue and digital systems. And computational neuroscience is building increasingly sophisticated models of neural activity.
+
+But the gap between these achievements and anything resembling mind uploading remains vast. We can map neural connections, but we do not understand how the pattern of those connections gives rise to subjective experience. We can simulate small neural circuits, but simulating a complete brain is orders of magnitude beyond current computing capacity. And the philosophical question of whether a digital copy of a brain would be "you," or merely something that behaves like you, remains entirely unresolved.
+
+### Why It Matters
+
+Mind uploading matters less as a near-term possibility and more as a lens for examining some of the deepest questions about human identity. If a perfect digital copy of your brain existed, would it be you? Would it have rights? Would the original and the copy be the same person, or two different people? These are not just philosophical puzzles. They are questions that, in less extreme forms, are already arising from technologies like brain-computer interfaces and AI systems that can mimic human behavior.
+
+The book uses mind uploading to illustrate a broader point about the importance of grounding technological speculation in reality. The dream of digital immortality is compelling, and it drives real investment and research. But confusing the dream with the science can lead to misallocated resources, distorted priorities, and a failure to address the more immediate and more tractable challenges that emerging technologies present.
+
+At the same time, dismissing the idea entirely would mean ignoring the genuine advances in neuroscience and computing that are expanding our understanding of the brain. The key, as always, is to hold possibility and skepticism in balance, pursuing ambitious goals while maintaining the intellectual discipline to distinguish what we know from what we wish were true.
+
+### Explore Further
+
+- [Brain-Computer Interfaces](/est_brain_computer_interfaces.html) — the current technology closest to the brain-machine boundary
+- [Superintelligence](/est_superintelligence.html) — the broader vision of transcending human cognitive limits
+- [Artificial Intelligence](/est_artificial_intelligence.html) — the computational foundation for any mind-uploading scenario
+- [Human Dignity and What Makes Us Human](/rei_human_dignity.html) — what identity means when consciousness can be copied
+- [Hype vs. Reality and Occam's Razor](/ntf_hype_vs_reality.html) — evaluating extraordinary technological claims
+
+## Further Reading
+
+- [Are We Living in a Foveated Reality? — Andrew Maynard (Future of Being Human, December 2025)](https://www.futureofbeinghuman.com/p/are-we-living-in-a-foveated-reality) — Maynard explores how our brains use foveation — rendering only what we directly observe in high definition — and asks whether the universe itself could operate on the same principle, connecting simulation theory, quantum physics, and the nature of conscious experience to questions about whether consciousness could exist within a computational substrate.
+- [Welcome to the Singularity — Moviegoer's Guide to the Future (Future of Being Human)](https://www.futureofbeinghuman.com/p/welcome-to-the-singularity) — Andrew Maynard uses *Transcendence* to examine mind uploading, the singularity hypothesis, and the chain of assumptions connecting current neuroscience to the dream of digital consciousness, applying rigorous skepticism to extraordinary claims while acknowledging the genuine advances driving the conversation.
+- [State of Brain Emulation Report 2025 — Schons et al. (arXiv, October 2025)](https://arxiv.org/abs/2510.15745) — The most comprehensive update since Sandberg and Bostrom's 2008 roadmap, surveying progress across neural dynamics recording, connectomics, and computational neuroscience. Complete connectomes now exist for small organisms, the bottleneck has shifted from data collection to functional validation, and the report estimates fewer than 500 people globally work directly on brain emulation.
+- [Consciousness Science: Where Are We, Where Are We Going, and What If We Get There? — Cleeremans, Mudrik & Seth, *Frontiers in Science* (October 2025)](https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1546279/full) — A landmark review by three leading consciousness researchers including Anil Seth, surveying adversarial collaborations testing Integrated Information Theory against Global Workspace Theory. The authors argue consciousness science is no longer purely philosophical and has urgent implications for AI ethics and how we understand ourselves.
+- [From Structure to Self: Philosophy of Mind as the Key to Brain Emulation — Randal Koene (Carboncopies Foundation, 2025)](https://carboncopies.org/Research/Roadmap/Articles/assets/koene2025_FromStructuretoSelf.pdf) — A central figure in whole brain emulation research examines how foundational choices in philosophy of mind determine whether an emulation preserves personal identity or merely produces a functional replica, directly addressing the copy problem, consciousness in artificial systems, and the ethics of discarding imperfect emulations.
+- [The Problem of Smith: When Mind Uploading Multiplies Identity — Tyler Bauer (*Mind Matters*, October 2025)](https://mindmatters.ai/2025/10/the-problem-of-smith-when-mind-uploading-multiplies-identity/) — A thought experiment that vividly illustrates the copy problem: if a technician downloads Smith's mind pattern into two identical bodies, both wake up convinced they are the real Smith. Bauer uses this to critique Kurzweil's claim that gradual neuron replacement preserves identity while instant copying does not.
+- [All the Connections — MIT McGovern Institute (December 2025)](https://mcgovern.mit.edu/2025/12/15/all-the-connections/) — Profiles the work of Sven Dorkenwald, who spearheaded the FlyWire consortium that completed the full fruit fly brain connectome in 2024 and is now developing AI tools to scale connectomics toward a mouse brain map within 10-15 years — the practical frontier of brain mapping that would be prerequisite for any whole brain emulation.

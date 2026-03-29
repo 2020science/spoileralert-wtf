@@ -1,0 +1,905 @@
+# Chapter 10: The Man in the White Suit — Living in a Material World
+
+*From Films from the Future: The Technology and Morality of Sci-Fi Movies by Andrew Maynard*
+
+---
+
+“Why can’t you scientists leave things alone? What
+about my bit of washing, when there’s no washing
+to do?”
+—Mrs. Watson
+
+## There’s Plenty of Room at the Bottom
+In 2005, protesters from the group THONG (Topless Humans
+Organized for Natural Genetics) paraded outside the Eddie Bauer
+store in Chicago.[^142] They were protesting a relatively new line of
+merchandise being offered by the store: “nano pants.” It was never
+quite clear why the protesters were topless, although it did make the
+event memorable. But it did allow a crude but clever appropriation
+of the title of a 1959 lecture given by the physicist Richard Feynman.
+At least one of the protesters had an arrow drawn on their back
+pointing to their nether regions, along with the title of Feynman’s
+talk, “There’s plenty of room at the bottom.”
+Eddie Bauer’s nano pants used Nanotex®, a nanoscale fabric
+coating that make the pants water-repellent and stain-resistant.
+By enveloping each fiber with a nanoscopically thin layer of
+water-repellent molecules, the nano pants took on the seemingly
+miraculous ability to shed water, coffee, wine, ketchup, and
+many other things that people tend to inadvertently spill on
+themselves without leaving a stain. It was a great technology for
+the congenitally messy. But because it was marketed as being a
+
+product of nanotechnology, there were concerns in some quarters—
+including the THONG protesters—that putting such a cutting-edge
+technology in consumer products might lead to new, unexpected,
+and potentially catastrophic risks.
+Sadly for THONG, the 2005 protest failed spectacularly. Rather than
+consumers being warned off Eddie Bauer’s nano pants, there was
+an uptick in sales, probably because, for most people, the benefits
+of avoiding brown coffee stains were rather more attractive than
+speculative worries about a dystopian nano-future. And to be honest,
+the chance of this technology (which in reality wasn’t that radical)
+leading to substantial harm was pretty negligible.
+The nano pants incident was, in some ways, a preemptive parody
+of Transcendence, with the existential threat of nanobots being
+replaced with stain-resistant clothing, and the neo-Luddites trying
+to save the world being played by a bunch of topless protesters.
+Yet both the protest and the technology touched on the oftenmundane reality of modern nanotechnology, and the complex ways
+in which seemingly beneficial inventions can sometimes threaten the
+status quo.
+As if to support the theory that there’s nothing new under the sun,
+the 1951 movie The Man in the White Suit in turn foreshadowed
+both the technology and the concerns that played out in that 2005
+Chicago protest.
+
+The Man in the White Suit was made in 1951, and is, remarkably,
+a movie about stain-resistant pants. But more than this, it’s a
+movie about the pitfalls of blinkered science and socially unaware
+innovation. And while it is not a movie about nanotechnology per
+se, it is remarkably prescient in how it foreshadows the complex
+social and economic dynamics around nanotechnology, and
+advanced materials more generally.
+The movie is set in the textile mills of the early- to mid-1900s
+North of England. This was a time when the burgeoning science of
+chemical synthesis was leading to a revolution in artificial textiles.
+Nylon, Draylon, and other manmade materials were becoming
+increasingly important commodities, and ones that were emerging
+from what was then cutting-edge science. Spurred on by these
+advances, mill owners continued to search for new materials that
+would give them an edge in a highly competitive market. These
+
+In the early days of the Industrial Revolution, there was what now
+seems like a remarkable separation between the academic world
+of science and the more practically oriented world of engineering.
+Innovators in the Industrial Revolution largely learned by trial
+and error and relied heavily on the art and craft of engineering.
+Human ingenuity and inventiveness enabled new discoveries to be
+translated into powerful and practical new technologies, yet rigorous
+scientific research was not typically a large part of this.
+In the late nineteenth and early twentieth century, though, it became
+apparent that, by using a more scientific methodology based on
+predictive laws, models, and associations, companies could make
+breakthroughs that far exceeded the limitations of invention by mere
+trial and error. At the same time, the social legacy of the Luddite
+movement was still alive and kicking in the North of England, and
+there was a strong labor movement that doggedly strove to protect
+the rights of workers and ensure that new technologies didn’t sweep
+jobs and people aside quite as indiscriminately as it had done a
+century or so earlier.
+Against this backdrop, The Man in the White Suit introduces us
+to Sidney Stratton (played by Alec Guinness), a self-absorbed
+chemist who is convinced he has the key to an amazing new fabric,
+and simply needs the space and equipment to test and develop
+his theories. Stratton could have had a glittering career at a top
+university, but he was shunned by his academic colleagues for his
+radical and obsessive ideas. So instead, he insinuates himself into
+an industrial lab, where he can carry out his research with relatively
+little interference. Everything goes swimmingly until the owner of
+the factory he’s working at starts to ask awkward questions.
+Stratton is something of a lone genius.[^143] He despises the lack
+of imagination he sees in his more conventionally-minded and
+institutionalized colleagues and prefers to work on his own. His
+strategy of carving out some personal space in an industrial lab
+seems to be working, until it’s realized that no one can explain
+
+textile mills were rooted in an Industrial Revolution that had started
+nearly two hundred years earlier. Yet they marked a tipping point
+from using try-it-and-see engineering in manufacturing to relying on
+predictive science in the development of new products.
+
+exactly what it is he’s doing, and why his research is costing the
+company so much.
+As his proclivity for spending company resources on unfathomable
+research is discovered, Stratton is dismissed. But, intent on pursuing
+his science, he gets a job at a competing firm; not as a scientist,
+but as a porter. From here, he finds a way to secretly conduct his
+research in the company’s lab. At this point we’re introduced to
+Bertha (Vida Hope), a union rep who assumes Stratton is a laborer
+like herself, and who is fiercely committed to protecting his labor
+rights as a result.
+As Stratton works at his double life, the lab takes delivery of a
+smart new electron microscope.[^144] While the rest of the scientists
+are struggling to make sense of this complex piece of equipment,
+Stratton can’t resist showing off and explaining how to use it. As
+a result, he’s mistaken for an expert from the electron microscope
+supplier, and is taken on by the textile company to run the
+instrument. And in the process, he gets full and unfettered access to
+the lab.
+Stratton’s double life as a laborer and an illicit lab scientist
+works out rather well for him, despite Bertha’s suspicions that
+the management are taking advantage of him. That is, until he’s
+recognized as the formerly-disgraced scientist by the company
+director’s daughter, Daphne (played by Joan Greenwood).
+Worried that Sidney’s up to his old tricks of spending the company
+profits on indecipherable experiments, she rushes to inform her
+father. But before she gets to him, Sidney manages to persuade
+her that he’s onto something. Intrigued, Daphne reads up on her
+chemistry, and realizes that he could be right.
+Daphne allows Sidney to continue his work, and with her support,
+he successfully synthesizes the material he’s been striving for: a
+super-strong synthetic thread that never wears out and never gets
+dirty.
+In Stratton’s scientist-brain, this breakthrough is going to transform
+the world. He assumes that people are sick of washing, mending,
+and replacing their clothes, and that his invention will liberate
+them. He dreams of a future where you only need to buy one set of
+clothes—ever. In Stratton’s head, what’s good for him is also good
+
+But there’s a problem—several, as it turns out. And one of the
+biggest is that Sidney never thought to ask anyone else what they
+wanted or needed.
+Stratton is so excited by his discovery that he rushes to the company
+director Alan Birnley’s home to give him the good news. What
+he doesn’t know is that Birnley (played by Cecil Parker) has just
+learned that Stratton has been blowing through the company’s R&D
+budget. Birnley refuses to listen to Stratton, and instead sacks him.
+However, Daphne points out that her father has just waved goodbye
+to one of the biggest discoveries ever made in the textile world,
+and Stratton is persuaded to come back and work for him. In the
+meantime, word of the discovery has leaked out, and everything
+begins to fall apart.
+While Birnley is fixated on the short-term profits he’s going to make
+off of Stratton’s invention, others in the textile industry realize that
+this is not going to end well. They need their products to wear out
+and need replacing if they’re to stay in business, and the very last
+thing they need is clothes that last forever. So they hatch a plan to
+persuade Stratton to sign over the rights to his invention, so they
+can bury it.
+To make matters worse, it quickly becomes apparent that the mill
+owners and their investors aren’t the only ones who stand to lose
+from Sidney’s invention. If the industry collapsed because of his
+new textile, the workforce would be out on the streets. And so, in
+a Luddite-like wave of self-interest, they also set about challenging
+Sidney, not because they are anti-science, but because they are prohaving jobs that pay the bills.
+The more people hear about Stratton’s invention, the more they
+realize that this seemingly-great discovery is going to make life
+harder for them. Even Sidney’s landlady plaintively asks, “Why can’t
+you scientists leave things alone? What about my bit of washing,
+when there’s no washing to do?” In his naïvety, it becomes clear that
+Stratton didn’t give a second thought to the people he claimed he
+was doing his research for, and, as a result, he hits roadblocks he
+never imagined existed.
+As everything comes to a head, Sidney finds himself in his white
+suit, made of the new indestructible, unstainable cloth, being chased
+
+for everyone, and a world without the messiness of buying, washing,
+and looking after clothes is definitely one that he’s excited about.
+
+by manufacturers, laborers, colleagues, and pretty much everyone
+else who has realized that what they really cannot abide, is a smartass scientist who didn’t think to talk to them before doing research
+he claimed was for their own good.
+Just as he’s cornered by the mob, Sidney discovers the full extent of
+his hubris. Far from being indestructible, his new fabric has a fatal
+flaw. His wonder material is unstable, and after a few days, it begins
+to disintegrate. And so, in front of the crowd, his clothes begin
+to quite literally fall apart. Scientific hubris turns to humility and
+ridicule, and everyone but Stratton leaves secure in the knowledge
+that, clever as they might be, scientists like Sidney are, at the end of
+the day, not particularly smart.
+And Stratton? His pride is dented, but not his ambition—nor
+his scientific myopia, it would seem. In an admirable display of
+disdain for learning the lessons of his social failures, he begins
+work on fixing the science he got wrong in his quest to create the
+perfect fabric.
+
+The Man in the White Suit admittedly feels a little dated these days,
+and, even by 1950s British comedy standards, it’s dry. Yet the movie
+successfully manages to address some of the biggest challenges we
+face in developing socially responsible and responsive technologies,
+including institutional narrow-mindedness, scientific myopia and
+hubris, ignorance over the broader social implications, human greed
+and self-interest, and the inevitability of unintended outcomes. And
+of course, it’s remarkably prescient of Eddie Bauer’s nano pants
+and the protests they inspired. And while the movie uses polymer
+chemistry as its driving technology, much of it applies directly to the
+emerging science of nanoscale design and engineering that led to
+the nano pants, and a myriad other nanotechnology-based products.
+
+## Mastering the Material World
+On December 29, 1959, the physicist Richard Feynman gave a talk
+at the annual meeting of the American Physical Society, which
+was held that year at the California Institute of Technology. In his
+opening comments, Feynman noted:
+
+“What I want to talk about is the problem of manipulating and
+controlling things on a small scale.”[^145]
+
+Feynman was intrigued with what could be achieved if we could
+only manipulate matter at the scale of individual atoms and
+molecules. At the time, he was convinced that scientists and
+engineers had barely scratched the surface of what was possible
+here, so much so that he offered a $1,000 prize for the first person
+to work out how to write out a page of a book in type so minuscule
+it was at 1:25,000 scale.[^146]
+Feynman’s talk didn’t garner that much attention at first. But, over
+the following decades, it was increasingly seen as a milestone
+in thinking about what could be achieved if we extended our
+engineering mastery to the nanometer scale of atoms and molecules.
+In 1986, Eric Drexler took this up in his book Engines of Creation
+and popularized the term “nanotechnology.” Yet it wasn’t until the
+1990s, when the US government became involved, that the emerging
+field of nanotechnology hit the big-time.
+What intrigued Feynman, Drexler, and the scientists that followed
+them was the potential of engineering with the finest building
+blocks available, the atoms and molecules that everything’s made
+of (the “base code” of physical materials, in the language of
+chapter nine). As well as the finesse achievable with atomic-scale
+
+“I would like to describe a field, in which little has been done,
+but in which an enormous amount can be done in principle.
+This field is not quite the same as the others in that it will not
+tell us much of fundamental physics (in the sense of, “What are
+the strange particles?”) but it is more like solid-state physics
+in the sense that it might tell us much of great interest about
+the strange phenomena that occur in complex situations.
+Furthermore, a point that is most important is that it would
+have an enormous number of technical applications.
+
+engineering,[^147] scientists were becoming increasingly excited by
+some of the more unusual properties that matter exhibits at the
+nanoscale, including changes in conductivity and magnetism, and
+a whole range of unusual optical behaviors. What they saw was an
+exciting new set of ways they could play with the “code of atoms” to
+make new materials and products.
+In the 1980s, this emerging vision was very much in line with
+Drexler’s ideas. But in the 1990s, there was an abrupt change
+in direction and expectations. And it occurred at about the time
+the US federal government made the decision to invest heavily
+in nanotechnology.
+In the 1990s, biomedical science in the US was undergoing
+something of a renaissance, and federal funding was flowing freely
+into the US’s premier biomedical research agency, the National
+Institutes of Health. This influx of research funding was so
+prominent that scientists at the National Science Foundation—NIH’s
+sister agency—worried that their agency was in danger of being
+marginalized. What they needed was a big idea, one big enough
+to sell to Congress and the President as being worthy of a massive
+injection of research dollars.
+Building on the thinking of Feynman, Drexler, and others, the NSF
+began to develop the concept of nanotechnology as something they
+could sell to policy makers. It was a smart move, and one that was
+made all the smarter by the decision to conceive of this as a crossagency initiative. Smarter still was the idea to pitch nanotechnology
+as a truly interdisciplinary endeavor that wove together emerging
+advances in physics, chemistry, and biology, and that had something
+for everyone in it. What emerged was a technological platform that
+large numbers of researchers could align their work with in some
+way, that had a futuristic feel, and that was backed by scientific and
+business heavyweights. At the heart of this platform was the promise
+that, by shaping the world atom by atom, we could redefine our
+future and usher in “the next Industrial Revolution.”[^148]
+This particular framing of nanotechnology caught on, buoyed up by
+claims that the future of US jobs and economic prosperity depended
+
+Eighteen years later, the NNI is still going strong. As an initiative, it
+has supported some incredible advances in nanoscale science and
+engineering, and it has led the growth of nanotechnology the world
+over. Yet, despite the NNI’s successes, it has not delivered on what
+Eric Drexler and a number of others originally had in mind. Early
+on, there was a sharp and bitter split between Drexler and those
+who became proponents of mainstream nanotechnology, as Drexler’s
+vision of atomically precise manufacturing was replaced by more
+mundane visions of nanoscale materials science.
+With hindsight, this isn’t too surprising. Drexler’s ideas were bold
+and revolutionary, and definitely not broadly inclusive of existing
+research and development. In contrast, because mainstream
+nanotechnology became a convenient way to repackage existing
+trends in science and engineering, it was accessible to a wide range
+of researchers. Regardless of whether you were a materials scientist,
+a colloid chemist, an electron microscopist, a molecular biologist, or
+even a toxicologist, you could, with little effort, rebrand yourself as
+a nanotechnologist. Yet despite the excitement and the hype—and
+some rather Transcendence-like speculation—what has come to be
+known as nanotechnology actually has its roots in early-twentiethcentury breakthroughs.
+
+In 1911, the physicist Earnest Rutherford proposed a novel model of
+the atom. Drawing on groundbreaking experiments from a couple of
+years earlier, Rutherford’s model revolutionized our understanding
+of atoms, and underpinned a growing understanding of, not only
+how atoms and molecules come together to make materials, but how
+their specific arrangements affect the properties of those materials.
+Building on Rutherford’s work, scientists began to develop
+increasingly sophisticated ways to map out the atomic composition
+and structure of materials. In 1912, it was discovered that the regular
+arrangement of atoms in crystalline materials could diffract X-rays
+in ways that allowed their structure to be deduced. In 1931, the
+
+on investing in it. In 2000, President Clinton formed the US National
+Nanotechnology Initiative, a cross-agency initiative that continues
+to oversee billions of dollars of federal research and development
+investment in nanotechnology.[^149]
+
+first electron microscope was constructed. By the 1950s, scientists
+like Rosalind Franklin were using X-rays to determine the atomic
+structure of biological molecules. This early work on the atomic and
+molecular makeup of materials laid the foundations for the discovery
+of DNA’s structure, the emergence of transistors and integrated
+circuits, and the growing field of materials science. It was a heady
+period of discovery, spurred on by the realization that atoms, and
+how they’re arranged, are the key to how materials behave.
+By the time Feynman gave his lecture in 1959, scientists were well
+on the way to understanding how the precise arrangement of atoms
+in a material determines what properties it might exhibit. What they
+weren’t so good at was using this emerging knowledge to design
+and engineer new materials. They were beginning to understand
+how things worked at the nano scale, but they still lacked the tools
+and the engineering dexterity to take advantage of this knowledge.
+This is not to say that there weren’t advances being made in
+nanoscale engineering at the time—there were. The emergence
+of increasingly sophisticated synthetic chemicals, for instance,
+depended critically on scientists being able to form new molecules
+by arranging the atoms they were made of in precise ways, and, in
+the early 1900s, scientists were creating a growing arsenal of new
+chemicals. At the same time, scientists and engineers were getting
+better at making smaller and smaller particles, and using some of
+the convenient properties that come with “smallness,” like adding
+strength to composite materials and preventing powders from
+caking. By the 1950s, companies were intentionally manufacturing
+a range of nanometer-scale powders out of materials like silicon
+dioxide and carbon.
+As the decades moved on, materials scientists became increasingly
+adept at manufacturing nanoscopically small particles with precisely
+designed properties, especially in the area of catalysts. Catalysts
+work by increasing the speed and likelihood of specific chemical
+reactions taking place, while reducing the energy needed to initiate
+them. From the early 1900s, using fine particles as catalysts—socalled heterogeneous catalysts—became increasingly important in
+industry, as they slashed the costs and energy overheads of chemical
+processing. Because catalytic reactions occur at the surface of these
+particles, the smaller the particles, the more overall surface area
+there is for reactions to take place on, and the more effective the
+catalyst is.
+
+As scientists began to understand how particle size changes
+material behavior, they began developing increasingly sophisticated
+particle-based catalysts that were designed to speed up reactions
+and help produce specific industrial chemicals. But they also began
+to understand how the precise atomic configuration of everything
+around us affects the properties of materials, and can in principle be
+used to design how a material behaves.
+This realization led to the field of materials science growing rapidly
+in the 1970s, and to the emergence of novel electronic components,
+integrated circuits, computer chips, hard drives, and pretty much
+every piece of digital gadgetry we now rely on. It also paved the
+way for the specific formulation of nanotechnology adopted by
+the US government and by governments and scientists around the
+world.
+In this way, the NNI successfully rebranded a trend in science,
+engineering, and technology that stretched back nearly one hundred
+years. And because so many people were already invested in
+research and development involving atoms and molecules, they
+simply had to attach the term “nanotechnology” to their work, and
+watch the dollars flow. This tactic was so successful that, some years
+ago, a colleague of mine cynically defined nanotechnology as “a
+fourteen-letter fast track to funding.”
+Despite the cynicism, “brand nanotechnology” has been
+phenomenally successful in encouraging interdisciplinary research
+and development, generating new knowledge, and inspiring a new
+generation of scientists and engineers. It’s also opened the way to
+combining atomic-scale design and engineering with breakthroughs
+in biological and cyber sciences, and in doing so it has stimulated
+technological advances at the convergence of these areas. But “brand
+
+This led to increasing interest in creating nanometer-sized catalytic
+particles. But there was another advantage to using microscopically
+small particles in this way. When particles get so small that they
+are made of only a few hundred to a few thousand atoms, the
+precise arrangement of the atoms in them can lead to unexpected
+behaviors. For instance, some particles that aren’t catalytic at larger
+sizes become catalytic at the nano scale. Other particles interact
+with light differently; gold particles, for instance, appear red below a
+certain size. Others still can flip from being extremely inert to being
+highly reactive.
+
+nanotechnology” is most definitely not what was envisioned by Eric
+Drexler in the 1980s.
+
+The divergence between Drexler’s vision of nanotechnology and
+today’s mainstream ideas goes back to the 1990s and a widely
+publicized clash of opinions between Drexler and chemist Richard
+Smalley.[^150] Where Drexler was a visionary, Smalley was a pragmatist.
+More than this, as the co-discoverer of the carbon-60 molecule (for
+which he was awarded the Nobel Prize in 1996, along with Robert
+Curl and Harry Kroto) and a developer of carbon nanotubes (a
+highly novel nanoscale form of carbon), he held considerable sway
+within established scientific circles. As the US government’s concept
+of nanotechnology began to take form, it was Smalley’s version that
+won out and Drexler’s version that ended up being sidelined.
+Because of this, the nanoscale science and engineering of today
+looks far more like the technology in The Man in the White Suit
+than the nanobots in Transcendence. Yet, despite the hype behind
+“brand nano,” nanoscale science and engineering is continuing to
+open up tremendous opportunities, and not just in the area of stainresistant fabrics. By precisely designing and engineering complex,
+multifunctional particles, scientists are developing new ways to
+design and deliver powerful new cancer treatments. Nanoscale
+engineering is leading to batteries that hold more energy per
+gram of material, and release it faster, than any previous battery
+technology. Nanomaterials are leading to better solar cells, faster
+electronics, and more powerful computers. Scientists are even
+programming DNA to create new nanomaterials. Hype aside, we are
+learning to master the material world, and become adept in coding
+in the language of atoms and molecules. But just as with Stratton’s
+wonder material, with many of these amazing breakthroughs that
+are arising from nanoscale science and engineering, there are also
+unintended consequences that need to be grappled with.
+
+## Myopically Benevolent Science
+In 2000, I published a scientific paper with the somewhat
+impenetrable title “A simple model of axial flow cyclone
+
+Like many scientists, I was much more wrapped up in the scientific
+puzzles I was trying to untangle than in how relevant the work was
+to others. Certainly, I justified the research by saying it could lead to
+better ways of protecting workers from inhaling dangerous levels of
+dust. If I was honest, though, I was more interested in the science
+than its outcomes. At the same time, I was quite happy to coopt
+a narrative of social good so that I could continue to satisfy my
+scientific curiosity.
+I suspect the same is true for many researchers. And this isn’t
+necessarily a bad thing. Science progresses because some people
+are driven by their curiosity, their desire to discover new things and
+to see what they can do with their new knowledge. While this is
+often inspired by making the world a better place or solving tough
+challenges, I suspect that it’s the process of discovery, or the thrill
+of making something that works, that keeps many scientists and
+engineers going.
+This is actually why I ended up pursuing a career in science. From
+a young age, I wanted to do something that would improve people’s
+lives (I was, I admit, a bit of an earnest child). But my true love
+was physics. I was awestruck by the insights that physics provided
+into how the universe works. And I was utterly enthralled by how
+a grasp of the mathematics, laws, and principles of physics opened
+up new ways of seeing the world. To me physics was—and still
+is—a disciplined way of thinking and understanding that is both
+awe-inspiring and humbling, revealing the beauty and elegance
+of the universe we live in while making it very clear that we are
+little more than privileged observers in the grand scheme of things.
+It challenged me with irresistible puzzles, and filled me with
+amazement as I made new discoveries in the process of trying to
+solve them. While I’ve always been mindful of the responsibility of
+
+performance under laminar flow conditions.” It was the culmination
+of two years’ research into predicting the performance of a new
+type of airborne dust sampler. At the time, I was pretty excited by
+the mathematics and computer modeling involved. But despite the
+research and its publication, I suspect that the work never had much
+impact beyond adorning the pages of an esoteric scientific journal.[^151]
+
+science to serve society, I must confess that it’s often the science
+itself that has been my deepest inspiration.
+Because of this, I have a bit of a soft spot for Sidney Stratton. This is
+someone who’s in love with his science. He’s captivated by the thrill
+of the scientific chase, as he uses his knowledge to solve the puzzle
+of a stronger, more durable textile. And while he justifies his work in
+terms of how it will improve people’s lives, I suspect that it’s really
+the science that’s driving him.
+Stratton is, in some ways, the epitome of the obsessed scientist.
+He captures the single-mindedness and benevolent myopia I see in
+many of my peers, and even myself at times. He has a single driving
+purpose, which is synthesizing a new polymer that he is convinced
+it’s possible to produce. He has a vague idea that this will be a
+good thing for society, and this is a large part of the narrative he
+uses to justify his work. But his concept of social good is indistinct,
+and rather naïve. We see no indication, for instance, that he’s ever
+considered learning about the people he’s trying to help, or even
+asking them what they want. Instead, he is ignorant of the people
+he claims his work is for. Rather than genuinely working with them,
+he ends up appropriating them as a convenient justification for
+doing what he wants.
+Not that Stratton wants to cause any harm—far from it. His
+intentions are quite well-meaning. And I suspect if he was
+interviewed about his work, he’d spin a tale about the need for
+science to make the world a better place. Yet he suffers from
+social myopia in that he is seemingly incapable of recognizing the
+broader implications of his work. As a result, he is blindsided when
+the industrialists he thought would lap up his invention want to
+suppress it.
+Real-life scientists are, not surprisingly, far more complex. Yet
+elements of this type of behavior are not that uncommon. And
+they’re not just limited to researchers.
+
+Some years back, I taught a graduate course in Entrepreneurial
+Ethics. The class was designed for engineers with aspirations to
+launch their own startup. Each year, we’d start the course talking
+about values and aspirations, and with very few exceptions, my
+students would say that they wanted to make the world a better
+place. Yes, they were committed to the technologies they were
+
+I then had them take part in an exercise where their task was to
+make as much profit from their classmates as possible, by creating
+and selling a piece of art. Each student started with a somewhat
+random set of raw materials to make their art from, together with
+a wad of fake money to purchase art they liked from others in the
+class. There were basically no rules to the exercise beyond doing
+whatever it took to end up with the most money. As an incentive,
+the winner got a $25 Starbucks voucher.
+Every year I ran this, some students found ethically “inventive” ways
+to get that Starbucks card—and this is, remember, after expressing
+their commitment to improving other people’s lives. Even though
+this was a game, it didn’t take much for participants’ values to fly
+out of the window in the pursuit of personal gain. One year, an
+enterprising student formed a consortium that was intended to
+prevent anyone outside it from winning the exercise, regardless of
+the creation of any art (they claimed the consortium agreement was
+their “art”). Another year, a student realized they could become an
+instant millionaire by photocopying the fake money, then use this to
+purchase their own art, thus winning the prize.
+In both of these examples, students who were either too
+unimaginative or too ethical to indulge in such behavior were
+morally outraged: How could their peers devolve so rapidly into
+ethically questionable behavior? Yet the exercise was set up to
+bring out exactly this type of behavior, and to illustrate how hard
+it is to translate good intentions into good actions. Each year, the
+exercise demonstrated just how rapidly a general commitment to the
+good of society (or the group) disintegrated into self-interest when
+participants weren’t self-aware enough, or socially aware enough, to
+understand the consequences of their actions.[^152]
+A similar tendency toward general benevolence and specific selfinterest is often seen in science, and is reflected in what we see
+in Stratton’s behavior. Most scientists (including engineers and
+technologists) I’ve met and worked with want to improve and
+enriches people’s lives. They have what I believe is a genuine
+commitment to serving the public good in most cases. And they
+freely and openly use this to justify their work. Yet surprisingly
+few of them stop to think about what the “public good” means, or
+
+developing, and to their commercial success, but they ultimately
+wanted to use these to help other people.
+
+to ask others for their opinions and ideas. Because of this, there’s
+a tendency for them to assume they know what’s good for others,
+irrespective of whether they’re right or not. As a result, too many
+well-meaning scientists presume to know what society needs,
+without thinking to ask first.
+This is precisely what we see playing out with Stratton in The Man
+in the White Suit. He firmly believes that his new polymer will make
+the world a better place. Who wouldn’t want clothes that never get
+dirty, that never need washing, that never need replacing? Yet at no
+point does Stratton show the self-reflection, the social awareness,
+the humility, or even the social curiosity, to ask people what they
+think, and what they want. If he had, he might have realized that his
+invention could spell economic ruin and lost jobs for a lot of people,
+together with social benefits that were transitory at best. It might
+not have curbed his enthusiasm for his research, but it might have
+helped him see how to work with others to make it better.
+Of course, modern scientists and technologists are more
+sophisticated than Stratton. Yet, time after time, I run into scientists
+who claim, almost in the same breath, that they are committed
+to improving the lives of others, but that they have no interest in
+listening to these people they are supposedly committing themselves
+to. This was brought home to me some years ago, when I was
+advising the US President’s Council of Advisors on Science and
+Technology (PCAST) on the safe and beneficial development of
+nanotechnology. In one meeting, I pushed the point that scientists
+need to be engaging with members of the public if they want to
+ensure that their work leads to products that are trusted and useful.
+In response, a very prominent scientist in the field replied rather
+tritely, “That sounds like a very bad idea.”
+I suspect that this particular scientist was thinking about the horrors
+of a presumed scientifically-illiterate public telling him how to do
+his research. Of course, he would be right to be horrified if he were
+expected to take scientific direction from people who aren’t experts
+in his particular field. But most people have a pretty high level
+of expertise in what’s important to them and their communities,
+and rather than expect members of the public to direct complex
+research, it’s this expertise that it is important to use in guiding
+research and development if naïve mistakes are to be avoided.
+The reality here is that scientists and technologists don’t have a
+monopoly on expertise and insights. For new technologies to have a
+
+## Never Underestimate the Status Quo
+Some time ago, I was at a meeting where an irate scientist turned to
+a room of policy experts and exclaimed, “I’m a scientist—just stop
+telling me how to do my job and let me get on with it. I know what
+I’m doing!”153
+The setting was a National Academy of Sciences workshop on
+planetary protection, and we were grappling with the challenges
+of exploring other worlds without contaminating them or, worse,
+bringing virulent alien bugs back to earth. As it turns out, this is a
+surprisingly tough issue. Fail to remove all Earth-based biological
+contamination from a spacecraft and the instruments it carries, and
+you risk permanently contaminating the planet or moon you’re
+exploring, making it impossible to distinguish what’s truly alien
+from what is not. But make the anti-contamination requirements
+too stringent, and you make it next to impossible to search for
+extraterrestrial life in the first place.
+There are similar problems with return samples. Play fast and
+loose with safety precautions, and we could end up unleashing a
+deadly alien epidemic on Earth (although, to be honest, this is more
+science fiction than science likelihood). On the other hand, place
+a million and one barriers in the way of bringing samples back,
+and we kill off any chance of studying the biological origins of
+extraterrestrial life.
+To help tread this fine line, international regulations on “planetary
+protection” (which, despite the name, is not about protecting
+the Earth from asteroid hits, or space debris, or even us trashing
+other planets, but instead is geared toward managing biological
+contamination in space exploration) were established in 1967 to
+
+I’m paraphrasing, but this was the essence of the frustrated outburst.
+
+positive impact in a messy world of people, politics, beliefs, values,
+economics, and a plethora of other interests, scientists and others
+need to be a part of larger conversations around how to draw on
+expertise that spans all of these areas and more. Not being a part of
+such conversations leads to scientific elitism, and ignorance that’s
+shrouded in arrogance. Of course, there is nothing wrong with
+scientists doing their science for science’s sake. But willful ignorance
+of the broader context that research is conducted within leads to
+myopia that can ultimately be harmful, despite the best of intentions.
+
+ensure we don’t make a mess of things.[^154] These regulations mean
+that, when an agency like NASA funds a mission, the scientists and
+engineers developing vehicles and equipment have to go through
+what, to them, is a bureaucratic nightmare, to do the smallest thing.
+To space exploration scientists, this can feel a little like an imposed
+form of bureaucratic obsessive-compulsive disorder, designed to
+send even the mildest-mannered person into a fit of pique. What
+makes it worse is that, for scientists and engineers working on
+years-long missions designed to detect signs of life elsewhere in the
+universe, they are deeply aware of what’s at stake. If they get things
+wrong, decades of work and hundreds of millions of dollars—not to
+mention their scientific reputations—are put at risk. So they’re pretty
+obsessive about getting things right, even before the bureaucrats
+get involved. And what really winds them up (or some of them at
+least) is being told that they need to fill out yet more paperwork,
+or redesign their equipment yet again, because some bureaucrat
+decided to flex their planetary protection muscles.
+This frustration reached venting point in the National Academy
+meeting I was at. Speaking to a room of planetary protection
+experts—some of whom were directly involved in establishing and
+implementing current policies—the scientist couldn’t contain his
+frustration. As the lead scientist on a critical mission to discover
+evidence of life beyond Earth, he knew what he had to do to be
+successful, or so he thought. And in his mind, the room of “experts”
+in front of him had no idea how ignorant they were about his
+expertise. He even started to lecture them in quite strong terms on
+policies that some of them had helped write. It probably wasn’t a
+particularly smart move.
+I must confess that, listening to his frustrations, I had quite a bit
+of sympathy for him. He was clearly good at what he does, and
+he just wanted to get on with it. But he made two fatal errors. He
+forgot that science never happens in a vacuum, and he deeply
+underestimated the inertia of the status quo.
+This anecdote may seem somewhat removed from nanotechnology,
+synthetic chemistry, and The Man in the White Suit. Yet there are
+a surprising number of similarities between this interplanetary
+scientist and Sidney Stratton. Both are brilliant scientists. Both
+
+The harsh reality is that discovery never happens in isolation. There
+are always others with a stake in the game, and there’s always
+someone else who is potentially impacted by what transpires. This is
+the lesson that John Hammond was brutally reminded of in Jurassic
+Park (chapter two). It underpins the technological tensions in
+Transcendence (chapter nine). And it’s something that Sidney wakes
+up to rather abruptly, as he discovers that not everyone shares his
+views.
+Here, The Man in the White Suit has overtones of Luddism, with
+workers and industry leaders striving to maintain the status
+quo, regardless of how good or bad it is. Yet just as the Luddite
+movement was more nuanced than simply being anti-technology,
+here we see that the resistance to Sidney’s discovery is not a
+resistance to technological innovation, but a fight against something
+that threatens what is deeply important to the people who are
+resisting it. The characters in the movie aren’t Luddites in the
+pejorative sense, and they are not scientifically illiterate. Rather, they
+are all too able to understand the implications of the technology that
+Sidney is developing. As they put the pieces together, they realize
+that, in order to protect the lives they have, they have to act.
+Just as in the meeting on planetary protection, what emerges in
+The Man in the White Suit is a situation where everyone is shrewd
+enough to see how change supports or threatens what they value,
+and they fight to protect this value. As a result, no one really wins.
+Sure, the factory owners and workers win a short reprieve against
+the march of innovation, and they get to keep things going as they
+were before. But all this does is rob them of the ability to adapt
+to inevitable change in ways that could benefit everyone. And, of
+course, Sidney suffers a humiliating defeat at the hands of those he
+naïvely thought he was helping.
+What the movie captures so well as it ends—and one of the
+reasons it’s in this book—is that there is nothing inherently bad
+about Sidney’s technology. On the contrary, it’s a breakthrough
+that could lead to tremendous benefits for many people, just like
+the nanotechnology it foreshadows. Rather, it’s the way that it’s
+handled that causes problems. As with every disruptive innovation,
+
+believe they have the knowledge and ability to deliver what they
+promise. Both would like nothing better than to be left alone to do
+their stuff. And neither is aware of the broader social context within
+which they operate.
+
+Sidney’s new textile threatened the status quo. Naturally, there were
+going to be hurdles to its successful development and use, and not
+being aware of those hurdles created risks that could otherwise be
+avoided. Self-preservation and short-sightedness ended up leading
+to social and economic benefits being dashed against the rocks
+of preserving the status quo. But things could have been very
+different. What if the main characters had been more aware of the
+broader picture; what if they had bothered to talk to others and
+find out about their concerns and aspirations; and what if they had
+collectively worked toward a way forward that benefitted everyone?
+Admittedly, it would have led to a rather boring movie. But from
+the perspective of beneficial and responsible innovation, the future
+could have looked a whole lot brighter.
+
+## It’s Good to Talk
+Not so long ago, at a meeting about AI, I had a conversation with
+a senior company executive about the potential downsides of the
+technology. He admitted that AI has some serious risks associated
+with it if we get it wrong, so much so that he was worried about
+the impact it would have if it got out of hand. Yet, when pushed, he
+shied away from any suggestion of talking with people who might
+be impacted by the technology. Why? Because he was afraid that
+misunderstandings resulting from such engagement would lead to
+a backlash against the technology, and as a result, place roadblocks
+in the way of its development that he felt society could ill afford. It
+was a perfect example of a “let’s not talk” approach to technological
+innovation, and one that, as Sidney Stratton discovered to his cost,
+rarely works.
+The irony here is that it’s the misunderstanding and
+miscommunication from not talking (or to be precise, not listening
+and engaging) that makes The Man in the White Suit a successful
+comedy. As the audience, we are privy to a whole slew of comedic
+misunderstandings and resulting farcical situations that could have
+been avoided if the characters had simply taken the time to sit down
+with each other. From the privileged position of our armchairs, this
+all makes perfect sense. But things are rarely so obvious in the realworld rough-and-tumble of technology innovation.
+To many technology developers, following a “let’s not talk” strategy
+makes quite a bit of sense on the surface. If we’re being honest,
+people do sometimes get the wrong end of the stick when it comes
+to new technologies. And there is a very real danger of consumers,
+
+Perhaps just as importantly, keeping quiet may seem expedient, but
+it’s not always ethical. If an emerging technology has the potential
+to cause harm, or to disrupt lives and livelihoods, it’s relevant to
+everyone it potentially touches. In this case, as a developer, you
+probably shouldn’t have complete autonomy over deciding what you
+do, or the freedom to ignore those whom your products potentially
+affect. Irrespective of the potential hurdles to development (and
+profit) that are caused by engaging with stakeholders (meaning
+anyone who potentially stands to gain or lose by what you do),
+there’s a moral imperative to engage broadly when a technology has
+the potential to impact society significantly.
+On top of this, developers of new technologies rarely have the
+fullest possible insight into how to develop their technology
+beneficially and responsibly. All of us, it has to be said, have a
+bit of Sidney Stratton in us, and are liable to make bad judgment
+calls without realizing it. Often, the only way to overcome this is
+to engage with others who bring a different perspective and set of
+values to the table.
+In other words, it’s good to talk when it comes to developing
+impactful new technologies. Or rather, it’s good to listen to and
+engage with each other, and explore mutually beneficial ways of
+developing technologies that benefit both their investors and society
+more broadly, and that don’t do more harm than good. Yet this is
+easier said than done. And there are risks. My AI executive was right
+to be concerned about engaging with people because sometimes
+people don’t like what they hear, and they decide to make your life
+difficult as a result. Yet there’s also a deep risk to holding back and
+not talking, and in the long run this is usually the larger of the two.
+Talking’s tough. But not talking is potentially more dangerous.
+
+policy makers, advocacy groups, journalists, and others creating
+barriers to technological progress through their speculations about
+potential future outcomes. That said, there are serious problems
+with this way of thinking. For one thing, it’s incredibly hard to
+keep things under wraps these days. The chances are that, unless
+you’re involved in military research or a long way from a marketable
+product, people are going to hear about what you are doing. And
+if you’re not engaging with them, they’ll form their own opinions
+about what your work means to them. As a result, staying quiet is
+an extremely high-risk strategy, especially as, once people start to
+talk about your tech, they’ll rapidly fill any information vacuum that
+exists, and not necessarily with stuff that makes sense.
+
+One way that people have tried to get around this “toughness”
+is a process called the Danish Consensus Conference. This is
+an approach that takes a small group of people from different
+backgrounds and perspectives and provides an environment where
+they can learn about an issue and its consequences before exploring
+productive ways forward. The power of the Danish Consensus
+Conference is that it gets people talking and listening to each other
+in a constructive and informed way. Done right, it overcomes many
+of the challenges of people not understanding an issue and reverting
+to protecting their interests out of ignorance. But it does have its
+limitations. And one of the biggest is that very few people have the
+time to go through such a time-consuming process. This gets to
+the heart of perhaps the biggest challenge in public engagement
+around emerging technologies: Most people are too busy working
+all hours to put food on the table and a roof over their heads, or
+caring for family, or simply surviving, to have the time and energy
+for somewhat abstract conversations about seemingly esoteric
+technologies. There’s simply not enough perceived value to them to
+engage.
+So how do we square the circle here? How do we ensure that
+the relevant people are at the table when deciding how new
+technologies are developed and used, so we don’t end up in a
+farcical mess? Especially as we live in a world where everyone’s
+busy, and the technologies we’re developing, together with their
+potential impacts, are increasingly complex?
+The rather frustrating answer is that that there are no simple
+answers here. However, a range of approaches is emerging that,
+together, may be able to move things along at least a bit. Despite
+being cumbersome, the Danish Consensus Conference remains
+relevant here, as do similar processes such as Expert & Citizen
+Assessment of Science & Technology (ECAST).[^155] But there are
+many more formal and informal ways in which people with
+different perspectives and insights can begin to talk and listen and
+engage around emerging technologies. These include the growing
+range of opportunities that social media provides for peer-to-peer
+engagement (with the caveat that social media can shut down
+engagement as well as opening it up). They also include using
+venues and opportunities such as science museums, TED talks,
+science cafes, poetry slams, citizen science, and a whole cornucopia
+of other platforms.
+
+Making progress on this front could help foster more constructive
+discussions around the beneficial and responsible development of
+new technologies. It would, however, mean people being willing
+to concede that they don’t have the last word on what’s right,
+and being open to not only listening to others, but changing their
+perspectives based on this. This goes for the scientists as well
+as everyone else, because, while scientists may understand the
+technical intricacies of what they do, just like Sidney Stratton, they
+are often not equally knowledgeable about the broader social
+implications of their work, as we see to chilling effect in our next
+movie: Inferno.
+
+The good news is that there are more ways than ever for people to
+engage around developing responsible and beneficial technologies,
+and to talk with each other about what excites them and what
+concerns them. And with platforms like Wikipedia, YouTube, and
+other ways of getting content online, it’s never been easier to come
+up to speed on what a new technology is and what it might do.
+All that’s lacking is the will and imagination of experts to use these
+platforms to facilitate effective engagement around the responsible
+and beneficial development of new technologies. Here, there are
+tremendous opportunities for entrepreneurially- and socially-minded
+innovators to meet people where they’re at, in and on the many
+venues and platforms they inhabit, and to nudge conversations
+toward a more inclusive, informed and responsible dialogue around
+emerging technologies.
+
+
+[^142]: Howard Lovy wrote a great account of the protest in Wired. Howard Lovy (2005) “When nano pants attack.” Published in Wired, June 10, 2005. https://www.wired.com/2005/06/when-nanopants-attack/
+
+[^143]: The rules of effective narrative almost demand that, in many of the movies here, the science and technology that drives the plot is the product of a lone genius, entrepreneur, or visionary. In contrast, while real life is littered by charismatic figures, science and technology are almost always a team activity, with many smart people working together on their development.
+
+[^144]: As a former electron microscopist, it’s gratifying to see The Man in the White Suit using what appears to be a correctly-set-up early transmission electron microscope.
+
+[^145]: The transcript of Feynman’s 1959 lecture is posted in full on the company Zyvex’s website: http://www.zyvex.com/nanotech/feynman.html
+
+[^146]: The prize was won twenty-six years after Feynman set the challenge by physicist Tom Newman, who wrote the first page of Charles Dickens’ A Tale of Two Cities on a 200-µm square piece of plastic, using electron-beam lithography. For more information, see Katherine Kornei (2016) “The Beginning of Nanotechnology at the 1959 APS Meeting,” APS News, November 2016 https://www.aps.org/publications/apsnews/201611/nanotechnology.cfm
+
+[^147]: On September 28, 1989, IBM physicist Don Eigler used a scanning tunneling microscope to spell out the word “IBM” with 35 xenon atoms. It was the first time anyone had intentionally manipulated and moved individual atoms, and at the time appeared to open the way to achieving some of Feynman’s speculative ideas.
+
+[^148]: The report “Nanotechnology: Shaping the World, Atom by Atom” was published by the National Science and Technology Council Committee on Technology, and the Interagency Working Group on Nanoscience, Engineering and Technology in 1999. https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/IWGN.Nanotechnology.Brochure.pdf
+
+[^149]: In the spirit of full disclosure, I was involved in the early days of the National Nanotechnology Initiative, and was the first co-chair of the interagency committee within the NNI to examine the environmental and health implications of nanotechnology.
+
+[^150]: Early in the evolution of the NNI, Drexler went head to head with Nobel Laureate Richard Smalley as they clashed over the future of nanotechnology. A December 2003 cover story in the magazine Chemical & Engineering News provided a point-counterpoint platform for Drexler and Smalley to duke it out: https://courses.cs.duke.edu/cps296.4/spring08/papers/Drexler.v.Smalley.pdf Drexler talks about the subsequent marginalization of his ideas in his 2013 book, “Radical Abundance: How a Revolution in Nanotechnology Will Change Civilization” (published by PublicAffairs). For more see https://en.wikipedia.org/wiki/Drexler%E2%80%93Smalley_debate_on_molecular_nanotechnology
+
+[^151]: I actually checked on Google Scholar to see how many people had cited the paper since its publication. Surprisingly, twenty-five people had liked it enough to refer to it in their own papers— more than I would have expected. However, at least two of those “fans” were me citing my own work, confirming that we’re all our own greatest cheerleaders when it comes to science. The paper was published in the Journal of Aerosol Science, volume 31 issue 2, pages 151-166 (2000), and can be read here, just in case you’re interested: https://doi.org/10.1016/S0021-8502(99)00035-X
+
+[^152]: One of those consequences was having to deal with the ill will of fellow classmates who felt cheated, confirming that nothing is ever “just a game.”
+
+[^154]: International planetary protection regulations were established in article IX of the 1966 United Nations Treaty on “Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies.” They are currently embodied in the Committee on Space Research (COSPAR) Planetary Protection Policy.
+
+[^155]: You can read more about Expert and Citizen Assessment of Science & Technology at https://ecastnetwork.org/
