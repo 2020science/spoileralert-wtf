@@ -1,0 +1,43 @@
+## The Human Dimension -- Personal Reflections on Technology and Society
+
+*Films from the Future* is laced with personal moments. A sixteen-year-old watching *2001: A Space Odyssey* on a black-and-white TV while his parents entertain guests. A newly minted PhD seeing *Jurassic Park* for the first time with his wife. A father asking his daughter what it is like to live in the shadow of one of the country's most dangerous volcanoes, and getting a shrug in response. These are not decorations. They are part of the argument.
+
+The argument is that our relationship with technology is personal, not just academic. The decisions we make about emerging technologies -- what to fund, what to regulate, what to embrace, what to resist -- are shaped by who we are, where we come from, and what we have experienced. Understanding that personal dimension is not a distraction from the serious work of technology governance. It is essential to it.
+
+### A Career in the Making
+
+Maynard's own career trajectory is a case study in how personal experience shapes professional perspective. He started as a physicist, driven by the urge to discover new things and the deeply focused energy of laboratory research. He spent years studying the health risks of inhaled particles, then moved into nanotechnology risk, then broader questions of emerging technology governance. Along the way, he became a professor of Advanced Technology Transitions at Arizona State University and director of the Future of Being Human initiative.
+
+Each step brought new insights, but also new forms of uncertainty. The physicist in him valued precision and predictability. The risk scientist learned that the most important risks are often the ones that resist measurement. The technology scholar discovered that the hardest questions are not technical at all, but social: who benefits, who is harmed, who gets to decide.
+
+This trajectory shows up in the book as a gradual broadening of vision, from the specific to the systemic, from the measurable to the meaningful. It is why the book can discuss [gene editing](/est_genetic_engineering.html) and [nanotechnology](/est_nanotechnology.html) with technical authority while also insisting that what matters most is not the technology itself but the human relationships that surround it.
+
+### Technology Begins at Home
+
+Some of the book's most resonant moments are the smallest. The description of arriving at Arran and feeling comforted by crumbling roads and patchy Wi-Fi, followed immediately by the honest acknowledgment that this comfort comes from privilege. The confession of a crazy all-nighter during PhD research, bending the rules and risking millions of dollars of equipment because the need for data overrode every other consideration. The recognition that this same reckless drive exists in scientists and entrepreneurs everywhere.
+
+These moments do something that technical analysis cannot: they make the abstract concrete. When Maynard describes the lure of permissionless innovation -- the all-consuming need to follow the path in front of you, to solve puzzles that nag at you, to make something that works at all costs -- he is not describing a policy problem. He is describing a human experience. And by grounding the discussion in that experience, he makes it possible for readers to recognize the same impulses in themselves.
+
+### What We Are Really Talking About
+
+The Future of Being Human initiative, which Maynard directs, carries a conviction at its core: that relationships, not technologies, determine whether humanity flourishes. This is a striking claim for someone whose career has been devoted to understanding technology. But it reflects a hard-won insight that runs through the entire book.
+
+The technologies explored in *Films from the Future* -- [artificial intelligence](/est_artificial_intelligence.html), [genetic engineering](/est_genetic_engineering.html), [brain-computer interfaces](/est_brain_computer_interfaces.html), [geoengineering](/est_geoengineering.html) -- are extraordinary. But they do not exist in a vacuum. They exist in a world of people with hopes, fears, beliefs, and relationships. The question is never simply "can we build this?" It is always also "what will it mean for us?" And "us" includes not just the innovators and the investors, but the communities who will live with the consequences.
+
+### Starting with Ourselves
+
+If the book has a single message about the human dimension of technology, it is this: navigating the future starts with our own relationship to technology and the future we want. Before we can govern emerging technologies wisely, we need to understand our own responses to them -- the excitement, the fear, the temptation to defer to experts, the impulse to look away from uncomfortable possibilities.
+
+This is why the book begins with a personal memory and ends with a personal reflection. It is why it uses movies as its primary vehicle: because movies engage us as whole people, not just as intellects. And it is why this page exists within the [Navigating the Future](/ntf_hub.html) domain, rather than in the technology or ethics sections. The human dimension is not one topic among many. It is the ground on which everything else stands.
+
+The invitation, then, is simple but not easy: to bring your whole self -- your experiences, your values, your uncertainties -- to the conversation about what kind of technological future we want to build. That, more than any framework or policy, is where the work of navigating the future begins.
+
+## Further Reading
+
+- [Heads-up on new AI book](https://www.futureofbeinghuman.com/p/heads-up-on-new-ai-book) — Andrew Maynard previews his ongoing work on AI and what it means for the future of being human, providing a window into how his thinking has evolved since Films from the Future with a continued emphasis on the personal and relational dimensions of technological change.
+- [AI and the future of being human](https://www.futureofbeinghuman.com/p/ai-and-the-future-of-being-human) — This essay explores the deeply personal questions that artificial intelligence raises about identity, purpose, and what it means to be human, arguing that the most important consequences of AI are not technical but relational, touching the core of how we understand ourselves.
+- [Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting — Shannon Vallor (Oxford University Press)](https://doi.org/10.1093/acprof:oso/9780190498511.001.0001) — Vallor's philosophical framework for living well with technology argues that human flourishing in a technological age depends on cultivating virtues like empathy, humility, and practical wisdom — providing the philosophical grounding for the book's argument that the human dimension is primary.
+- [The Future of Being Human in 2024](https://www.futureofbeinghuman.com/p/the-future-of-being-human-in-2024) — Maynard reflects on the distinction between technologies that enhance our external capabilities and those that alter our inner "base code" — consciousness, empathy, and self-awareness — arguing we lack the frameworks to understand what is happening to us and that flourishing depends on how we relate to technologies as individuals.
+- [Being Human in 2035: How Are We Changing in the Age of AI? — Elon University Imagining the Digital Future Center (2025)](https://imaginingthedigitalfuture.org/reports-and-publications/being-human-in-2035/) — This landmark canvassing of nearly 300 global technology experts found that a majority expect AI to produce fundamental changes in human capacities within a decade, with particular concern about impacts on empathy, self-identity, sense of purpose, and the quality of interpersonal relationships — underscoring that the human dimension is the critical frontier.
+- [Designing AI for Human Flourishing — MIT Media Lab (2025)](https://www.media.mit.edu/courses/designing-ai-for-human-flourishing-2025/) — This MIT course moves beyond productivity-focused AI design to ask how technology can support wisdom, wonder, well-being, and authentic social connection, grounding students in psychological research on flourishing and challenging them to build AI systems that strengthen rather than replace genuine human relationships.
+- [Sherry Turkle: Alone Together and Reclaiming Conversation (Basic Books)](https://www.sherryturkle.com/alone-together) — Turkle's research on how digital technologies reshape human relationships and self-understanding provides empirical depth to the book's argument that technology's most profound effects are personal and relational, documenting how our devices change not just what we do but who we are.
