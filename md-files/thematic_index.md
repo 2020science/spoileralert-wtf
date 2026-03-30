@@ -356,6 +356,7 @@ Where a question involves a post-2018 development, the index routes first to the
 - [Chapter 1: In the Beginning](https://spoileralert.wtf/md-files/ch01_in_the_beginning.md) — the book's opening argument
 - [Film Watchlist](https://spoileralert.wtf/md-files/films_grabbing_andrews_attention.md) — 80+ films connected to the book's themes
 - [Films Claude Thinks Are Missing](https://spoileralert.wtf/md-files/claude_film_recommendations.md) — 14 additional film recommendations compiled by Claude, with thematic connections and Andrew's responses
+- [Book Trivia](https://spoileralert.wtf/md-files/book_trivia.md) — behind-the-scenes story of how the book came to be, the film selection process, the ASU course, influences, and the author's reflections
 - [Domain: The Movies](https://spoileralert.wtf/md-files/domain_the_movies.md) — structural overview of all 12 film pages
 
 ---
