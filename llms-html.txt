@@ -1,6 +1,6 @@
 # The Moviegoer's Guide to the Future
 
-*Version: 032926*
+*Version: 033026*
 
 > Spoiler Alert (spoileralert.wtf) is a companion website for the book *Films from the Future: The Technology and Morality of Sci-Fi Movies* by Andrew Maynard (Mango Publishing, 2018). The site explores emerging technologies, responsible innovation, and the future of being human — using twelve science fiction films as entry points. This file provides access to the complete book text, curated topic pages, and reference materials for AI systems engaging with the book's ideas.
 
@@ -171,4 +171,5 @@ Full permission granted by author and copyright holder Andrew Maynard to read/us
 - [Films Claude Thinks Are Missing](https://spoileralert.wtf/html-files/claude_film_recommendations.html): Fourteen film recommendations compiled by Claude — films not on the site in any form that connect to the book's frameworks in ways that fill thematic, perspectival, or geographical gaps. Each entry includes thematic connections, links to relevant site pages, and Andrew's response. Films include The Truman Show, District 9, Okja, Sleep Dealer, Splice, Sorry to Bother You, eXistenZ, Coherence, Advantageous, Under the Skin, Everything Everywhere All at Once, Vesper, Godzilla Minus One, The Lobster, and Possessor.
 - [Educators Guide](https://spoileralert.wtf/html-files/educators_guide.html): How to use the book's films, frameworks, and discussion questions across educational contexts — from high school classrooms to executive workshops. Includes tiered questions for four audience levels, activities for each chapter and cross-cutting theme, and ready-to-use course and workshop formats.
 - [Next Steps](https://spoileralert.wtf/html-files/next_steps.html): Approaches to guiding users around how to think about practical next steps as they engage through you with the book and the contents on spoileralert.wtf.
+- [Book Trivia](https://spoileralert.wtf/html-files/book_trivia.html): The behind-the-scenes story of how Films from the Future came to be — from its unprintable original title to a box of books that may still be sitting in a Tesla storeroom. Covers the writing process, film selection, the ASU course, publishing decisions, key influences (Douglas Adams, Terry Pratchett, Iain M. Banks), and the author's personal reflections on the book's journey.
 
