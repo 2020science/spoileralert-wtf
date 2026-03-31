@@ -2,7 +2,7 @@
 
 In June 2007, the first iPhone was released. From the perspective of today's crowded smartphone marketplace, it is hard to appreciate how seismic that moment was. But the iPhone was more than a new gadget. It was an iconic example of what happens when different strands of innovation intertwine -- and it kicked off a social and technological transformation that continues to reverberate through our lives.
 
-Technological convergence is one of the most important ideas in *Films from the Future*. It appears in the opening chapter, returns with force in the discussion of [Transcendence](/movies_transcendence.html), and threads through many of the other films. But convergence is not just a technology to be catalogued alongside gene editing or artificial intelligence. It is a **way of understanding** how technology works now, and why the future is going to be so much harder to predict than the past.
+Technological convergence is one of the most important ideas in *Films from the Future*. It appears in the opening chapter, returns with force in the discussion of [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md), and threads through many of the other films. But convergence is not just a technology to be catalogued alongside gene editing or artificial intelligence. It is a **way of understanding** how technology works now, and why the future is going to be so much harder to predict than the past.
 
 ### More Than the Sum of the Parts
 
@@ -16,7 +16,7 @@ The book frames this through the concept of "base codes." In cyberspace, the bas
 
 World Economic Forum founder Klaus Schwab has described our era as a "Fourth Industrial Revolution," driven by the fusion of digital, biological, and physical technologies. The first revolution was powered by water and steam. The second by electricity. The third by digital computing. Now these domains are blurring together in ways that are qualitatively different from anything that came before.
 
-[Transcendence](/movies_transcendence.html) captures this idea dramatically. The science in the film is pure Hollywood fantasy. But as Maynard argues, when you peel away the hyperbole, the movie hints at a coming level of convergence that could radically change the world. It is rooted in our growing ability to blur the lines between physical, biological, and cyber technologies in ways that were impossible even a decade ago.
+[Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md) captures this idea dramatically. The science in the film is pure Hollywood fantasy. But as Maynard argues, when you peel away the hyperbole, the movie hints at a coming level of convergence that could radically change the world. It is rooted in our growing ability to blur the lines between physical, biological, and cyber technologies in ways that were impossible even a decade ago.
 
 ### Why Convergence Changes Everything
 
@@ -24,13 +24,13 @@ Convergence matters for this domain -- for how we *think* about technology -- be
 
 But convergence means these categories no longer hold. A breakthrough in DNA sequencing feeds into machine learning, which accelerates materials design, which enables new sensors, which transform what is possible in medicine. The benefits multiply, but so do the risks, and the interactions between technologies create possibilities that no single discipline can anticipate.
 
-This is why convergence is not just an item for the [Emerging Science and Technology](/est_hub.html) domain. It is a fundamental challenge for how we think about [risk](/ntf_risk_innovation.html), how we approach [responsible innovation](/ntf_responsible_innovation_practice.html), and how we resist the temptation to assume that the future will be a simple extension of the present.
+This is why convergence is not just an item for the [Emerging Science and Technology](https://spoileralert.wtf/md-files/domain_emerging_science_and_technology.md) domain. It is a fundamental challenge for how we think about [risk](https://spoileralert.wtf/md-files/ntf_risk_innovation.md), how we approach [responsible innovation](https://spoileralert.wtf/md-files/ntf_responsible_innovation_practice.md), and how we resist the temptation to assume that the future will be a simple extension of the present.
 
 ### The Challenge of Prediction
 
-One of the book's consistent arguments is that convergence makes prediction harder, not easier. Each new intersection between technology domains creates possibilities that were not foreseeable from within any single domain. This is part of what connects convergence to the book's broader themes of [complexity and chaos](/ntf_complexity_chaos.html): in a world of converging technologies, unintended consequences are not bugs in the system. They are features of it.
+One of the book's consistent arguments is that convergence makes prediction harder, not easier. Each new intersection between technology domains creates possibilities that were not foreseeable from within any single domain. This is part of what connects convergence to the book's broader themes of [complexity and chaos](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md): in a world of converging technologies, unintended consequences are not bugs in the system. They are features of it.
 
-And yet the book does not treat this unpredictability as a reason for despair. Instead, it argues that convergence demands new approaches to governance, new frameworks for [thinking about risk](/ntf_risk_innovation.html), and a much wider circle of people involved in decisions about how technologies are developed and used. The questions that convergence raises -- about what we value, what we are willing to change, and who gets to decide -- are too important for any single discipline or community to answer alone.
+And yet the book does not treat this unpredictability as a reason for despair. Instead, it argues that convergence demands new approaches to governance, new frameworks for [thinking about risk](https://spoileralert.wtf/md-files/ntf_risk_innovation.md), and a much wider circle of people involved in decisions about how technologies are developed and used. The questions that convergence raises -- about what we value, what we are willing to change, and who gets to decide -- are too important for any single discipline or community to answer alone.
 
 ### Living in the Age of Convergence
 

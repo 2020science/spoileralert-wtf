@@ -30,11 +30,11 @@ At the same time, the possibility of creating intelligence that exceeds our own 
 
 ### Explore Further
 
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the current reality of AI, distinct from the superintelligence hypothesis
-- [Mind Uploading and Consciousness Transfer](/est_mind_uploading.html) — the technology at the heart of *Transcendence*
-- [Technological Convergence](/est_technological_convergence.html) — how merging technologies could accelerate AI capabilities
-- [Hype vs. Reality and Occam's Razor](/ntf_hype_vs_reality.html) — tools for evaluating extraordinary claims
-- [Permissionless Innovation and Technological Hubris](/rei_permissionless_innovation.html) — the risks of building without adequate foresight
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the current reality of AI, distinct from the superintelligence hypothesis
+- [Mind Uploading and Consciousness Transfer](https://spoileralert.wtf/md-files/est_mind_uploading.md) — the technology at the heart of *Transcendence*
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — how merging technologies could accelerate AI capabilities
+- [Hype vs. Reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — tools for evaluating extraordinary claims
+- [Permissionless Innovation and Technological Hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — the risks of building without adequate foresight
 
 ## Further Reading
 

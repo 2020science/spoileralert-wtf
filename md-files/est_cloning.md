@@ -32,10 +32,10 @@ The book makes a compelling case that we will eventually need to move beyond the
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/est_genetic_engineering.html) — the technology that makes cloning possible
-- [Synthetic Biology](/est_synthetic_biology.html) — taking biological engineering even further
-- [Human Dignity and What Makes Us Human](/rei_human_dignity.html) — the ethical heart of the cloning debate
-- [Bioprinting and Organ Regeneration](/est_bioprinting.html) — alternative approaches to the medical promise of cloning
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the technology that makes cloning possible
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — taking biological engineering even further
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — the ethical heart of the cloning debate
+- [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md) — alternative approaches to the medical promise of cloning
 
 ## Further Reading
 

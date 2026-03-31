@@ -30,10 +30,10 @@ Stratton's perfect fabric was technically brilliant but socially disastrous, not
 
 ### Explore Further
 
-- [Technological Convergence](/est_technological_convergence.html) — nanotechnology as a building block for converging fields
-- [Synthetic Biology](/est_synthetic_biology.html) — another field where engineering meets the molecular scale
-- [The Role of Scientists in Society](/rei_role_of_scientists.html) — what happens when inventors overlook the social impact of their work
-- [Complexity and Unintended Consequences](/ntf_complexity_chaos.html) — why novel materials can behave in unexpected ways
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — nanotechnology as a building block for converging fields
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — another field where engineering meets the molecular scale
+- [The Role of Scientists in Society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) — what happens when inventors overlook the social impact of their work
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — why novel materials can behave in unexpected ways
 
 ## Further Reading
 

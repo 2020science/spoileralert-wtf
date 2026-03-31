@@ -22,19 +22,19 @@ The chapter also uses Jurassic Park to introduce the idea of complex systems and
 
 ### Key Technologies
 
-- [Genetic engineering and gene editing](est_genetic_engineering.html) — The ability to read, write, and rewrite the DNA code that underpins all life
-- [De-extinction and resurrection biology](est_de_extinction.html) — Using genetic technologies to bring back lost species
-- [Complex systems and chaos theory](est_complex_systems.html) — Why the behavior of complex systems cannot be fully predicted or controlled
+- [Genetic engineering and gene editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — The ability to read, write, and rewrite the DNA code that underpins all life
+- [De-extinction and resurrection biology](https://spoileralert.wtf/md-files/est_de_extinction.md) — Using genetic technologies to bring back lost species
+- [Complex systems and chaos theory](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — Why the behavior of complex systems cannot be fully predicted or controlled
 
 ### Ethical and Responsibility Themes
 
-- [Could we? Should we?](rei_could_we_should_we.html) — The gap between having the ability to do something and having the wisdom to know whether you should
-- [Permissionless innovation and technological hubris](rei_permissionless_innovation.html) — What happens when innovators assume they know best and charge ahead without asking others
-- [Corporate responsibility and the profit motive](rei_corporate_responsibility.html) — When the drive for profit overrides caution and care
+- [Could we? Should we?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — The gap between having the ability to do something and having the wisdom to know whether you should
+- [Permissionless innovation and technological hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — What happens when innovators assume they know best and charge ahead without asking others
+- [Corporate responsibility and the profit motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — When the drive for profit overrides caution and care
 
 ### Navigating the Future
 
-- [Complexity, chaos, and unintended consequences](ntf_complexity_chaos.html) — Why powerful technologies in complex systems produce outcomes nobody anticipated
+- [Complexity, chaos, and unintended consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — Why powerful technologies in complex systems produce outcomes nobody anticipated
 
 ### Discussion Questions
 
@@ -49,7 +49,7 @@ The chapter also uses Jurassic Park to introduce the idea of complex systems and
 
 ### Continue Exploring
 
-Jurassic Park opens the book's exploration of biotechnology, a thread that continues through [Never Let Me Go](movies_never_let_me_go.html) (cloning), [Inferno](movies_inferno.html) (synthetic biology and engineered pathogens), and [Elysium](movies_elysium.html) (bioprinting). To explore how the gap between "could we?" and "should we?" plays out across all twelve films, see [Could We? Should We?](rei_could_we_should_we.html).
+Jurassic Park opens the book's exploration of biotechnology, a thread that continues through [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md) (cloning), [Inferno](https://spoileralert.wtf/md-files/movies_inferno.md) (synthetic biology and engineered pathogens), and [Elysium](https://spoileralert.wtf/md-files/movies_elysium.md) (bioprinting). To explore how the gap between "could we?" and "should we?" plays out across all twelve films, see [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md).
 
 ## Further Reading
 

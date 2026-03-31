@@ -32,11 +32,11 @@ The book frames augmentation as one piece of a larger puzzle about what it means
 
 ### Explore Further
 
-- [Brain-Computer Interfaces](/est_brain_computer_interfaces.html) — the specific technology of connecting brains to machines
-- [Smart Drugs and Cognitive Enhancement](/est_smart_drugs.html) — chemical augmentation of the mind
-- [Bioprinting and Organ Regeneration](/est_bioprinting.html) — growing replacement parts rather than building them
-- [Human Dignity and What Makes Us Human](/rei_human_dignity.html) — the ethical questions augmentation forces us to confront
-- [Identity, Authenticity, and What It Means to Be Human](/rei_human_dignity.html) — when technology changes who you are
+- [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md) — the specific technology of connecting brains to machines
+- [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md) — chemical augmentation of the mind
+- [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md) — growing replacement parts rather than building them
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — the ethical questions augmentation forces us to confront
+- [Identity, Authenticity, and What It Means to Be Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — when technology changes who you are
 
 ## Further Reading
 

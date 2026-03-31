@@ -28,10 +28,10 @@ The book makes a strong case that synthetic biology is a prime example of why te
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/est_genetic_engineering.html) — the foundational tools that underpin synthetic biology
-- [Gain-of-Function Research](/est_gain_of_function.html) — the biosecurity dimension of engineering pathogens
-- [Technological Convergence](/est_technological_convergence.html) — how merging fields create new capabilities and risks
-- [Dual-Use Research and Biosecurity](/rei_dual_use_biosecurity.html) — when the same science can heal or harm
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the foundational tools that underpin synthetic biology
+- [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md) — the biosecurity dimension of engineering pathogens
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — how merging fields create new capabilities and risks
+- [Dual-Use Research and Biosecurity](https://spoileralert.wtf/md-files/rei_dual_use_biosecurity.md) — when the same science can heal or harm
 
 ## Further Reading
 

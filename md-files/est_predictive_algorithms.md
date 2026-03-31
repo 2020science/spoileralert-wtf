@@ -32,10 +32,10 @@ The lesson from *Minority Report*, and from the book, is that prediction is not 
 
 ### Explore Further
 
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the broader field that predictive algorithms are part of
-- [Ubiquitous Surveillance and Big Data](/est_surveillance.html) — the data infrastructure that feeds predictive systems
-- [Surveillance, Privacy, and Control](/rei_surveillance_privacy_control.html) — the ethical implications of algorithmic monitoring
-- [Automation and Robotics](/est_automation.html) — another domain where algorithms replace human judgment
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the broader field that predictive algorithms are part of
+- [Ubiquitous Surveillance and Big Data](https://spoileralert.wtf/md-files/est_surveillance.md) — the data infrastructure that feeds predictive systems
+- [Surveillance, Privacy, and Control](https://spoileralert.wtf/md-files/rei_surveillance_privacy_control.md) — the ethical implications of algorithmic monitoring
+- [Automation and Robotics](https://spoileralert.wtf/md-files/est_automation.md) — another domain where algorithms replace human judgment
 
 ## Further Reading
 

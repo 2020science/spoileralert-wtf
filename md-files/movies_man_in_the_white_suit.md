@@ -24,18 +24,18 @@ The chapter also explores the role of scientists and innovators in society. Stra
 
 ### Key Technologies
 
-- [Nanotechnology and materials science](est_nanotechnology.html) — Designing and engineering materials at the atomic and molecular scale, creating properties that far exceed anything found in nature
+- [Nanotechnology and materials science](https://spoileralert.wtf/md-files/est_nanotechnology.md) — Designing and engineering materials at the atomic and molecular scale, creating properties that far exceed anything found in nature
 
 ### Ethical and Responsibility Themes
 
-- [The role of scientists and innovators in society](rei_role_of_scientists.html) — The responsibility of innovators to understand the social dimensions of their work
-- [Permissionless innovation and technological hubris](rei_permissionless_innovation.html) — What happens when inventors assume their creations are inherently good and proceed without asking
-- [Corporate responsibility](rei_corporate_responsibility.html) — The interests of industry in controlling or suppressing innovations that threaten the status quo
+- [The role of scientists and innovators in society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) — The responsibility of innovators to understand the social dimensions of their work
+- [Permissionless innovation and technological hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — What happens when inventors assume their creations are inherently good and proceed without asking
+- [Corporate responsibility](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — The interests of industry in controlling or suppressing innovations that threaten the status quo
 
 ### Navigating the Future
 
-- [Everyone has a role to play](ntf_everyone_has_a_role.html) — Why innovation succeeds only when those affected by it have a voice in how it is developed and used
-- [Responsible innovation as a practice](ntf_responsible_innovation.html) — Moving from good intentions to genuine engagement with the social consequences of new technologies
+- [Everyone has a role to play](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) — Why innovation succeeds only when those affected by it have a voice in how it is developed and used
+- [Responsible innovation as a practice](https://spoileralert.wtf/md-files/ntf_responsible_innovation_practice.md) — Moving from good intentions to genuine engagement with the social consequences of new technologies
 
 ### Discussion Questions
 
@@ -49,7 +49,7 @@ The chapter also explores the role of scientists and innovators in society. Stra
 
 ### Continue Exploring
 
-The Man in the White Suit's central theme of innovators who fail to consider social consequences connects to [Jurassic Park](movies_jurassic_park.html) (Hammond's hubris) and [Ex Machina](movies_ex_machina.html) (Nathan's isolation). The idea that everyone has a role to play in shaping technology is echoed in [Elysium](movies_elysium.html) and [Contact](movies_contact.html). And for more on the role of scientists in society, see [Inferno](movies_inferno.html).
+The Man in the White Suit's central theme of innovators who fail to consider social consequences connects to [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) (Hammond's hubris) and [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md) (Nathan's isolation). The idea that everyone has a role to play in shaping technology is echoed in [Elysium](https://spoileralert.wtf/md-files/movies_elysium.md) and [Contact](https://spoileralert.wtf/md-files/movies_contact.md). And for more on the role of scientists in society, see [Inferno](https://spoileralert.wtf/md-files/movies_inferno.md).
 
 ## Further Reading
 

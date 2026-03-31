@@ -28,11 +28,11 @@ What the book emphasizes is the need for transparency, robust oversight, and inc
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/est_genetic_engineering.html) — the tools that make gain-of-function research possible
-- [Synthetic Biology](/est_synthetic_biology.html) — engineering biology with increasing precision and accessibility
-- [Gene Drives](/est_gene_drives.html) — another powerful biological technology with dual-use potential
-- [Dual-Use Research and Biosecurity](/rei_dual_use_biosecurity.html) — the ethical framework for managing dangerous knowledge
-- [The Role of Scientists in Society](/rei_role_of_scientists.html) — who bears responsibility when research goes wrong?
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the tools that make gain-of-function research possible
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — engineering biology with increasing precision and accessibility
+- [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md) — another powerful biological technology with dual-use potential
+- [Dual-Use Research and Biosecurity](https://spoileralert.wtf/md-files/rei_dual_use_biosecurity.md) — the ethical framework for managing dangerous knowledge
+- [The Role of Scientists in Society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) — who bears responsibility when research goes wrong?
 
 ## Further Reading
 

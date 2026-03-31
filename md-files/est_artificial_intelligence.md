@@ -34,11 +34,11 @@ Getting AI right requires more than technical expertise. It requires input from 
 
 ### Explore Further
 
-- [Superintelligence](/est_superintelligence.html) — the speculative extreme of artificial intelligence
-- [Predictive Algorithms and Machine Learning](/est_predictive_algorithms.html) — AI applied to predicting human behavior
-- [Automation and Robotics](/est_automation.html) — AI in the physical world, replacing human labor
-- [Permissionless Innovation and Technological Hubris](/rei_permissionless_innovation.html) — the dangers of building first and asking questions later
-- [Hype vs. Reality](/ntf_hype_vs_reality.html) — separating what AI can actually do from what we imagine it can
+- [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md) — the speculative extreme of artificial intelligence
+- [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md) — AI applied to predicting human behavior
+- [Automation and Robotics](https://spoileralert.wtf/md-files/est_automation.md) — AI in the physical world, replacing human labor
+- [Permissionless Innovation and Technological Hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — the dangers of building first and asking questions later
+- [Hype vs. Reality](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — separating what AI can actually do from what we imagine it can
 
 
 ## Further Reading

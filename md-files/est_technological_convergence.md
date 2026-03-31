@@ -34,11 +34,11 @@ The book argues that convergence demands a new approach to thinking about innova
 
 ### Explore Further
 
-- [Artificial Intelligence](/est_artificial_intelligence.html) — a key component in many converging technology systems
-- [Synthetic Biology](/est_synthetic_biology.html) — where biological and computational engineering meet
-- [Brain-Computer Interfaces](/est_brain_computer_interfaces.html) — convergence of neuroscience, materials, and computing
-- [Nanotechnology and Materials Science](/est_nanotechnology.html) — the physical building blocks of convergent technologies
-- [Complexity and Unintended Consequences](/ntf_complexity_chaos.html) — why converging systems are harder to predict
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — a key component in many converging technology systems
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — where biological and computational engineering meet
+- [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md) — convergence of neuroscience, materials, and computing
+- [Nanotechnology and Materials Science](https://spoileralert.wtf/md-files/est_nanotechnology.md) — the physical building blocks of convergent technologies
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — why converging systems are harder to predict
 
 ## Further Reading
 

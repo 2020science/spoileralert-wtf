@@ -32,10 +32,10 @@ The book frames surveillance as one of the most immediate and consequential appl
 
 ### Explore Further
 
-- [Predictive Algorithms and Machine Learning](/est_predictive_algorithms.html) — the analytical systems that process surveillance data
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the technology that makes mass surveillance possible
-- [Surveillance, Privacy, and Control](/rei_surveillance_privacy_control.html) — the ethical and political dimensions of monitoring
-- [Power, Privilege, and Access](/rei_power_privilege_access.html) — who benefits from data collection and who is harmed
+- [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md) — the analytical systems that process surveillance data
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the technology that makes mass surveillance possible
+- [Surveillance, Privacy, and Control](https://spoileralert.wtf/md-files/rei_surveillance_privacy_control.md) — the ethical and political dimensions of monitoring
+- [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — who benefits from data collection and who is harmed
 
 ## Further Reading
 

@@ -32,10 +32,10 @@ The book frames geoengineering as a powerful illustration of a theme that runs t
 
 ### Explore Further
 
-- [Climate Science and Complex Earth Systems](/est_climate_science.html) — understanding the system we would be trying to engineer
-- [Nanotechnology and Materials Science](/est_nanotechnology.html) — technologies that could play a role in climate intervention
-- [Could We? Should We?](/rei_could_we_should_we.html) — the ethical framework for deciding whether to intervene
-- [Resilience and Adaptation](/ntf_resilience_adaptation.html) — alternatives and complements to geoengineering
+- [Climate Science and Complex Earth Systems](https://spoileralert.wtf/md-files/est_climate_science.md) — understanding the system we would be trying to engineer
+- [Nanotechnology and Materials Science](https://spoileralert.wtf/md-files/est_nanotechnology.md) — technologies that could play a role in climate intervention
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the ethical framework for deciding whether to intervene
+- [Resilience and Adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md) — alternatives and complements to geoengineering
 
 ## Further Reading
 

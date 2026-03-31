@@ -30,12 +30,12 @@ The challenge, as *Films from the Future* repeatedly emphasizes, is not the tech
 
 ### Explore Further
 
-- [De-Extinction and Resurrection Biology](/est_de_extinction.html) — one dramatic application of genetic engineering
-- [Gene Drives](/est_gene_drives.html) — using genetic engineering to modify entire wild populations
-- [Gain-of-Function Research](/est_gain_of_function.html) — engineering pathogens to understand them better
-- [Synthetic Biology](/est_synthetic_biology.html) — designing organisms from scratch
-- [Dual-Use Research and Biosecurity](/rei_dual_use_biosecurity.html) — the tension between knowledge and danger
-- [Could We? Should We?](/rei_could_we_should_we.html) — the ethical question at the core of genetic engineering
+- [De-Extinction and Resurrection Biology](https://spoileralert.wtf/md-files/est_de_extinction.md) — one dramatic application of genetic engineering
+- [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md) — using genetic engineering to modify entire wild populations
+- [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md) — engineering pathogens to understand them better
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — designing organisms from scratch
+- [Dual-Use Research and Biosecurity](https://spoileralert.wtf/md-files/rei_dual_use_biosecurity.md) — the tension between knowledge and danger
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the ethical question at the core of genetic engineering
 
 ## Further Reading
 

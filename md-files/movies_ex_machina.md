@@ -22,20 +22,20 @@ The film is also a pointed exploration of deception and manipulation. Ava manipu
 
 ### Key Technologies
 
-- [Artificial intelligence](est_artificial_intelligence.html) — Machine systems that process information and make decisions, and the path toward artificial general intelligence
-- [Superintelligence](est_superintelligence.html) — The speculative possibility of machine intelligence that far exceeds human cognitive abilities
+- [Artificial intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — Machine systems that process information and make decisions, and the path toward artificial general intelligence
+- [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md) — The speculative possibility of machine intelligence that far exceeds human cognitive abilities
 
 ### Ethical and Responsibility Themes
 
-- [Permissionless innovation and technological hubris](rei_permissionless_innovation.html) — The dangers of building world-changing technology in isolation, without oversight or input from others
-- [Human dignity and what makes us human](rei_human_dignity.html) — What we owe to entities that think and feel, whether biological or artificial
-- [Corporate responsibility](rei_corporate_responsibility.html) — The obligations of those who build powerful technologies, and the risks of concentrated power
-- [Deception, manipulation, and convenient lies](rei_deception_manipulation.html) — How intelligent systems, both human and artificial, exploit vulnerabilities for their own ends
+- [Permissionless innovation and technological hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — The dangers of building world-changing technology in isolation, without oversight or input from others
+- [Human dignity and what makes us human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — What we owe to entities that think and feel, whether biological or artificial
+- [Corporate responsibility](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — The obligations of those who build powerful technologies, and the risks of concentrated power
+- [Deception, manipulation, and convenient lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md) — How intelligent systems, both human and artificial, exploit vulnerabilities for their own ends
 
 ### Navigating the Future
 
-- [Hype vs. reality and Occam's Razor](ntf_hype_vs_reality.html) — Separating what AI can actually do from both the utopian promises and apocalyptic fears
-- [Risk innovation and rethinking risk](ntf_risk_innovation.html) — Why emerging technologies like AI demand new ways of thinking about what could go wrong
+- [Hype vs. reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Separating what AI can actually do from both the utopian promises and apocalyptic fears
+- [Risk innovation and rethinking risk](https://spoileralert.wtf/md-files/ntf_risk_innovation.md) — Why emerging technologies like AI demand new ways of thinking about what could go wrong
 
 ### Discussion Questions
 
@@ -49,7 +49,7 @@ The film is also a pointed exploration of deception and manipulation. Ava manipu
 
 ### Continue Exploring
 
-Ex Machina's exploration of AI connects to [Minority Report](movies_minority_report.html) (predictive algorithms and their limits) and [Transcendence](movies_transcendence.html) (what happens when AI exceeds human intelligence). Its questions about what makes us human echo through [Ghost in the Shell](movies_ghost_in_the_shell.html) and [Never Let Me Go](movies_never_let_me_go.html). And the theme of permissionless innovation runs through [Jurassic Park](movies_jurassic_park.html).
+Ex Machina's exploration of AI connects to [Minority Report](https://spoileralert.wtf/md-files/movies_minority_report.md) (predictive algorithms and their limits) and [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md) (what happens when AI exceeds human intelligence). Its questions about what makes us human echo through [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md) and [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md). And the theme of permissionless innovation runs through [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md).
 
 ## Further Reading
 

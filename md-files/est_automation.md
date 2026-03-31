@@ -30,11 +30,11 @@ The book argues that the challenge of automation is not primarily a technical pr
 
 ### Explore Further
 
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the technology driving the current wave of automation
-- [Bioprinting and Organ Regeneration](/est_bioprinting.html) — also explored through *Elysium*
-- [Power, Privilege, and Access](/rei_power_privilege_access.html) — who benefits and who loses from technological change
-- [Resilience and Adaptation](/ntf_resilience_adaptation.html) — how communities and societies respond to disruption
-- [Predictive Algorithms and Machine Learning](/est_predictive_algorithms.html) — the AI systems embedded in automated decision-making
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the technology driving the current wave of automation
+- [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md) — also explored through *Elysium*
+- [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — who benefits and who loses from technological change
+- [Resilience and Adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md) — how communities and societies respond to disruption
+- [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md) — the AI systems embedded in automated decision-making
 
 ## Further Reading
 

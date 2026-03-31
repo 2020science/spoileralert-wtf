@@ -22,21 +22,21 @@ The chapter also examines the role of scientists as advocates and activists. Unl
 
 ### Key Technologies
 
-- [Gain-of-function research](est_gain_of_function.html) — Deliberately modifying pathogens to study how they could become more dangerous
-- [Synthetic biology](est_synthetic_biology.html) — Designing and constructing biological systems and organisms from scratch
-- [Genetic engineering](est_genetic_engineering.html) — The tools and techniques for reading, writing, and editing the genetic code
+- [Gain-of-function research](https://spoileralert.wtf/md-files/est_gain_of_function.md) — Deliberately modifying pathogens to study how they could become more dangerous
+- [Synthetic biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — Designing and constructing biological systems and organisms from scratch
+- [Genetic engineering](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — The tools and techniques for reading, writing, and editing the genetic code
 
 ### Ethical and Responsibility Themes
 
-- [Could we? Should we?](rei_could_we_should_we.html) — The terrifying implications of having the capability to reshape biology at will
-- [Dual-use research and biosecurity](rei_dual_use.html) — When research intended to protect can also be used to harm
-- [The role of scientists and innovators in society](rei_role_of_scientists.html) — The responsibilities that come with expertise, and the line between advocacy and overreach
-- [Deception, manipulation, and convenient lies](rei_deception_manipulation.html) — How moral certainty can be used to justify terrible acts
+- [Could we? Should we?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — The terrifying implications of having the capability to reshape biology at will
+- [Dual-use research and biosecurity](https://spoileralert.wtf/md-files/rei_dual_use_biosecurity.md) — When research intended to protect can also be used to harm
+- [The role of scientists and innovators in society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) — The responsibilities that come with expertise, and the line between advocacy and overreach
+- [Deception, manipulation, and convenient lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md) — How moral certainty can be used to justify terrible acts
 
 ### Navigating the Future
 
-- [Hype vs. reality](ntf_hype_vs_reality.html) — Separating genuine biosecurity risks from overblown fears
-- [Science, belief, and ways of knowing](ntf_science_belief.html) — How conviction and evidence interact in decisions about dangerous technologies
+- [Hype vs. reality](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Separating genuine biosecurity risks from overblown fears
+- [Science, belief, and ways of knowing](https://spoileralert.wtf/md-files/ntf_science_belief.md) — How conviction and evidence interact in decisions about dangerous technologies
 
 ### Discussion Questions
 
@@ -50,7 +50,7 @@ The chapter also examines the role of scientists as advocates and activists. Unl
 
 ### Continue Exploring
 
-Inferno's exploration of genetic manipulation connects to [Jurassic Park](movies_jurassic_park.html) (the ethics of genetic engineering) and the synthetic biology themes in [Transcendence](movies_transcendence.html). The question of scientists' responsibilities to society is also central to [The Man in the White Suit](movies_man_in_the_white_suit.html) and [Contact](movies_contact.html). And for more on how belief and evidence interact, see [Contact](movies_contact.html).
+Inferno's exploration of genetic manipulation connects to [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) (the ethics of genetic engineering) and the synthetic biology themes in [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md). The question of scientists' responsibilities to society is also central to [The Man in the White Suit](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md) and [Contact](https://spoileralert.wtf/md-files/movies_contact.md). And for more on how belief and evidence interact, see [Contact](https://spoileralert.wtf/md-files/movies_contact.md).
 
 ## Further Reading
 

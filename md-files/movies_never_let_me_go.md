@@ -22,21 +22,21 @@ The chapter also uses the film to open up one of the book's most important quest
 
 ### Key Technologies
 
-- [Cloning and reproductive biology](est_cloning.html) — The science of creating genetically identical organisms, from Dolly the sheep to the prospect of human reproductive cloning
-- [Organ harvesting and transplantation](est_organ_transplantation.html) — The technologies and ethics of using biological systems to supply replacement organs
+- [Cloning and reproductive biology](https://spoileralert.wtf/md-files/est_cloning.md) — The science of creating genetically identical organisms, from Dolly the sheep to the prospect of human reproductive cloning
+- [Organ harvesting and transplantation](https://spoileralert.wtf/md-files/est_organ_transplantation.md) — The technologies and ethics of using biological systems to supply replacement organs
 
 ### Ethical and Responsibility Themes
 
-- [Human dignity and what makes us human](rei_human_dignity.html) — How we define worth, identity, and the boundaries of humanity
-- [Too valuable to fail](rei_too_valuable_to_fail.html) — When the benefits of a technology make us unwilling to confront its moral costs
-- [Could we? Should we?](rei_could_we_should_we.html) — The gap between technical capability and ethical wisdom
-- [Informed consent and autonomy](rei_informed_consent.html) — The right to understand and choose what happens to your own body and life
-- [Deception, manipulation, and convenient lies](rei_deception_manipulation.html) — How societies construct comfortable narratives to justify harmful technologies
+- [Human dignity and what makes us human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — How we define worth, identity, and the boundaries of humanity
+- [Too valuable to fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md) — When the benefits of a technology make us unwilling to confront its moral costs
+- [Could we? Should we?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — The gap between technical capability and ethical wisdom
+- [Informed consent and autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md) — The right to understand and choose what happens to your own body and life
+- [Deception, manipulation, and convenient lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md) — How societies construct comfortable narratives to justify harmful technologies
 
 ### Navigating the Future
 
-- [Everyone has a role to play](ntf_everyone_has_a_role.html) — Why decisions about powerful technologies cannot be left to experts alone
-- [The human dimension](ntf_human_dimension.html) — Keeping human lives and experiences at the center of how we think about technology
+- [Everyone has a role to play](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) — Why decisions about powerful technologies cannot be left to experts alone
+- [The human dimension](https://spoileralert.wtf/md-files/ntf_human_dimension.md) — Keeping human lives and experiences at the center of how we think about technology
 
 ### Discussion Questions
 
@@ -50,7 +50,7 @@ The chapter also uses the film to open up one of the book's most important quest
 
 ### Continue Exploring
 
-Never Let Me Go shares its concern with human dignity and identity with [Ghost in the Shell](movies_ghost_in_the_shell.html) and [Ex Machina](movies_ex_machina.html), both of which push the question of what counts as "human" in different directions. The theme of technologies that become too valuable to challenge also surfaces in [Elysium](movies_elysium.html) and [The Day After Tomorrow](movies_day_after_tomorrow.html).
+Never Let Me Go shares its concern with human dignity and identity with [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md) and [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md), both of which push the question of what counts as "human" in different directions. The theme of technologies that become too valuable to challenge also surfaces in [Elysium](https://spoileralert.wtf/md-files/movies_elysium.md) and [The Day After Tomorrow](https://spoileralert.wtf/md-files/movies_day_after_tomorrow.md).
 
 ## Further Reading
 

@@ -32,11 +32,11 @@ If a device can read your neural activity, who has access to that data? If a BCI
 
 ### Explore Further
 
-- [Human Augmentation and Body Modification](/est_human_augmentation.html) — the broader landscape of integrating technology with the body
-- [Mind Uploading and Consciousness Transfer](/est_mind_uploading.html) — the ultimate extension of brain-computer interface technology
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the digital systems BCIs would connect us to
-- [Human Dignity and What Makes Us Human](/rei_human_dignity.html) — what happens to identity when the brain is connected to a machine
-- [Technological Convergence](/est_technological_convergence.html) — BCIs as a prime example of multiple fields merging
+- [Human Augmentation and Body Modification](https://spoileralert.wtf/md-files/est_human_augmentation.md) — the broader landscape of integrating technology with the body
+- [Mind Uploading and Consciousness Transfer](https://spoileralert.wtf/md-files/est_mind_uploading.md) — the ultimate extension of brain-computer interface technology
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the digital systems BCIs would connect us to
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — what happens to identity when the brain is connected to a machine
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — BCIs as a prime example of multiple fields merging
 
 ## Further Reading
 

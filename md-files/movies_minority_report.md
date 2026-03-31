@@ -20,19 +20,19 @@ Beyond prediction, the chapter explores the broader implications of ubiquitous s
 
 ### Key Technologies
 
-- [Predictive algorithms and machine learning](est_predictive_algorithms.html) — Using data and computation to anticipate future events, including human behavior
-- [Ubiquitous surveillance and big data](est_surveillance.html) — The growing capacity to monitor, record, and analyze everything
-- [Artificial intelligence](est_artificial_intelligence.html) — Machine systems that process information and make decisions in ways that mimic or exceed human cognition
+- [Predictive algorithms and machine learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md) — Using data and computation to anticipate future events, including human behavior
+- [Ubiquitous surveillance and big data](https://spoileralert.wtf/md-files/est_surveillance.md) — The growing capacity to monitor, record, and analyze everything
+- [Artificial intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — Machine systems that process information and make decisions in ways that mimic or exceed human cognition
 
 ### Ethical and Responsibility Themes
 
-- [Surveillance, privacy, and control](rei_surveillance_privacy.html) — The tension between security and the right to live without being watched
-- [Informed consent and autonomy](rei_informed_consent.html) — The right to make decisions about your own life free from coercion or manipulation
+- [Surveillance, privacy, and control](https://spoileralert.wtf/md-files/rei_surveillance_privacy_control.md) — The tension between security and the right to live without being watched
+- [Informed consent and autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md) — The right to make decisions about your own life free from coercion or manipulation
 
 ### Navigating the Future
 
-- [Hype vs. reality and Occam's Razor](ntf_hype_vs_reality.html) — Separating what technologies can actually do from what their promoters claim
-- [Complexity, chaos, and unintended consequences](ntf_complexity_chaos.html) — Why systems designed to prevent harm can end up causing it
+- [Hype vs. reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Separating what technologies can actually do from what their promoters claim
+- [Complexity, chaos, and unintended consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — Why systems designed to prevent harm can end up causing it
 
 ### Discussion Questions
 
@@ -46,7 +46,7 @@ Beyond prediction, the chapter explores the broader implications of ubiquitous s
 
 ### Continue Exploring
 
-Minority Report's concerns about surveillance and algorithmic control connect directly to [Ghost in the Shell](movies_ghost_in_the_shell.html), which imagines a world of pervasive digital surveillance and hacking. The theme of convenient lies that sustain flawed systems echoes through [Never Let Me Go](movies_never_let_me_go.html). And for more on the promises and perils of artificial intelligence, see [Ex Machina](movies_ex_machina.html).
+Minority Report's concerns about surveillance and algorithmic control connect directly to [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md), which imagines a world of pervasive digital surveillance and hacking. The theme of convenient lies that sustain flawed systems echoes through [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md). And for more on the promises and perils of artificial intelligence, see [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md).
 
 ## Further Reading
 

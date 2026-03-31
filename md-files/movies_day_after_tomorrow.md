@@ -24,18 +24,18 @@ The chapter also raises the question of resilience versus preservation. Is it be
 
 ### Key Technologies
 
-- [Climate science and complex Earth systems](est_climate_science.html) — Understanding how the Earth's climate works, and why it is so difficult to predict
-- [Geoengineering](est_geoengineering.html) — Proposals for deliberately manipulating the Earth's climate at a planetary scale
+- [Climate science and complex Earth systems](https://spoileralert.wtf/md-files/est_climate_science.md) — Understanding how the Earth's climate works, and why it is so difficult to predict
+- [Geoengineering](https://spoileralert.wtf/md-files/est_geoengineering.md) — Proposals for deliberately manipulating the Earth's climate at a planetary scale
 
 ### Ethical and Responsibility Themes
 
-- [Intergenerational responsibility](rei_intergenerational_responsibility.html) — Our obligation to consider the world we leave for future generations
-- [Too valuable to fail](rei_too_valuable_to_fail.html) — When the systems that sustain our way of life become too entrenched to change, even when we know they are causing harm
+- [Intergenerational responsibility](https://spoileralert.wtf/md-files/rei_intergenerational_responsibility.md) — Our obligation to consider the world we leave for future generations
+- [Too valuable to fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md) — When the systems that sustain our way of life become too entrenched to change, even when we know they are causing harm
 
 ### Navigating the Future
 
-- [Complexity, chaos, and unintended consequences](ntf_complexity_chaos.html) — Why intervening in complex systems can produce outcomes worse than the problems we are trying to solve
-- [Resilience and adaptation](ntf_resilience_adaptation.html) — Building the capacity to withstand and recover from disruption, rather than trying to prevent all change
+- [Complexity, chaos, and unintended consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — Why intervening in complex systems can produce outcomes worse than the problems we are trying to solve
+- [Resilience and adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md) — Building the capacity to withstand and recover from disruption, rather than trying to prevent all change
 
 ### Discussion Questions
 
@@ -49,7 +49,7 @@ The chapter also raises the question of resilience versus preservation. Is it be
 
 ### Continue Exploring
 
-The Day After Tomorrow's themes of intergenerational responsibility and the consequences of inaction connect to [Elysium](movies_elysium.html), which imagines a future shaped by past neglect. Its exploration of complex systems echoes [Jurassic Park](movies_jurassic_park.html) (chaos theory) and [Transcendence](movies_transcendence.html) (unintended consequences of converging technologies). And for more on geoengineering and the ethics of planetary-scale intervention, see [Could We? Should We?](rei_could_we_should_we.html).
+The Day After Tomorrow's themes of intergenerational responsibility and the consequences of inaction connect to [Elysium](https://spoileralert.wtf/md-files/movies_elysium.md), which imagines a future shaped by past neglect. Its exploration of complex systems echoes [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) (chaos theory) and [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md) (unintended consequences of converging technologies). And for more on geoengineering and the ethics of planetary-scale intervention, see [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md).
 
 ## Further Reading
 

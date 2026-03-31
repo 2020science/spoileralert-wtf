@@ -32,10 +32,10 @@ The book uses climate science as a case study in the broader challenge of naviga
 
 ### Explore Further
 
-- [Geoengineering](/est_geoengineering.html) — proposed technological interventions in the climate system
-- [Complexity and Unintended Consequences](/ntf_complexity_chaos.html) — a theme that connects climate to every other technology in the book
-- [Resilience and Adaptation](/ntf_resilience_adaptation.html) — how societies can prepare for and respond to climate change
-- [Technological Convergence](/est_technological_convergence.html) — the intersecting technologies that could help address climate challenges
+- [Geoengineering](https://spoileralert.wtf/md-files/est_geoengineering.md) — proposed technological interventions in the climate system
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — a theme that connects climate to every other technology in the book
+- [Resilience and Adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md) — how societies can prepare for and respond to climate change
+- [Technological Convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — the intersecting technologies that could help address climate challenges
 
 ## Further Reading
 

@@ -34,10 +34,10 @@ The lesson from *Jurassic Park*, and from the book, is not that we should stop e
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/est_genetic_engineering.html) — the foundational technology behind de-extinction
-- [Gene Drives](/est_gene_drives.html) — another powerful genetic technology with ecological implications
-- [Could We? Should We?](/rei_could_we_should_we.html) — the ethical framework for asking whether capability equals permission
-- [Complexity and Unintended Consequences](/ntf_complexity_chaos.html) — why engineered ecosystems rarely behave as planned
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the foundational technology behind de-extinction
+- [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md) — another powerful genetic technology with ecological implications
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the ethical framework for asking whether capability equals permission
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — why engineered ecosystems rarely behave as planned
 
 ## Further Reading
 

@@ -32,10 +32,10 @@ The book draws attention to a broader pattern here: the tendency to frame enhanc
 
 ### Explore Further
 
-- [Human Augmentation and Body Modification](/est_human_augmentation.html) — physical enhancement as the counterpart to cognitive enhancement
-- [Brain-Computer Interfaces](/est_brain_computer_interfaces.html) — another path to enhancing the human mind
-- [Power, Privilege, and Access](/rei_power_privilege_access.html) — who benefits when enhancement is available to some but not all?
-- [Could We? Should We?](/rei_could_we_should_we.html) — the ethics of going beyond treatment to enhancement
+- [Human Augmentation and Body Modification](https://spoileralert.wtf/md-files/est_human_augmentation.md) — physical enhancement as the counterpart to cognitive enhancement
+- [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md) — another path to enhancing the human mind
+- [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — who benefits when enhancement is available to some but not all?
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the ethics of going beyond treatment to enhancement
 
 ## Further Reading
 

@@ -22,18 +22,18 @@ There is also the question of consent and autonomy. If cognitive enhancers becom
 
 ### Key Technologies
 
-- [Smart drugs and cognitive enhancement (nootropics)](est_smart_drugs.html) — Pharmaceuticals and supplements used to boost mental performance, from prescription medications to bespoke supplement stacks
-- [The nature and definition of intelligence](est_intelligence.html) — What intelligence actually is, and why it resists simple enhancement
+- [Smart drugs and cognitive enhancement (nootropics)](https://spoileralert.wtf/md-files/est_smart_drugs.md) — Pharmaceuticals and supplements used to boost mental performance, from prescription medications to bespoke supplement stacks
+- [The nature and definition of intelligence](https://spoileralert.wtf/md-files/est_intelligence.md) — What intelligence actually is, and why it resists simple enhancement
 
 ### Ethical and Responsibility Themes
 
-- [Could we? Should we?](rei_could_we_should_we.html) — Just because we can enhance cognitive performance, does that mean we should?
-- [Power, privilege, and access](rei_power_privilege_access.html) — Who gets access to enhancement technologies, and what happens to those who do not
-- [Informed consent and autonomy](rei_informed_consent.html) — The right to choose whether to enhance yourself, free from pressure or coercion
+- [Could we? Should we?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — Just because we can enhance cognitive performance, does that mean we should?
+- [Power, privilege, and access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — Who gets access to enhancement technologies, and what happens to those who do not
+- [Informed consent and autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md) — The right to choose whether to enhance yourself, free from pressure or coercion
 
 ### Navigating the Future
 
-- [Hype vs. reality and Occam's Razor](ntf_hype_vs_reality.html) — Separating the actual capabilities of cognitive enhancers from the marketing and mythology surrounding them
+- [Hype vs. reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Separating the actual capabilities of cognitive enhancers from the marketing and mythology surrounding them
 
 ### Discussion Questions
 
@@ -47,7 +47,7 @@ There is also the question of consent and autonomy. If cognitive enhancers becom
 
 ### Continue Exploring
 
-Limitless shares its concern with human enhancement with [Ghost in the Shell](movies_ghost_in_the_shell.html), which takes the idea from pharmaceuticals to cybernetic implants. The theme of access and privilege connects to [Elysium](movies_elysium.html), where advanced technology benefits only the wealthy. And for more on the gap between technological hype and reality, see [Ex Machina](movies_ex_machina.html) and [Contact](movies_contact.html).
+Limitless shares its concern with human enhancement with [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md), which takes the idea from pharmaceuticals to cybernetic implants. The theme of access and privilege connects to [Elysium](https://spoileralert.wtf/md-files/movies_elysium.md), where advanced technology benefits only the wealthy. And for more on the gap between technological hype and reality, see [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md) and [Contact](https://spoileralert.wtf/md-files/movies_contact.md).
 
 ## Further Reading
 

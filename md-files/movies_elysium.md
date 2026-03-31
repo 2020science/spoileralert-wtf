@@ -22,20 +22,20 @@ The chapter also raises the question of intergenerational responsibility. The ru
 
 ### Key Technologies
 
-- [Bioprinting and organ regeneration](est_bioprinting.html) — 3D-printing biological tissues and organs using a patient's own cells
-- [Automation and robotics](est_automation_robotics.html) — Machines that perform tasks previously done by humans, and the economic disruption this creates
+- [Bioprinting and organ regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md) — 3D-printing biological tissues and organs using a patient's own cells
+- [Automation and robotics](https://spoileralert.wtf/md-files/est_automation.md) — Machines that perform tasks previously done by humans, and the economic disruption this creates
 
 ### Ethical and Responsibility Themes
 
-- [Power, privilege, and access](rei_power_privilege_access.html) — Who benefits from new technologies and who is left behind
-- [Too valuable to fail](rei_too_valuable_to_fail.html) — When the systems that sustain inequality become too entrenched to challenge
-- [Corporate responsibility and the profit motive](rei_corporate_responsibility.html) — The role of corporations in determining who gets access to life-changing technologies
-- [Intergenerational responsibility](rei_intergenerational_responsibility.html) — Our obligation to consider the world we are leaving for future generations
+- [Power, privilege, and access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — Who benefits from new technologies and who is left behind
+- [Too valuable to fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md) — When the systems that sustain inequality become too entrenched to challenge
+- [Corporate responsibility and the profit motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — The role of corporations in determining who gets access to life-changing technologies
+- [Intergenerational responsibility](https://spoileralert.wtf/md-files/rei_intergenerational_responsibility.md) — Our obligation to consider the world we are leaving for future generations
 
 ### Navigating the Future
 
-- [Resilience and adaptation](ntf_resilience_adaptation.html) — Building societies that can withstand and adapt to technological disruption
-- [Everyone has a role to play](ntf_everyone_has_a_role.html) — Why decisions about powerful technologies must include those most affected by them
+- [Resilience and adaptation](https://spoileralert.wtf/md-files/ntf_resilience_adaptation.md) — Building societies that can withstand and adapt to technological disruption
+- [Everyone has a role to play](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) — Why decisions about powerful technologies must include those most affected by them
 
 ### Discussion Questions
 
@@ -48,7 +48,7 @@ The chapter also raises the question of intergenerational responsibility. The ru
 
 ### Continue Exploring
 
-Elysium's focus on technological inequality connects to [Limitless](movies_limitless.html) (who gets access to cognitive enhancement?) and [Ghost in the Shell](movies_ghost_in_the_shell.html) (who controls the technologies that augment your body?). The theme of intergenerational responsibility runs through [The Day After Tomorrow](movies_day_after_tomorrow.html). And for more on the tension between corporate interests and public good, see [Jurassic Park](movies_jurassic_park.html).
+Elysium's focus on technological inequality connects to [Limitless](https://spoileralert.wtf/md-files/movies_limitless.md) (who gets access to cognitive enhancement?) and [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md) (who controls the technologies that augment your body?). The theme of intergenerational responsibility runs through [The Day After Tomorrow](https://spoileralert.wtf/md-files/movies_day_after_tomorrow.md). And for more on the tension between corporate interests and public good, see [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md).
 
 ## Further Reading
 

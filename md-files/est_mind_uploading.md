@@ -34,11 +34,11 @@ At the same time, dismissing the idea entirely would mean ignoring the genuine a
 
 ### Explore Further
 
-- [Brain-Computer Interfaces](/est_brain_computer_interfaces.html) — the current technology closest to the brain-machine boundary
-- [Superintelligence](/est_superintelligence.html) — the broader vision of transcending human cognitive limits
-- [Artificial Intelligence](/est_artificial_intelligence.html) — the computational foundation for any mind-uploading scenario
-- [Human Dignity and What Makes Us Human](/rei_human_dignity.html) — what identity means when consciousness can be copied
-- [Hype vs. Reality and Occam's Razor](/ntf_hype_vs_reality.html) — evaluating extraordinary technological claims
+- [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md) — the current technology closest to the brain-machine boundary
+- [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md) — the broader vision of transcending human cognitive limits
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — the computational foundation for any mind-uploading scenario
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — what identity means when consciousness can be copied
+- [Hype vs. Reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — evaluating extraordinary technological claims
 
 ## Further Reading
 

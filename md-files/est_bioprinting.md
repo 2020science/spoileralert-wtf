@@ -32,10 +32,10 @@ The book argues that thinking about access and equity needs to happen alongside 
 
 ### Explore Further
 
-- [Cloning and Reproductive Biology](/est_cloning.html) — another approach to growing biological material
-- [Human Augmentation and Body Modification](/est_human_augmentation.html) — the broader landscape of rebuilding the human body
-- [Automation and Robotics](/est_automation.html) — also explored through *Elysium*
-- [Power, Privilege, and Access](/rei_power_privilege_access.html) — who benefits from advanced medical technology?
+- [Cloning and Reproductive Biology](https://spoileralert.wtf/md-files/est_cloning.md) — another approach to growing biological material
+- [Human Augmentation and Body Modification](https://spoileralert.wtf/md-files/est_human_augmentation.md) — the broader landscape of rebuilding the human body
+- [Automation and Robotics](https://spoileralert.wtf/md-files/est_automation.md) — also explored through *Elysium*
+- [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — who benefits from advanced medical technology?
 
 ## Further Reading
 

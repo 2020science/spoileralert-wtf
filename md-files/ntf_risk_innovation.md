@@ -8,7 +8,7 @@ The problem, as *Films from the Future* lays it out, is that established approac
 
 Traditional risk assessment tends to focus on measurable things: the probability of physical harm, the extent of environmental damage, the number of people affected. These are important, and they are not going away. But emerging technologies threaten things that are much harder to measure -- and, Maynard argues, just as important.
 
-This is where the movies become unexpectedly revealing. In each film, the characters risk losing something of great importance. In [Jurassic Park](/movies_jurassic_park.html), it is John Hammond's dream. In [Never Let Me Go](/movies_never_let_me_go.html), it is Tommy's hope for the future. In [Ghost in the Shell](/movies_ghost_in_the_shell.html), it is Major Kusanagi's sense of who and what she is. These are not physical risks. They are threats to dignity, belonging, identity, belief -- to things that are so important to us that our lives are diminished if they are taken away.
+This is where the movies become unexpectedly revealing. In each film, the characters risk losing something of great importance. In [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md), it is John Hammond's dream. In [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md), it is Tommy's hope for the future. In [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md), it is Major Kusanagi's sense of who and what she is. These are not physical risks. They are threats to dignity, belonging, identity, belief -- to things that are so important to us that our lives are diminished if they are taken away.
 
 By revealing these less obvious risks, the movies open up new and powerful ways of thinking about developing technologies without causing unnecessary harm. The risk is not just that a technology might hurt someone physically. It is that it might erode what makes their life meaningful.
 
@@ -22,15 +22,15 @@ This work connects directly to the Risk Innovation Nexus that Maynard establishe
 
 ### Risk at the Core of Every Movie
 
-Risk is at the core of every film in the book, though it is not always apparent that risk is what keeps you glued to the screen. Most of us think about risk in terms of someone's life being in danger or the environment being threatened, and there is plenty of that. But the movies also explore subtler dynamics. The tension in [Ex Machina](/movies_ex_machina.html) comes not from the physical danger of an AI on the loose, but from the way it exploits human vulnerabilities. The drama in [The Man in the White Suit](/movies_man_in_the_white_suit.html) arises from a scientist who never considered that his invention might threaten other people's livelihoods.
+Risk is at the core of every film in the book, though it is not always apparent that risk is what keeps you glued to the screen. Most of us think about risk in terms of someone's life being in danger or the environment being threatened, and there is plenty of that. But the movies also explore subtler dynamics. The tension in [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md) comes not from the physical danger of an AI on the loose, but from the way it exploits human vulnerabilities. The drama in [The Man in the White Suit](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md) arises from a scientist who never considered that his invention might threaten other people's livelihoods.
 
-Watching these films with an open mind can reveal subtle connections between irresponsible innovation and threats to what people value. And those connections have profound implications for how we think about [responsible innovation](/ntf_responsible_innovation_practice.html) and the question of [who gets to decide](/ntf_everyone_has_a_role.html) how technologies are developed.
+Watching these films with an open mind can reveal subtle connections between irresponsible innovation and threats to what people value. And those connections have profound implications for how we think about [responsible innovation](https://spoileralert.wtf/md-files/ntf_responsible_innovation_practice.md) and the question of [who gets to decide](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) how technologies are developed.
 
 ### A New Way of Seeing
 
 Risk innovation is not a set of rules. It is a way of seeing. It asks us to look at emerging technologies and ask not just "what could go wrong?" but "what is at stake?" -- and to recognize that what is at stake extends well beyond what conventional risk frameworks are equipped to handle.
 
-In a world of [converging technologies](/ntf_technological_convergence.html) and [complex systems](/ntf_complexity_chaos.html), this shift in perspective is not optional. It is essential. And it starts with a willingness to take seriously the things that matter most to people, even when -- especially when -- those things resist measurement.
+In a world of [converging technologies](https://spoileralert.wtf/md-files/ntf_technological_convergence.md) and [complex systems](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md), this shift in perspective is not optional. It is essential. And it starts with a willingness to take seriously the things that matter most to people, even when -- especially when -- those things resist measurement.
 
 ## Further Reading
 

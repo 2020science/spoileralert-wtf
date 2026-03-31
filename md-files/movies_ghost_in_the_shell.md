@@ -22,22 +22,22 @@ The chapter also explores who is responsible when the technology in your body fa
 
 ### Key Technologies
 
-- [Human augmentation and body modification](est_human_augmentation.html) — Technologies that enhance or replace parts of the human body, from prosthetics to cybernetic implants
-- [Brain-computer interfaces](est_brain_computer_interfaces.html) — Direct communication pathways between the brain and external devices
-- [Ubiquitous surveillance](est_surveillance.html) — What happens when connected bodies and minds create new vectors for monitoring and control
+- [Human augmentation and body modification](https://spoileralert.wtf/md-files/est_human_augmentation.md) — Technologies that enhance or replace parts of the human body, from prosthetics to cybernetic implants
+- [Brain-computer interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md) — Direct communication pathways between the brain and external devices
+- [Ubiquitous surveillance](https://spoileralert.wtf/md-files/est_surveillance.md) — What happens when connected bodies and minds create new vectors for monitoring and control
 
 ### Ethical and Responsibility Themes
 
-- [Human dignity and what makes us human](rei_human_dignity.html) — The question of identity in a world where the boundary between person and machine is dissolving
-- [Surveillance, privacy, and control](rei_surveillance_privacy.html) — The risks of having your body and mind connected to systems others can access
-- [Power, privilege, and access](rei_power_privilege_access.html) — Who can afford augmentation, and what happens to those who cannot
-- [Informed consent and autonomy](rei_informed_consent.html) — The right to control what is done to your own body and mind
-- [Corporate responsibility](rei_corporate_responsibility.html) — Who is accountable for the technology inside your body
+- [Human dignity and what makes us human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — The question of identity in a world where the boundary between person and machine is dissolving
+- [Surveillance, privacy, and control](https://spoileralert.wtf/md-files/rei_surveillance_privacy_control.md) — The risks of having your body and mind connected to systems others can access
+- [Power, privilege, and access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — Who can afford augmentation, and what happens to those who cannot
+- [Informed consent and autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md) — The right to control what is done to your own body and mind
+- [Corporate responsibility](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — Who is accountable for the technology inside your body
 
 ### Navigating the Future
 
-- [Technological convergence](ntf_technological_convergence.html) — What happens when biotechnology, cybertechnology, and materials science merge together
-- [The human dimension](ntf_human_dimension.html) — Keeping human identity and experience at the center of technological development
+- [Technological convergence](https://spoileralert.wtf/md-files/ntf_technological_convergence.md) — What happens when biotechnology, cybertechnology, and materials science merge together
+- [The human dimension](https://spoileralert.wtf/md-files/ntf_human_dimension.md) — Keeping human identity and experience at the center of technological development
 
 ### Discussion Questions
 
@@ -51,7 +51,7 @@ The chapter also explores who is responsible when the technology in your body fa
 
 ### Continue Exploring
 
-Ghost in the Shell's exploration of what makes us human connects directly to [Never Let Me Go](movies_never_let_me_go.html) (cloned humans) and [Ex Machina](movies_ex_machina.html) (artificial intelligence). The convergence of technologies it depicts is explored further in [Transcendence](movies_transcendence.html). And its concerns about surveillance echo through [Minority Report](movies_minority_report.html).
+Ghost in the Shell's exploration of what makes us human connects directly to [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md) (cloned humans) and [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md) (artificial intelligence). The convergence of technologies it depicts is explored further in [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md). And its concerns about surveillance echo through [Minority Report](https://spoileralert.wtf/md-files/movies_minority_report.md).
 
 ## Further Reading
 

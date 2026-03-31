@@ -34,10 +34,10 @@ Perhaps the most interesting connection the book draws is between the search for
 
 ### Explore Further
 
-- [Artificial Intelligence](/est_artificial_intelligence.html) — creating intelligence here on Earth
-- [Cloning and Reproductive Biology](/est_cloning.html) — creating new forms of life
-- [Science, Belief, and Ways of Knowing](/ntf_science_belief.html) — the relationship between evidence and faith explored in *Contact*
-- [Hype vs. Reality and Occam's Razor](/ntf_hype_vs_reality.html) — tools for evaluating extraordinary claims
+- [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) — creating intelligence here on Earth
+- [Cloning and Reproductive Biology](https://spoileralert.wtf/md-files/est_cloning.md) — creating new forms of life
+- [Science, Belief, and Ways of Knowing](https://spoileralert.wtf/md-files/ntf_science_belief.md) — the relationship between evidence and faith explored in *Contact*
+- [Hype vs. Reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — tools for evaluating extraordinary claims
 
 ## Further Reading
 

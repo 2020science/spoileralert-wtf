@@ -32,11 +32,11 @@ The lesson that *Films from the Future* draws from technologies like gene drives
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/est_genetic_engineering.html) — the foundational technology behind gene drives
-- [De-Extinction and Resurrection Biology](/est_de_extinction.html) — another technology that intervenes in ecosystems
-- [Gain-of-Function Research](/est_gain_of_function.html) — a parallel dual-use dilemma in biology
-- [Complexity and Unintended Consequences](/ntf_complexity_chaos.html) — why engineered biological systems are hard to predict
-- [Could We? Should We?](/rei_could_we_should_we.html) — the ethical question that gene drives make unavoidable
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the foundational technology behind gene drives
+- [De-Extinction and Resurrection Biology](https://spoileralert.wtf/md-files/est_de_extinction.md) — another technology that intervenes in ecosystems
+- [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md) — a parallel dual-use dilemma in biology
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — why engineered biological systems are hard to predict
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the ethical question that gene drives make unavoidable
 
 ## Further Reading
 

@@ -24,17 +24,17 @@ Finally, the chapter explores the search for extraterrestrial intelligence itsel
 
 ### Key Technologies
 
-- [The search for extraterrestrial life](est_seti.html) — SETI, radio telescopes, the Drake Equation, and the discovery of exoplanets
+- [The search for extraterrestrial life](https://spoileralert.wtf/md-files/est_extraterrestrial_life.md) — SETI, radio telescopes, the Drake Equation, and the discovery of exoplanets
 
 ### Ethical and Responsibility Themes
 
-- [The role of scientists and innovators in society](rei_role_of_scientists.html) — What it means to be a scientist driven by both evidence and passion, and the responsibilities that come with that
-- [Religion, belief, and technology](rei_religion_belief_technology.html) — The complex relationship between faith, science, and how we make decisions about the future
+- [The role of scientists and innovators in society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) — What it means to be a scientist driven by both evidence and passion, and the responsibilities that come with that
+- [Religion, belief, and technology](https://spoileralert.wtf/md-files/rei_religion_belief_technology.md) — The complex relationship between faith, science, and how we make decisions about the future
 
 ### Navigating the Future
 
-- [Hype vs. reality and Occam's Razor](ntf_hype_vs_reality.html) — Using the principle that simpler explanations are more likely to be correct to evaluate claims about technology
-- [Science, belief, and ways of knowing](ntf_science_belief.html) — How evidence, faith, and creativity work together in how we understand and navigate the world
+- [Hype vs. reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Using the principle that simpler explanations are more likely to be correct to evaluate claims about technology
+- [Science, belief, and ways of knowing](https://spoileralert.wtf/md-files/ntf_science_belief.md) — How evidence, faith, and creativity work together in how we understand and navigate the world
 
 ### Discussion Questions
 
@@ -48,7 +48,7 @@ Finally, the chapter explores the search for extraterrestrial intelligence itsel
 
 ### Continue Exploring
 
-Contact serves as the closing argument for the entire book, bringing together threads from all the preceding films. Its exploration of science and belief connects to [Inferno](movies_inferno.html) (where conviction overrides caution). Its emphasis on the role of scientists in society echoes [The Man in the White Suit](movies_man_in_the_white_suit.html). And the theme of Occam's Razor as a tool for navigating technological claims runs through [Ex Machina](movies_ex_machina.html), [Limitless](movies_limitless.html), and [Transcendence](movies_transcendence.html). To revisit the full journey across all twelve films, return to [The Movies](movies_hub.html).
+Contact serves as the closing argument for the entire book, bringing together threads from all the preceding films. Its exploration of science and belief connects to [Inferno](https://spoileralert.wtf/md-files/movies_inferno.md) (where conviction overrides caution). Its emphasis on the role of scientists in society echoes [The Man in the White Suit](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md). And the theme of Occam's Razor as a tool for navigating technological claims runs through [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md), [Limitless](https://spoileralert.wtf/md-files/movies_limitless.md), and [Transcendence](https://spoileralert.wtf/md-files/movies_transcendence.md). To revisit the full journey across all twelve films, return to [The Movies](https://spoileralert.wtf/md-files/domain_the_movies.md).
 
 ## Further Reading
 

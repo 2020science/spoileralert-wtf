@@ -10,7 +10,7 @@ Maynard's own career trajectory is a case study in how personal experience shape
 
 Each step brought new insights, but also new forms of uncertainty. The physicist in him valued precision and predictability. The risk scientist learned that the most important risks are often the ones that resist measurement. The technology scholar discovered that the hardest questions are not technical at all, but social: who benefits, who is harmed, who gets to decide.
 
-This trajectory shows up in the book as a gradual broadening of vision, from the specific to the systemic, from the measurable to the meaningful. It is why the book can discuss [gene editing](/est_genetic_engineering.html) and [nanotechnology](/est_nanotechnology.html) with technical authority while also insisting that what matters most is not the technology itself but the human relationships that surround it.
+This trajectory shows up in the book as a gradual broadening of vision, from the specific to the systemic, from the measurable to the meaningful. It is why the book can discuss [gene editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) and [nanotechnology](https://spoileralert.wtf/md-files/est_nanotechnology.md) with technical authority while also insisting that what matters most is not the technology itself but the human relationships that surround it.
 
 ### Technology Begins at Home
 
@@ -22,13 +22,13 @@ These moments do something that technical analysis cannot: they make the abstrac
 
 The Future of Being Human initiative, which Maynard directs, carries a conviction at its core: that relationships, not technologies, determine whether humanity flourishes. This is a striking claim for someone whose career has been devoted to understanding technology. But it reflects a hard-won insight that runs through the entire book.
 
-The technologies explored in *Films from the Future* -- [artificial intelligence](/est_artificial_intelligence.html), [genetic engineering](/est_genetic_engineering.html), [brain-computer interfaces](/est_brain_computer_interfaces.html), [geoengineering](/est_geoengineering.html) -- are extraordinary. But they do not exist in a vacuum. They exist in a world of people with hopes, fears, beliefs, and relationships. The question is never simply "can we build this?" It is always also "what will it mean for us?" And "us" includes not just the innovators and the investors, but the communities who will live with the consequences.
+The technologies explored in *Films from the Future* -- [artificial intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md), [genetic engineering](https://spoileralert.wtf/md-files/est_genetic_engineering.md), [brain-computer interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md), [geoengineering](https://spoileralert.wtf/md-files/est_geoengineering.md) -- are extraordinary. But they do not exist in a vacuum. They exist in a world of people with hopes, fears, beliefs, and relationships. The question is never simply "can we build this?" It is always also "what will it mean for us?" And "us" includes not just the innovators and the investors, but the communities who will live with the consequences.
 
 ### Starting with Ourselves
 
 If the book has a single message about the human dimension of technology, it is this: navigating the future starts with our own relationship to technology and the future we want. Before we can govern emerging technologies wisely, we need to understand our own responses to them -- the excitement, the fear, the temptation to defer to experts, the impulse to look away from uncomfortable possibilities.
 
-This is why the book begins with a personal memory and ends with a personal reflection. It is why it uses movies as its primary vehicle: because movies engage us as whole people, not just as intellects. And it is why this page exists within the [Navigating the Future](/ntf_hub.html) domain, rather than in the technology or ethics sections. The human dimension is not one topic among many. It is the ground on which everything else stands.
+This is why the book begins with a personal memory and ends with a personal reflection. It is why it uses movies as its primary vehicle: because movies engage us as whole people, not just as intellects. And it is why this page exists within the [Navigating the Future](https://spoileralert.wtf/md-files/domain_navigating_the_future.md) domain, rather than in the technology or ethics sections. The human dimension is not one topic among many. It is the ground on which everything else stands.
 
 The invitation, then, is simple but not easy: to bring your whole self -- your experiences, your values, your uncertainties -- to the conversation about what kind of technological future we want to build. That, more than any framework or policy, is where the work of navigating the future begins.
 

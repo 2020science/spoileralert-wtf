@@ -6,7 +6,7 @@ Andrew Maynard recounts this moment in the opening chapter of *Films from the Fu
 
 ### Beyond Sci-Fi Movies
 
-The book's argument about [why sci-fi movies matter](/ntf_why_scifi_movies_matter.html) is specific: these films lower barriers to engagement, reveal hidden connections, and make complex technology conversations accessible. But the larger claim is broader. Art and culture, in all their forms, play a fundamental role in how societies process technological change. Movies are one powerful medium. But the argument extends to literature, visual art, theater, music, and every other form of creative expression that helps people make sense of a world being reshaped by forces they did not choose and do not fully understand.
+The book's argument about [why sci-fi movies matter](https://spoileralert.wtf/md-files/ntf_why_scifi_movies_matter.md) is specific: these films lower barriers to engagement, reveal hidden connections, and make complex technology conversations accessible. But the larger claim is broader. Art and culture, in all their forms, play a fundamental role in how societies process technological change. Movies are one powerful medium. But the argument extends to literature, visual art, theater, music, and every other form of creative expression that helps people make sense of a world being reshaped by forces they did not choose and do not fully understand.
 
 Throughout history, artists and storytellers have been among the first to grapple with the implications of new technologies. Mary Shelley wrote *Frankenstein* as the Industrial Revolution was beginning to transform daily life. H.G. Wells explored the social consequences of scientific progress decades before the technologies he imagined became real. Science fiction as a genre has consistently served as a space where societies rehearse their responses to technological change before the change arrives.
 
@@ -16,7 +16,7 @@ Technical analysis can tell us what a technology does, how it works, and what it
 
 This is where art excels. A novel about a worker displaced by automation conveys something that no economic study can: the texture of that experience, the way it reshapes a person's sense of themselves and their place in the world. A film about artificial intelligence does not just explore the technical challenge of building a thinking machine. It explores what it means to be human in a world where that distinction is no longer clear.
 
-The movies in *Films from the Future* demonstrate this consistently. [Jurassic Park](/movies_jurassic_park.html) is not really about dinosaurs; it is about the consequences of treating nature as a resource to be exploited. [Never Let Me Go](/movies_never_let_me_go.html) is not really about cloning; it is about what happens when some lives are valued less than others. [Contact](/movies_contact.html) is not really about aliens; it is about the relationship between evidence and belief, and what it means to pursue knowledge honestly.
+The movies in *Films from the Future* demonstrate this consistently. [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) is not really about dinosaurs; it is about the consequences of treating nature as a resource to be exploited. [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md) is not really about cloning; it is about what happens when some lives are valued less than others. [Contact](https://spoileralert.wtf/md-files/movies_contact.md) is not really about aliens; it is about the relationship between evidence and belief, and what it means to pursue knowledge honestly.
 
 ### Shared Reference Points
 
@@ -24,7 +24,7 @@ One of the most practical functions of art in technology conversations is the cr
 
 These shared reference points matter because technology governance is not a problem that any single community can solve. It requires conversation between scientists, policymakers, business leaders, activists, and ordinary citizens. Art provides the common language for that conversation. It does not replace expertise, but it creates the conditions under which expertise can be shared, challenged, and enriched by the perspectives of people who might otherwise be excluded.
 
-This connects directly to the book's argument that [everyone has a role to play](/ntf_everyone_has_a_role.html) in shaping our technological future. If the conversation about emerging technologies requires shared language and shared reference points, then the cultural works that provide them are not luxuries. They are infrastructure.
+This connects directly to the book's argument that [everyone has a role to play](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) in shaping our technological future. If the conversation about emerging technologies requires shared language and shared reference points, then the cultural works that provide them are not luxuries. They are infrastructure.
 
 ### The Humanities as Partners
 

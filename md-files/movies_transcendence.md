@@ -24,21 +24,21 @@ The chapter also uses the film to explore the question of what constitutes ident
 
 ### Key Technologies
 
-- [Technological convergence](est_technological_convergence.html) — What happens when advances in different fields merge and amplify each other
-- [Mind uploading and consciousness transfer](est_mind_uploading.html) — The speculative prospect of capturing and reproducing a human mind in a digital system
-- [Synthetic biology](est_synthetic_biology.html) — Engineering biological systems to perform functions beyond what nature evolved
-- [Superintelligence](est_superintelligence.html) — Machine intelligence that far exceeds human cognitive abilities
+- [Technological convergence](https://spoileralert.wtf/md-files/est_technological_convergence.md) — What happens when advances in different fields merge and amplify each other
+- [Mind uploading and consciousness transfer](https://spoileralert.wtf/md-files/est_mind_uploading.md) — The speculative prospect of capturing and reproducing a human mind in a digital system
+- [Synthetic biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — Engineering biological systems to perform functions beyond what nature evolved
+- [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md) — Machine intelligence that far exceeds human cognitive abilities
 
 ### Ethical and Responsibility Themes
 
-- [Human dignity and what makes us human](rei_human_dignity.html) — The question of identity when human and machine are merged
-- [Permissionless innovation and technological hubris](rei_permissionless_innovation.html) — The dangers of pursuing transformative technology without broader input or oversight
+- [Human dignity and what makes us human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — The question of identity when human and machine are merged
+- [Permissionless innovation and technological hubris](https://spoileralert.wtf/md-files/rei_permissionless_innovation.md) — The dangers of pursuing transformative technology without broader input or oversight
 
 ### Navigating the Future
 
-- [Technological convergence](ntf_technological_convergence.html) — Why the merging of different technologies creates both extraordinary opportunities and unprecedented risks
-- [Hype vs. reality and Occam's Razor](ntf_hype_vs_reality.html) — Separating plausible technological trajectories from speculative leaps of faith
-- [Complexity, chaos, and unintended consequences](ntf_complexity_chaos.html) — Why converging technologies produce outcomes that nobody predicted
+- [Technological convergence](https://spoileralert.wtf/md-files/ntf_technological_convergence.md) — Why the merging of different technologies creates both extraordinary opportunities and unprecedented risks
+- [Hype vs. reality and Occam's Razor](https://spoileralert.wtf/md-files/ntf_hype_vs_reality.md) — Separating plausible technological trajectories from speculative leaps of faith
+- [Complexity, chaos, and unintended consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — Why converging technologies produce outcomes that nobody predicted
 
 ### Additional Themes
 
@@ -56,7 +56,7 @@ The chapter also explores **neo-Luddism and anti-technology activism**, includin
 
 ### Continue Exploring
 
-Transcendence's exploration of AI and superintelligence connects directly to [Ex Machina](movies_ex_machina.html). Its vision of converging technologies builds on themes introduced in [Ghost in the Shell](movies_ghost_in_the_shell.html) (human-machine integration) and [Jurassic Park](movies_jurassic_park.html) (genetic engineering). The question of identity when human boundaries are blurred echoes through [Never Let Me Go](movies_never_let_me_go.html).
+Transcendence's exploration of AI and superintelligence connects directly to [Ex Machina](https://spoileralert.wtf/md-files/movies_ex_machina.md). Its vision of converging technologies builds on themes introduced in [Ghost in the Shell](https://spoileralert.wtf/md-files/movies_ghost_in_the_shell.md) (human-machine integration) and [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) (genetic engineering). The question of identity when human boundaries are blurred echoes through [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md).
 
 ## Further Reading
 
