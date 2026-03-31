@@ -38,7 +38,7 @@ Across these films, the book identifies a recurring pattern: a brilliant individ
 
 The book does not argue for stifling innovation. It recognizes the power of curiosity, the value of experimentation, and the genuine breakthroughs that come from people who refuse to be constrained by conventional thinking. But it insists that freedom to innovate must be accompanied by responsibility for consequences, and that this responsibility cannot be shouldered by the innovator alone.
 
-For the technologies at the center of these stories, see [Artificial Intelligence](/est_artificial_intelligence.html), [Superintelligence](/est_superintelligence.html), [Nanotechnology](/est_nanotechnology.html), and [De-Extinction](/est_de_extinction.html). For how this connects to corporate behavior, see [Corporate Responsibility and the Profit Motive](/rei_corporate_responsibility.html).
+For the technologies at the center of these stories, see [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md), [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md), [Nanotechnology](https://spoileralert.wtf/md-files/est_nanotechnology.md), and [De-Extinction](https://spoileralert.wtf/md-files/est_de_extinction.md). For how this connects to corporate behavior, see [Corporate Responsibility and the Profit Motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md).
 
 ## Further Reading
 

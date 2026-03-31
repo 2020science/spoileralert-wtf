@@ -42,7 +42,7 @@ Across these films, the book builds a case that informed consent and autonomy ar
 
 The book argues that as technologies become more powerful and more pervasive, the conditions for genuine consent become harder to maintain. This is not an argument against technology. It is an argument for insisting that the right to understand and to choose remains at the center of how we develop and deploy new innovations.
 
-For the technologies that raise these concerns, see [Smart Drugs and Cognitive Enhancement](/est_smart_drugs.html), [Human Augmentation](/est_human_augmentation.html), and [Predictive Algorithms](/est_predictive_algorithms.html). For how deception undermines consent, see [Deception, Manipulation, and Convenient Lies](/rei_deception_manipulation.html).
+For the technologies that raise these concerns, see [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md), [Human Augmentation](https://spoileralert.wtf/md-files/est_human_augmentation.md), and [Predictive Algorithms](https://spoileralert.wtf/md-files/est_predictive_algorithms.md). For how deception undermines consent, see [Deception, Manipulation, and Convenient Lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md).
 
 ## Further Reading
 

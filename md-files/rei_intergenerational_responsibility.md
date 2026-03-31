@@ -36,7 +36,7 @@ This is a high bar, and the book acknowledges that meeting it requires a kind of
 
 The book does not offer a formula for resolving these questions. But it argues that asking them honestly, and allowing the answers to shape how we develop and deploy technologies, is the minimum that responsibility demands.
 
-For the technologies that raise these long-term questions, see [Climate Science and Geoengineering](/est_climate_science.html) and [Gene Drives](/est_gene_drives.html). For how societies become locked into technologies they cannot easily abandon, see [Too Valuable to Fail](/rei_too_valuable_to_fail.html).
+For the technologies that raise these long-term questions, see [Climate Science and Geoengineering](https://spoileralert.wtf/md-files/est_climate_science.md) and [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md). For how societies become locked into technologies they cannot easily abandon, see [Too Valuable to Fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md).
 
 ## Further Reading
 

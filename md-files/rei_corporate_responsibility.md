@@ -40,7 +40,7 @@ Across these films, the book identifies a persistent tension between the engine 
 
 The book does not argue that profit-driven innovation is inherently wrong. It recognizes that market incentives have produced extraordinary technological advances. But it insists that markets without ethical guardrails will consistently prioritize returns over responsibility, and that the consequences of this become more severe as the technologies in question become more powerful.
 
-For the technologies shaped by these dynamics, see [Artificial Intelligence](/est_artificial_intelligence.html), [Automation and the Future of Work](/est_automation.html), and [Human Augmentation](/est_human_augmentation.html). For how power and privilege shape access, see [Power, Privilege, and Access](/rei_power_privilege_access.html).
+For the technologies shaped by these dynamics, see [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md), [Automation and the Future of Work](https://spoileralert.wtf/md-files/est_automation.md), and [Human Augmentation](https://spoileralert.wtf/md-files/est_human_augmentation.md). For how power and privilege shape access, see [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md).
 
 ## Further Reading
 

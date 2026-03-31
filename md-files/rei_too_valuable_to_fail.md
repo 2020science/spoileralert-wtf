@@ -36,7 +36,7 @@ The book raises difficult questions about how to break this cycle, or whether br
 
 The book does not pretend these questions have easy answers. But it argues that recognizing the trap is the first step toward avoiding it, or at least toward making more honest choices about the technologies we build and the dependencies we create.
 
-For the technologies at the center of these dilemmas, see [Cloning](/est_cloning.html), [Automation and the Future of Work](/est_automation.html), and [Climate Science and Geoengineering](/est_climate_science.html). For the foundational question that precedes lock-in, see [Could We? Should We?](/rei_could_we_should_we.html).
+For the technologies at the center of these dilemmas, see [Cloning](https://spoileralert.wtf/md-files/est_cloning.md), [Automation and the Future of Work](https://spoileralert.wtf/md-files/est_automation.md), and [Climate Science and Geoengineering](https://spoileralert.wtf/md-files/est_climate_science.md). For the foundational question that precedes lock-in, see [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md).
 
 ## Further Reading
 

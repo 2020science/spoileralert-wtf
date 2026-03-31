@@ -40,7 +40,7 @@ The book argues that any serious engagement with the future of technology must r
 - How do we navigate the existential disruptions that emerge when technology challenges our understanding of what is sacred or meaningful?
 - What frameworks of meaning will sustain us in a world where technology is rapidly reshaping the human condition?
 
-For the technologies that provoke these questions, see [The Search for Extraterrestrial Life](/est_extraterrestrial_life.html) and [Mind Uploading](/est_mind_uploading.html). For a broader exploration of how science and ways of knowing intersect, see [Science, Belief, and Ways of Knowing](/ntf_science_belief.html). For the question of what makes us human, see [Human Dignity and What Makes Us Human](/rei_human_dignity.html).
+For the technologies that provoke these questions, see [The Search for Extraterrestrial Life](https://spoileralert.wtf/md-files/est_extraterrestrial_life.md) and [Mind Uploading](https://spoileralert.wtf/md-files/est_mind_uploading.md). For a broader exploration of how science and ways of knowing intersect, see [Science, Belief, and Ways of Knowing](https://spoileralert.wtf/md-files/ntf_science_belief.md). For the question of what makes us human, see [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md).
 
 ## Further Reading
 

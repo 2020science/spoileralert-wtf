@@ -38,7 +38,7 @@ This is not a call for scientists to become politicians or activists. It is an a
 - How do we create institutional structures that encourage scientists to engage with social consequences without punishing them for doing so?
 - What does it mean to be a responsible scientist in an age of converging and accelerating technologies?
 
-For the specific contexts in which these questions arise, see [Nanotechnology](/est_nanotechnology.html), [Gain-of-Function Research](/est_gain_of_function.html), and [The Search for Extraterrestrial Life](/est_extraterrestrial_life.html). For how corporate structures shape the behavior of innovators, see [Corporate Responsibility and the Profit Motive](/rei_corporate_responsibility.html).
+For the specific contexts in which these questions arise, see [Nanotechnology](https://spoileralert.wtf/md-files/est_nanotechnology.md), [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md), and [The Search for Extraterrestrial Life](https://spoileralert.wtf/md-files/est_extraterrestrial_life.md). For how corporate structures shape the behavior of innovators, see [Corporate Responsibility and the Profit Motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md).
 
 ## Further Reading
 

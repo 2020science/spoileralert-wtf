@@ -38,7 +38,7 @@ The book raises questions that resist clean resolution:
 
 The book argues that these questions will only become more pressing as the tools of genetic engineering become more powerful and more widely distributed. The challenge is not to stop research but to develop governance frameworks that are as sophisticated as the science they seek to oversee.
 
-For the technologies at the center of this debate, see [Gain-of-Function Research](/est_gain_of_function.html), [Synthetic Biology](/est_synthetic_biology.html), and [Gene Drives](/est_gene_drives.html). For how the motivations of individual scientists shape these risks, see [The Role of Scientists and Innovators in Society](/rei_role_of_scientists.html).
+For the technologies at the center of this debate, see [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md), [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md), and [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md). For how the motivations of individual scientists shape these risks, see [The Role of Scientists and Innovators in Society](https://spoileralert.wtf/md-files/rei_role_of_scientists.md).
 
 ## Further Reading
 

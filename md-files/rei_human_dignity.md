@@ -38,7 +38,7 @@ The book suggests that rather than trying to expand the definition of "human" to
 - What rights should extend to beings whose consciousness is real but whose origins are artificial?
 - How do we prevent the technologies that blur human boundaries from being used to deny dignity to those who do not fit?
 
-For the technologies that force these questions, see [Cloning](/est_cloning.html), [Human Augmentation](/est_human_augmentation.html), [Artificial Intelligence](/est_artificial_intelligence.html), and [Mind Uploading](/est_mind_uploading.html). For how societies accommodate questionable technologies, see [Too Valuable to Fail](/rei_too_valuable_to_fail.html) and [Deception, Manipulation, and Convenient Lies](/rei_deception_manipulation.html).
+For the technologies that force these questions, see [Cloning](https://spoileralert.wtf/md-files/est_cloning.md), [Human Augmentation](https://spoileralert.wtf/md-files/est_human_augmentation.md), [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md), and [Mind Uploading](https://spoileralert.wtf/md-files/est_mind_uploading.md). For how societies accommodate questionable technologies, see [Too Valuable to Fail](https://spoileralert.wtf/md-files/rei_too_valuable_to_fail.md) and [Deception, Manipulation, and Convenient Lies](https://spoileralert.wtf/md-files/rei_deception_manipulation.md).
 
 ## Further Reading
 

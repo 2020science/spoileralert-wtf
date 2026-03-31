@@ -12,17 +12,17 @@ The economics remain challenging. Producing cultured meat at a price competitive
 
 ### Why It Matters
 
-The book's discussion of [The Man in the White Suit](/md-files/movies_man_in_the_white_suit.md) anticipated exactly this dynamic. In that film, a brilliant invention — an indestructible fabric — is suppressed not because it does not work, but because it threatens the economic interests of both factory owners and workers. Lab-grown meat faces an analogous challenge: even if the technology succeeds, the industries it threatens are politically powerful and culturally embedded.
+The book's discussion of [The Man in the White Suit](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md) anticipated exactly this dynamic. In that film, a brilliant invention — an indestructible fabric — is suppressed not because it does not work, but because it threatens the economic interests of both factory owners and workers. Lab-grown meat faces an analogous challenge: even if the technology succeeds, the industries it threatens are politically powerful and culturally embedded.
 
-This is a case where the book's [Complexity and Unintended Consequences](/md-files/ntf_complexity_chaos.md) framework matters as much as the technology itself. The food system is not just a supply chain — it is an ecosystem of livelihoods, cultural identities, land use patterns, and political alliances. Disrupting it, even for environmental and animal welfare reasons, triggers responses that a purely technical analysis would not predict.
+This is a case where the book's [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) framework matters as much as the technology itself. The food system is not just a supply chain — it is an ecosystem of livelihoods, cultural identities, land use patterns, and political alliances. Disrupting it, even for environmental and animal welfare reasons, triggers responses that a purely technical analysis would not predict.
 
-The convergence dimension is also significant. Cultured meat sits at the intersection of [Synthetic Biology](/md-files/est_synthetic_biology.md), cell biology, bioprocess engineering, and food science — the kind of cross-domain convergence the book describes in [Technological Convergence](/md-files/ntf_technological_convergence.md). And the question of who benefits from this transition — consumers, startups, traditional farmers, the environment — maps directly onto [Power, Privilege, and Access](/md-files/rei_power_privilege_access.md) and the broader question of [Is technological progress actually making most people's lives better?](/md-files/ceq_progress_for_whom.md)
+The convergence dimension is also significant. Cultured meat sits at the intersection of [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md), cell biology, bioprocess engineering, and food science — the kind of cross-domain convergence the book describes in [Technological Convergence](https://spoileralert.wtf/md-files/ntf_technological_convergence.md). And the question of who benefits from this transition — consumers, startups, traditional farmers, the environment — maps directly onto [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) and the broader question of [Is technological progress actually making most people's lives better?](https://spoileralert.wtf/md-files/ceq_progress_for_whom.md)
 
 ### Explore Further
 
-- [Synthetic Biology](/md-files/est_synthetic_biology.md) — the underlying science of engineering biological systems
-- [Technological Convergence](/md-files/ntf_technological_convergence.md) — how multiple fields enable cellular agriculture
-- [The Man in the White Suit](/md-files/movies_man_in_the_white_suit.md) — when innovation threatens existing industries
-- [Corporate Responsibility](/md-files/rei_corporate_responsibility.md) — the obligations of companies disrupting food systems
-- [Complexity and Unintended Consequences](/md-files/ntf_complexity_chaos.md) — why the social dynamics matter as much as the technology
-- [Is technological progress actually making most people's lives better?](/md-files/ceq_progress_for_whom.md) — the broader equity question
+- [Synthetic Biology](https://spoileralert.wtf/md-files/est_synthetic_biology.md) — the underlying science of engineering biological systems
+- [Technological Convergence](https://spoileralert.wtf/md-files/ntf_technological_convergence.md) — how multiple fields enable cellular agriculture
+- [The Man in the White Suit](https://spoileralert.wtf/md-files/movies_man_in_the_white_suit.md) — when innovation threatens existing industries
+- [Corporate Responsibility](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — the obligations of companies disrupting food systems
+- [Complexity and Unintended Consequences](https://spoileralert.wtf/md-files/ntf_complexity_chaos.md) — why the social dynamics matter as much as the technology
+- [Is technological progress actually making most people's lives better?](https://spoileralert.wtf/md-files/ceq_progress_for_whom.md) — the broader equity question

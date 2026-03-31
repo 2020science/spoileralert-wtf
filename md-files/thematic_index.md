@@ -50,6 +50,7 @@ Where a question involves a post-2018 development, the index routes first to the
 - [Elysium chapter](https://spoileralert.wtf/md-files/ch06_elysium.md) — the most sustained treatment of technology and inequality
 - [Limitless chapter](https://spoileralert.wtf/md-files/ch05_limitless.md) — enhancement as class advantage and normalization pressure
 - [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md) — access and equity in medical technology
+- [Organ Transplantation](https://spoileralert.wtf/md-files/est_organ_transplantation.md) — who gets access to life-saving organ replacement, from xenotransplantation to bioprinting
 - [Automation and Robotics](https://spoileralert.wtf/md-files/est_automation.md) — the "disposable workforce" concept
 - [Corporate Responsibility](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md) — market forces without ethical guardrails
 - [Aging, Anti-Aging, and Biopreservation](https://spoileralert.wtf/md-files/p18_aging_anti_aging.md) — who gets to live longer?
@@ -251,6 +252,7 @@ Where a question involves a post-2018 development, the index routes first to the
 **Route to:**
 - [Limitless chapter](https://spoileralert.wtf/md-files/ch05_limitless.md) — normalization pressure, the therapy-enhancement boundary, intelligence redefined
 - [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md) — the evidence and the ethics
+- [Intelligence](https://spoileralert.wtf/md-files/est_intelligence.md) — what intelligence actually is, why it resists simple definitions, and why that matters for enhancement
 - [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) — enhancement as class advantage
 - [Informed Consent and Autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md) — coercion through normalization
 - [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the tension between capability and wisdom

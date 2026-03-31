@@ -38,7 +38,7 @@ Across these films, the book surfaces questions that resist easy answers:
 
 The book does not suggest that technology is inherently a tool of oppression. It recognizes the extraordinary potential of innovations to improve lives across the board. But it insists that this potential will not be realized automatically. Without deliberate attention to questions of access and equity, the default trajectory of innovation is toward those who already have the most.
 
-For the technologies that raise these access questions, see [Smart Drugs and Cognitive Enhancement](/est_smart_drugs.html), [Bioprinting](/est_bioprinting.html), [Human Augmentation](/est_human_augmentation.html), and [Automation and the Future of Work](/est_automation.html). For how corporate incentives shape these dynamics, see [Corporate Responsibility and the Profit Motive](/rei_corporate_responsibility.html).
+For the technologies that raise these access questions, see [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md), [Bioprinting](https://spoileralert.wtf/md-files/est_bioprinting.md), [Human Augmentation](https://spoileralert.wtf/md-files/est_human_augmentation.md), and [Automation and the Future of Work](https://spoileralert.wtf/md-files/est_automation.md). For how corporate incentives shape these dynamics, see [Corporate Responsibility and the Profit Motive](https://spoileralert.wtf/md-files/rei_corporate_responsibility.md).
 
 ## Further Reading
 

@@ -40,7 +40,7 @@ Across these four films, the book reveals that "could we? should we?" is never a
 
 These are not questions with clean answers. But the book argues persuasively that failing to ask them, or leaving them to be answered only by those with the power and resources to build, is itself a choice with consequences.
 
-For the specific technologies that raise these questions, see [De-Extinction](/est_de_extinction.html), [Cloning](/est_cloning.html), [Smart Drugs and Cognitive Enhancement](/est_smart_drugs.html), and [Gain-of-Function Research](/est_gain_of_function.html). For how this tension connects to who bears the consequences, see [Power, Privilege, and Access](/rei_power_privilege_access.html) and [Intergenerational Responsibility](/rei_intergenerational_responsibility.html).
+For the specific technologies that raise these questions, see [De-Extinction](https://spoileralert.wtf/md-files/est_de_extinction.md), [Cloning](https://spoileralert.wtf/md-files/est_cloning.md), [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md), and [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md). For how this tension connects to who bears the consequences, see [Power, Privilege, and Access](https://spoileralert.wtf/md-files/rei_power_privilege_access.md) and [Intergenerational Responsibility](https://spoileralert.wtf/md-files/rei_intergenerational_responsibility.md).
 
 ## Further Reading
 

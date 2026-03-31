@@ -36,7 +36,7 @@ The book argues that any discussion of surveillance technology must grapple with
 
 The book does not argue that surveillance technologies are inherently wrong. It recognizes that there are legitimate uses for predictive analytics and data-driven decision-making. But it insists that the safeguards, the transparency, and the accountability mechanisms must be at least as sophisticated as the technologies themselves. Without them, we risk building a world where the infrastructure of control is so deeply embedded that opting out is no longer possible.
 
-For the technologies behind these concerns, see [Predictive Algorithms](/est_predictive_algorithms.html), [Ubiquitous Surveillance](/est_surveillance.html), and [Brain-Computer Interfaces](/est_brain_computer_interfaces.html). For how these issues connect to individual rights, see [Informed Consent and Autonomy](/rei_informed_consent.html).
+For the technologies behind these concerns, see [Predictive Algorithms](https://spoileralert.wtf/md-files/est_predictive_algorithms.md), [Ubiquitous Surveillance](https://spoileralert.wtf/md-files/est_surveillance.md), and [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md). For how these issues connect to individual rights, see [Informed Consent and Autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md).
 
 ## Further Reading
 

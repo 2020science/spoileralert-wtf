@@ -44,7 +44,7 @@ These patterns raise questions that become more urgent as technologies grow more
 
 The book argues that the antidote to deception is not simply more information but better critical thinking, the kind of disciplined skepticism that asks who benefits from a technology, who bears the costs, and whose voice is being suppressed or ignored.
 
-For the technologies that enable these dynamics, see [Artificial Intelligence](/est_artificial_intelligence.html) and [Superintelligence](/est_superintelligence.html). For how deception undermines consent, see [Informed Consent and Autonomy](/rei_informed_consent.html). For the broader question of when we should say no, see [Could We? Should We?](/rei_could_we_should_we.html).
+For the technologies that enable these dynamics, see [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md) and [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md). For how deception undermines consent, see [Informed Consent and Autonomy](https://spoileralert.wtf/md-files/rei_informed_consent.md). For the broader question of when we should say no, see [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md).
 
 ## Further Reading
 

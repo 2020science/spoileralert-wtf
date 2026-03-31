@@ -4,7 +4,7 @@ In November 2018, the same year *Films from the Future* was published, Chinese s
 
 ### What Has Changed Since 2018
 
-The book explored genetic engineering extensively through [Jurassic Park](/md-files/movies_jurassic_park.md) and [Inferno](/md-files/movies_inferno.md), and the [Genetic Engineering](/md-files/est_genetic_engineering.md) page covered CRISPR-Cas9 as a revolutionary tool. But He Jiankui's experiment crossed a line that had been treated as a firm boundary: making heritable changes to the human germline — modifications that would be passed to future generations.
+The book explored genetic engineering extensively through [Jurassic Park](https://spoileralert.wtf/md-files/movies_jurassic_park.md) and [Inferno](https://spoileralert.wtf/md-files/movies_inferno.md), and the [Genetic Engineering](https://spoileralert.wtf/md-files/est_genetic_engineering.md) page covered CRISPR-Cas9 as a revolutionary tool. But He Jiankui's experiment crossed a line that had been treated as a firm boundary: making heritable changes to the human germline — modifications that would be passed to future generations.
 
 He was widely condemned, imprisoned, and the experiment was deemed reckless by virtually the entire scientific establishment. The girls' identities have been protected, and the long-term effects of the editing are unknown. But the experiment proved something that could not be unproven: it is technically possible to edit a human embryo and bring it to term.
 
@@ -14,19 +14,19 @@ The distinction matters. Gene editing rewrites DNA. Embryo selection chooses amo
 
 ### Why It Matters
 
-This is one of the purest expressions of the book's central question: [Could we? Should we?](/md-files/rei_could_we_should_we.md) The technology exists. The demand exists. The ethical frameworks lag behind.
+This is one of the purest expressions of the book's central question: [Could we? Should we?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) The technology exists. The demand exists. The ethical frameworks lag behind.
 
-The [informed consent](/md-files/rei_informed_consent.md) problem is uniquely acute. The person most affected by these decisions — the child who will be born — cannot consent. Parents make choices on behalf of future people who have no voice in the matter. And the choices are not reversible: heritable edits propagate through all subsequent generations.
+The [informed consent](https://spoileralert.wtf/md-files/rei_informed_consent.md) problem is uniquely acute. The person most affected by these decisions — the child who will be born — cannot consent. Parents make choices on behalf of future people who have no voice in the matter. And the choices are not reversible: heritable edits propagate through all subsequent generations.
 
 The line between preventing disease and designing people is not bright, and it is moving. Few would object to screening embryos for Tay-Sachs or Huntington's disease. More would hesitate at selecting for lower risk of depression or higher predicted intelligence. But the technology does not enforce this distinction — it simply provides information, and what parents do with it is a social question, not a technical one.
 
-The book's [Human Dignity](/md-files/rei_human_dignity.md) framework — explored most powerfully through [Never Let Me Go](/md-files/movies_never_let_me_go.md) — asks what happens when we treat human beings as things to be optimized. And the [Role of Scientists](/md-files/rei_role_of_scientists.md) framework asks what responsibilities researchers bear when their work makes such choices possible. See also [Should we let parents choose their children's genes?](/md-files/ceq_choosing_childrens_genes.md)
+The book's [Human Dignity](https://spoileralert.wtf/md-files/rei_human_dignity.md) framework — explored most powerfully through [Never Let Me Go](https://spoileralert.wtf/md-files/movies_never_let_me_go.md) — asks what happens when we treat human beings as things to be optimized. And the [Role of Scientists](https://spoileralert.wtf/md-files/rei_role_of_scientists.md) framework asks what responsibilities researchers bear when their work makes such choices possible. See also [Should we let parents choose their children's genes?](https://spoileralert.wtf/md-files/ceq_choosing_childrens_genes.md)
 
 ### Explore Further
 
-- [Genetic Engineering and Gene Editing](/md-files/est_genetic_engineering.md) — the foundational technology
-- [Cloning and Reproductive Biology](/md-files/est_cloning.md) — the broader reproductive technology context
-- [Could We? Should We?](/md-files/rei_could_we_should_we.md) — the book's central ethical question
-- [Human Dignity and What Makes Us Human](/md-files/rei_human_dignity.md) — what it means to treat people as designed objects
-- [Aging, Anti-Aging, and Biopreservation](/md-files/p18_aging_anti_aging.md) — related questions about engineering the human body
-- [Should we let parents choose their children's genes?](/md-files/ceq_choosing_childrens_genes.md) — the complex emerging question
+- [Genetic Engineering and Gene Editing](https://spoileralert.wtf/md-files/est_genetic_engineering.md) — the foundational technology
+- [Cloning and Reproductive Biology](https://spoileralert.wtf/md-files/est_cloning.md) — the broader reproductive technology context
+- [Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) — the book's central ethical question
+- [Human Dignity and What Makes Us Human](https://spoileralert.wtf/md-files/rei_human_dignity.md) — what it means to treat people as designed objects
+- [Aging, Anti-Aging, and Biopreservation](https://spoileralert.wtf/md-files/p18_aging_anti_aging.md) — related questions about engineering the human body
+- [Should we let parents choose their children's genes?](https://spoileralert.wtf/md-files/ceq_choosing_childrens_genes.md) — the complex emerging question
