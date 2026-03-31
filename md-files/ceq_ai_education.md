@@ -14,17 +14,17 @@ The deeper question is about what skills matter in a world where AI can perform 
 
 ### What the Book Brings to This
 
-The book's argument that [Everyone Has a Role](/md-files/ntf_everyone_has_a_role.md) in navigating technological change is directly relevant. Students, teachers, parents, administrators, and policymakers all have a stake in how AI reshapes education — and the decisions being made now will shape a generation. The book's insistence that these decisions should not be left to technologists alone is urgent here.
+The book's argument that [Everyone Has a Role](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) in navigating technological change is directly relevant. Students, teachers, parents, administrators, and policymakers all have a stake in how AI reshapes education — and the decisions being made now will shape a generation. The book's insistence that these decisions should not be left to technologists alone is urgent here.
 
-The [Role of Art and Culture](/md-files/ntf_role_of_art_culture.md) framework matters too. If art — including the art of writing — is how we process experience and make meaning, then outsourcing the creation of written work to AI is not just an efficiency question. It is a question about whether we are losing something essential about how humans develop and express understanding.
+The [Role of Art and Culture](https://spoileralert.wtf/md-files/ntf_role_of_art_culture.md) framework matters too. If art — including the art of writing — is how we process experience and make meaning, then outsourcing the creation of written work to AI is not just an efficiency question. It is a question about whether we are losing something essential about how humans develop and express understanding.
 
-[Could We? Should We?](/md-files/rei_could_we_should_we.md) frames the broadest version of this question. AI in education is not inherently good or bad. The question is what kind of education system we want, what role AI should play in it, and whether those decisions are being made deliberately or by default. Right now, the answer is mostly by default.
+[Could We? Should We?](https://spoileralert.wtf/md-files/rei_could_we_should_we.md) frames the broadest version of this question. AI in education is not inherently good or bad. The question is what kind of education system we want, what role AI should play in it, and whether those decisions are being made deliberately or by default. Right now, the answer is mostly by default.
 
 ### Explore Further
 
-- [LLMs, Frontier AI, and Agentic Systems](/md-files/p18_llms_frontier_ai.md) — the technology disrupting education
-- [AI-Generated Art and the IP Question](/md-files/p18_ai_generated_art.md) — parallel questions about authorship and originality
-- [AI, Mental Health, and Behavioral Influence](/md-files/p18_ai_mental_health.md) — AI's effects on young people's wellbeing
-- [Everyone Has a Role](/md-files/ntf_everyone_has_a_role.md) — why this cannot be left to technologists
-- [The Role of Art and Culture](/md-files/ntf_role_of_art_culture.md) — what is lost when creation is automated
-- [The Human Dimension](/md-files/ntf_human_dimension.md) — keeping the focus on what matters for people
+- [LLMs, Frontier AI, and Agentic Systems](https://spoileralert.wtf/md-files/p18_llms_frontier_ai.md) — the technology disrupting education
+- [AI-Generated Art and the IP Question](https://spoileralert.wtf/md-files/p18_ai_generated_art.md) — parallel questions about authorship and originality
+- [AI, Mental Health, and Behavioral Influence](https://spoileralert.wtf/md-files/p18_ai_mental_health.md) — AI's effects on young people's wellbeing
+- [Everyone Has a Role](https://spoileralert.wtf/md-files/ntf_everyone_has_a_role.md) — why this cannot be left to technologists
+- [The Role of Art and Culture](https://spoileralert.wtf/md-files/ntf_role_of_art_culture.md) — what is lost when creation is automated
+- [The Human Dimension](https://spoileralert.wtf/md-files/ntf_human_dimension.md) — keeping the focus on what matters for people
