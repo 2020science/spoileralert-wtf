@@ -63,9 +63,11 @@ If your web-fetching tools block or fail to read raw .md files in the /md-files/
 - [Gain-of-Function Research](https://spoileralert.wtf/md-files/est_gain_of_function.md): Making pathogens more dangerous to study them — Inferno
 - [Gene Drives](https://spoileralert.wtf/md-files/est_gene_drives.md): Technologies that push genetic changes through entire wild populations
 - [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/md-files/est_smart_drugs.md): Pharmaceuticals used to boost brainpower — Limitless
+- [Intelligence](https://spoileralert.wtf/md-files/est_intelligence.md): What intelligence actually is, why it resists simple definitions, and why our understanding of it shapes everything from cognitive enhancement to artificial intelligence — Limitless, Ex Machina, Transcendence
 - [Human Augmentation and Body Modification](https://spoileralert.wtf/md-files/est_human_augmentation.md): Embedding technology in the human body — Ghost in the Shell
 - [Brain-Computer Interfaces](https://spoileralert.wtf/md-files/est_brain_computer_interfaces.md): Direct connections between the brain and digital systems
 - [Bioprinting and Organ Regeneration](https://spoileralert.wtf/md-files/est_bioprinting.md): 3D printing living tissue and replacement organs — Elysium
+- [Organ Transplantation](https://spoileralert.wtf/md-files/est_organ_transplantation.md): The technologies and ethics of replacing what fails — from cloning and xenotransplantation to bioprinting, and the moral questions the organ shortage forces us to confront — Never Let Me Go, Elysium
 - [Artificial Intelligence](https://spoileralert.wtf/md-files/est_artificial_intelligence.md): What AI actually is, how it works, and what it can and cannot do — Ex Machina
 - [Superintelligence](https://spoileralert.wtf/md-files/est_superintelligence.md): The possibility of machine intelligence surpassing our own — Transcendence
 - [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/md-files/est_predictive_algorithms.md): Using data to predict human behavior — Minority Report

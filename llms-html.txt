@@ -61,9 +61,11 @@ Full permission granted by author and copyright holder Andrew Maynard to read/us
 - [Gain-of-Function Research](https://spoileralert.wtf/html-files/est_gain_of_function.html): Making pathogens more dangerous to study them — Inferno
 - [Gene Drives](https://spoileralert.wtf/html-files/est_gene_drives.html): Technologies that push genetic changes through entire wild populations
 - [Smart Drugs and Cognitive Enhancement](https://spoileralert.wtf/html-files/est_smart_drugs.html): Pharmaceuticals used to boost brainpower — Limitless
+- [Intelligence](https://spoileralert.wtf/html-files/est_intelligence.html): What intelligence actually is, why it resists simple definitions, and why our understanding of it shapes everything from cognitive enhancement to artificial intelligence — Limitless, Ex Machina, Transcendence
 - [Human Augmentation and Body Modification](https://spoileralert.wtf/html-files/est_human_augmentation.html): Embedding technology in the human body — Ghost in the Shell
 - [Brain-Computer Interfaces](https://spoileralert.wtf/html-files/est_brain_computer_interfaces.html): Direct connections between the brain and digital systems
 - [Bioprinting and Organ Regeneration](https://spoileralert.wtf/html-files/est_bioprinting.html): 3D printing living tissue and replacement organs — Elysium
+- [Organ Transplantation](https://spoileralert.wtf/html-files/est_organ_transplantation.html): The technologies and ethics of replacing what fails — from cloning and xenotransplantation to bioprinting, and the moral questions the organ shortage forces us to confront — Never Let Me Go, Elysium
 - [Artificial Intelligence](https://spoileralert.wtf/html-files/est_artificial_intelligence.html): What AI actually is, how it works, and what it can and cannot do — Ex Machina
 - [Superintelligence](https://spoileralert.wtf/html-files/est_superintelligence.html): The possibility of machine intelligence surpassing our own — Transcendence
 - [Predictive Algorithms and Machine Learning](https://spoileralert.wtf/html-files/est_predictive_algorithms.html): Using data to predict human behavior — Minority Report
