@@ -43,7 +43,7 @@ The book's value lies in its ability to make complex technology conversations ac
 
 ---
 
-## The Four Domains
+## The Six Domains
 
 The website organizes the book's content into six interconnected domains. The first four cover the book's own content. The last two extend it to post-2018 developments and emerging questions. Each has a domain definition file with detailed page-by-page structure:
 
@@ -304,6 +304,18 @@ This collection should contain the following files:
 - domain_post_2018_developments.md
 - domain_complex_emerging_questions.md
 
+### Emerging Science and Technology (est_*.md)
+23 topic files covering the technologies explored in the book and two additional topics (intelligence and organ transplantation). See domain_emerging_science_and_technology.md for the full list.
+
+### Responsible and Ethical Innovation (rei_*.md)
+13 theme files covering cross-cutting ethical tensions. See domain_responsible_and_ethical_innovation.md for the full list.
+
+### Navigating the Future (ntf_*.md)
+12 framework files for thinking about technology and society. See domain_navigating_the_future.md for the full list.
+
+### The Movies (movies_*.md)
+12 film pages connecting each movie to technologies and themes. See domain_the_movies.md for the full list.
+
 ### Post-2018 Developments (p18_*.md)
 20 topic files covering technologies that emerged or accelerated after 2018. See domain_post_2018_developments.md for the full list.
 
@@ -317,4 +329,7 @@ This collection should contain the following files:
 - usage_guidance.md (this file)
 - thematic_index.md
 - films_grabbing_andrews_attention.md
+- claude_film_recommendations.md
 - educators_guide.md
+- next_steps.md
+- book_trivia.md
