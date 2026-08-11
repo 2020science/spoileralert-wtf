@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Film Connections: 120 sci-fi films mapped by theme &mdash; The Moviegoer's Guide to the Future</title>
+
+  <meta name="description" content="An interactive map of 120 science fiction films and the 3,222 thematic links between them — genetic engineering, AI, surveillance, human augmentation and more. From Films from the Future by Andrew Maynard.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://spoileralert.wtf/connections/">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="The Moviegoer's Guide to the Future">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Film Connections: 120 sci-fi films mapped by theme">
+  <meta property="og:description" content="An interactive map of 120 science fiction films and the 3,222 thematic links between them — genetic engineering, AI, surveillance, human augmentation and more. From Films from the Future by Andrew Maynard.">
+  <meta property="og:url" content="https://spoileralert.wtf/connections/">
+  <meta property="og:image" content="https://spoileralert.wtf/favicons/og-connections.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="A network graph of 120 science fiction films linked by shared themes">
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Film Connections: 120 sci-fi films mapped by theme">
+  <meta name="twitter:description" content="An interactive map of 120 science fiction films and the 3,222 thematic links between them — genetic engineering, AI, surveillance, human augmentation and more. From Films from the Future by Andrew Maynard.">
+  <meta name="twitter:image" content="https://spoileralert.wtf/favicons/og-connections.png">
+
+  <!-- Favicons (match the main spoileralert.wtf site) -->
+  <link rel="icon" href="/favicons/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicons/favicon-512x512.png">
+  <link rel="icon" type="image/png" sizes="256x256" href="/favicons/favicon-256x256.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicons/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16-optimized.png">
+  <link rel="icon" media="(prefers-color-scheme: dark)" href="/favicons/favicon-dark-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png">
+  <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000">
+  <link rel="manifest" href="/favicons/site.webmanifest">
+
+  <meta name="theme-color" content="#ffffff">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/favicons/mstile-150x150.png">
+  <style>
+    :root {
+      --bg: #fafafa;
+      --fg: #1a1a1a;
+      --fg-muted: #555;
+      --fg-dim: #888;
+      --rule: #ddd;
+      --panel-bg: #ffffff;
+      --edge: #b9b9b9;
+      --edge-strong: #5d5d5d;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body {
+      font-family: 'Courier New', Courier, monospace;
+      background: var(--bg);
+      color: var(--fg);
+      font-size: 14px;
+      line-height: 1.45;
+    }
+    a { color: var(--fg); text-decoration: none; border-bottom: 1px solid var(--fg-dim); }
+    a:hover { border-bottom-color: var(--fg); }
+
+    #layout {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      grid-template-rows: auto 1fr;
+      height: 100vh;
+      min-height: 0;
+    }
+    header {
+      grid-column: 1 / -1;
+      padding: 14px 22px 10px;
+      border-bottom: 1px solid var(--rule);
+      background: var(--panel-bg);
+    }
+    header h1 {
+      font-size: 15px;
+      margin: 0 0 4px 0;
+      letter-spacing: 0.02em;
+    }
+    header .sub {
+      font-size: 12px;
+      color: var(--fg-muted);
+      margin-bottom: 10px;
+    }
+    .toggles {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      font-size: 12px;
+    }
+    .toggles label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggles input[type="checkbox"] { margin: 0; }
+    .swatch {
+      display: inline-block;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      vertical-align: middle;
+    }
+
+    .graph-wrap {
+      grid-column: 1;
+      grid-row: 2;
+      position: relative;
+      min-height: 0;
+      background: var(--bg);
+    }
+    #cy {
+      position: absolute;
+      inset: 0;
+    }
+    .empty-overlay {
+      position: absolute;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+      z-index: 3;
+    }
+    .empty-overlay.visible { display: flex; }
+    .empty-overlay .msg {
+      pointer-events: auto;
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 18px 22px;
+      max-width: 360px;
+      text-align: center;
+      font-size: 13px;
+      color: var(--fg-muted);
+      line-height: 1.55;
+    }
+    .empty-overlay .msg strong { color: var(--fg); }
+    .empty-overlay .msg button {
+      margin-top: 10px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 12px;
+      padding: 4px 10px;
+      border: 1px solid var(--rule);
+      background: #fff;
+      color: var(--fg);
+      cursor: pointer;
+      border-radius: 2px;
+    }
+    .empty-overlay .msg button:hover { background: #f0f0f0; }
+
+    .graph-controls {
+      position: absolute;
+      bottom: 16px;
+      right: 16px;
+      display: flex;
+      flex-direction: column;
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      overflow: hidden;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 16px;
+      z-index: 2;
+    }
+    .graph-controls button {
+      width: 32px;
+      height: 30px;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid var(--rule);
+      cursor: pointer;
+      color: var(--fg-muted);
+      padding: 0;
+      font-family: inherit;
+      font-size: inherit;
+    }
+    .graph-controls button:last-child { border-bottom: none; }
+    .graph-controls button:hover { background: #f0f0f0; color: var(--fg); }
+
+    .search-row {
+      display: flex;
+      gap: 10px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .search-row input[type="search"],
+    .search-row select {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 12px;
+      padding: 5px 8px;
+      border: 1px solid var(--rule);
+      background: #fff;
+      color: var(--fg);
+      border-radius: 2px;
+    }
+    .search-row input[type="search"] { min-width: 240px; }
+    .search-row input[type="search"]:focus,
+    .search-row select:focus {
+      outline: none;
+      border-color: var(--fg);
+    }
+    .search-row label {
+      font-size: 12px;
+      color: var(--fg-muted);
+    }
+
+    aside#info {
+      grid-column: 2;
+      grid-row: 2;
+      border-left: 1px solid var(--rule);
+      background: var(--panel-bg);
+      overflow-y: auto;
+      padding: 18px 20px;
+    }
+    .panel-empty {
+      color: var(--fg-dim);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+    .panel-kicker {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--fg-dim);
+      margin-bottom: 6px;
+    }
+    .panel-title {
+      font-size: 16px;
+      margin: 0 0 4px 0;
+      line-height: 1.3;
+    }
+    .panel-meta {
+      font-size: 12px;
+      color: var(--fg-muted);
+      margin-bottom: 14px;
+    }
+    .panel-section {
+      margin: 16px 0 0 0;
+    }
+    .panel-summary {
+      font-size: 13px;
+      color: #222;
+      line-height: 1.55;
+      padding: 10px 12px;
+      background: #f5f5f0;
+      border-left: 2px solid var(--rule);
+      border-radius: 0 2px 2px 0;
+    }
+    .panel-section h3 {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--fg-dim);
+      margin: 0 0 6px 0;
+      font-weight: normal;
+    }
+    .theme-chip {
+      display: inline-block;
+      font-size: 11px;
+      padding: 2px 7px;
+      margin: 0 4px 4px 0;
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      color: var(--fg-muted);
+    }
+    .theme-chip[data-theme-query],
+    .tname[data-theme-query] {
+      cursor: pointer;
+    }
+    .theme-chip[data-theme-query]:hover {
+      background: #eee;
+      color: var(--fg);
+      border-color: var(--fg-muted);
+    }
+    .tname[data-theme-query]:hover {
+      color: var(--fg);
+      text-decoration: underline dotted;
+      text-underline-offset: 3px;
+    }
+    .theme-hint {
+      font-size: 10px;
+      color: var(--fg-dim);
+      margin-top: 4px;
+      font-style: italic;
+    }
+    .theme-list { margin: 0; padding: 0; list-style: none; }
+    .theme-list li {
+      padding: 8px 0;
+      border-top: 1px solid var(--rule);
+      font-size: 12px;
+    }
+    .theme-list li:first-child { border-top: none; }
+    .theme-list .tname {
+      font-weight: bold;
+      color: var(--fg);
+      display: block;
+      margin-bottom: 3px;
+    }
+    .theme-list .tgloss {
+      color: var(--fg-muted);
+    }
+    .theme-list .tlink {
+      font-size: 11px;
+      color: var(--fg-dim);
+    }
+    .notes-body {
+      font-size: 12px;
+      color: var(--fg-muted);
+      line-height: 1.5;
+      white-space: pre-wrap;
+    }
+    .notes-body p { margin: 0 0 0.8em 0; }
+    .links-out {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 12px;
+      font-size: 12px;
+      margin-top: 6px;
+    }
+    .pill-cat {
+      display: inline-block;
+      font-size: 10px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 9px;
+      color: #fff;
+    }
+    .neighbour-list { margin-top: 4px; }
+    .nb-row {
+      display: grid;
+      grid-template-columns: 12px 1fr auto;
+      gap: 8px;
+      align-items: center;
+      font-size: 12px;
+      padding: 3px 0;
+    }
+    .nb-swatch {
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      border: 1px solid rgba(0, 0, 0, 0.18);
+    }
+    .nb-title { color: var(--fg); }
+    .nb-meta {
+      font-size: 10px;
+      color: var(--fg-dim);
+      font-variant-numeric: tabular-nums;
+    }
+    .nb-hidden .nb-title { color: var(--fg-dim); font-style: italic; }
+    .hidden-hint {
+      font-size: 11px;
+      color: var(--fg-dim);
+      margin: 10px 0 4px 0;
+      padding-top: 8px;
+      border-top: 1px dashed var(--rule);
+    }
+    .divider-text {
+      font-size: 12px;
+      color: var(--fg-dim);
+      text-align: center;
+      margin: 6px 0;
+    }
+    .stats {
+      font-size: 11px;
+      color: var(--fg-dim);
+      margin-left: auto;
+      align-self: center;
+    }
+    .toggle-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    @media (max-width: 900px) {
+      #layout {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 65vh auto;
+        height: auto;
+        min-height: 100vh;
+      }
+      .graph-wrap { grid-column: 1; grid-row: 2; }
+      aside#info {
+        grid-column: 1;
+        grid-row: 3;
+        border-left: 0;
+        border-top: 1px solid var(--rule);
+        overflow-y: visible;
+        min-height: 40vh;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="layout">
+    <header>
+      <h1>SpoilerAlert.wtf Movie Connections</h1>
+      <div class="sub">
+        All the movies on SpoilerAlert.wtf and the themes that connect them. Edges link films that share at least two themes (curated from the website's taxonomy, or inferred from shared key-theme tags). Note: apologies for movies that aren't here — these are just the movies associated with Andrew Maynard's 2018 book Films from the Future and the website spoileralert.wtf. Visit <a href="https://spoileralert.wtf/" target="_blank" rel="noopener">SpoilerAlert.wtf</a> for more.
+      </div>
+      <div class="toggle-row">
+        <div class="toggles" id="toggles"></div>
+        <div class="stats" id="stats"></div>
+      </div>
+      <div class="search-row">
+        <input id="film-search"  type="search" placeholder="Find a film…"      autocomplete="off" spellcheck="false">
+        <input id="theme-search" type="search" placeholder="Show films with theme…" autocomplete="off" spellcheck="false" title='Searches theme names and the short gloss on each theme page. Boolean: spaces = AND, -word excludes, "quoted phrase" matches literally. Example: neuralink -identity or "informed consent"'>
+        <select id="domain-filter" title="Filter edges by theme domain">
+          <option value="all">All connections</option>
+          <option value="est">Emerging Science &amp; Technology</option>
+          <option value="rei">Responsible &amp; Ethical Innovation</option>
+          <option value="ntf">Navigating the Future</option>
+        </select>
+      </div>
+    </header>
+    <div class="graph-wrap">
+      <div id="cy"></div>
+      <div class="empty-overlay" id="empty-overlay">
+        <div class="msg">
+          <strong>No films match that theme.</strong><br>
+          Try a shorter or differently-worded query — or clear the theme search to see the full graph.
+          <br>
+          <button type="button" id="empty-clear">Clear theme search</button>
+        </div>
+      </div>
+      <div class="graph-controls">
+        <button id="zoom-in"  type="button" title="Zoom in">+</button>
+        <button id="zoom-out" type="button" title="Zoom out">−</button>
+        <button id="zoom-fit" type="button" title="Fit to view">⤢</button>
+      </div>
+    </div>
+    <aside id="info">
+      <div class="panel-empty">
+        Click a <strong>node</strong> to see film details and themes.<br><br>
+        Click an <strong>edge</strong> to see the themes that connect two films, with a short gloss on each.<br><br>
+        Use the legend above to bring in films that were shortlisted, added after the book, or suggested by Claude.
+      </div>
+    </aside>
+  </div>
+
+  <script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+  <script src="./movie-graph-data.js"></script>
+  <script>
+    (function () {
+      const DATA = window.MOVIE_GRAPH;
+      if (!DATA) {
+        document.getElementById('info').innerHTML =
+          '<div class="panel-empty" style="color:#b55;">Could not load movie-graph-data.js — re-run build_movie_graph.py.</div>';
+        return;
+      }
+
+      const CATEGORIES = DATA.categories;
+      const CAT_BY_KEY = Object.fromEntries(CATEGORIES.map(c => [c.key, c]));
+      const NODES_BY_ID = Object.fromEntries(DATA.nodes.map(n => [n.id, n]));
+      const GLOSSES = DATA.theme_glosses;
+
+      // Precompute every film's neighbours from the full edge list, regardless of
+      // what's currently toggled on. Sorted by shared-theme weight desc.
+      const NEIGHBOURS_BY_ID = {};
+      DATA.nodes.forEach(n => { NEIGHBOURS_BY_ID[n.id] = []; });
+      DATA.edges.forEach(e => {
+        const a = NODES_BY_ID[e.source], b = NODES_BY_ID[e.target];
+        if (!a || !b) return;
+        NEIGHBOURS_BY_ID[a.id].push({ id: b.id, title: b.title, category: b.category, weight: e.weight });
+        NEIGHBOURS_BY_ID[b.id].push({ id: a.id, title: a.title, category: a.category, weight: e.weight });
+      });
+      Object.values(NEIGHBOURS_BY_ID).forEach(arr =>
+        arr.sort((x, y) => y.weight - x.weight || x.title.localeCompare(y.title))
+      );
+
+      // ----- theme-search query parser (boolean) -----
+      // Tokens come in three flavours:
+      //   "quoted phrase"  → single token, literal phrase
+      //   -word            → negated (must NOT appear)
+      //   anything else    → required (AND across all positive tokens)
+      function parseThemeQuery(q) {
+        const tokens = [];
+        if (!q) return tokens;
+        const re = /(-)?(?:"([^"]+)"|(\S+))/g;
+        let m;
+        while ((m = re.exec(q)) !== null) {
+          const negated = !!m[1];
+          const term = (m[2] || m[3] || '').toLowerCase().trim();
+          if (term) tokens.push({ term, negated });
+        }
+        return tokens;
+      }
+
+      // Concatenate every theme-relevant string on a film into one searchable
+      // lowercase blob. Includes the theme-page gloss text so queries catch
+      // specifics ("Neuralink", "He Jiankui", "Collingridge") that aren't
+      // themselves theme titles. Film notes are intentionally excluded — too noisy.
+      function buildSearchBlob(node) {
+        const parts = [];
+        (node.key_themes || []).forEach(t => parts.push(t));
+        (node.theme_slugs || []).forEach(s => {
+          const g = GLOSSES[s];
+          if (g) {
+            parts.push(g.title);
+            parts.push(g.gloss);
+          }
+        });
+        return parts.join(' \n ').toLowerCase();
+      }
+
+      function matchesBooleanQuery(blob, tokens) {
+        for (const t of tokens) {
+          const present = blob.includes(t.term);
+          if (t.negated && present) return false;
+          if (!t.negated && !present) return false;
+        }
+        return true;
+      }
+
+      // Default view: book + bookend
+      const active = new Set(['book', 'bookend']);
+
+      // ----- build toggles -----
+      const togglesEl = document.getElementById('toggles');
+      CATEGORIES.forEach(cat => {
+        const label = document.createElement('label');
+        label.innerHTML = `
+          <input type="checkbox" data-cat="${cat.key}" ${active.has(cat.key) ? 'checked' : ''}>
+          <span class="swatch" style="background:${cat.color}"></span>
+          ${cat.label}
+        `;
+        togglesEl.appendChild(label);
+      });
+      togglesEl.addEventListener('change', e => {
+        if (e.target.matches('input[type="checkbox"]')) {
+          const k = e.target.dataset.cat;
+          if (e.target.checked) active.add(k);
+          else active.delete(k);
+          rebuild();
+        }
+      });
+
+      // ----- search + domain filter + zoom -----
+      const filmSearch  = document.getElementById('film-search');
+      const themeSearch = document.getElementById('theme-search');
+      const domainSelect = document.getElementById('domain-filter');
+
+      // Film search hides everything except films whose *title* matches.
+      // Neighbours are not preserved; context comes back when the user clicks
+      // a film (click-isolation shows that film + its neighbourhood).
+      filmSearch.addEventListener('input', applyFilters);
+
+      themeSearch.addEventListener('input', applyFilters);
+      domainSelect.addEventListener('change', applyFilters);
+
+      // Clicking a theme name in either panel fills the theme search.
+      document.getElementById('info').addEventListener('click', e => {
+        const hit = e.target.closest('[data-theme-query]');
+        if (!hit) return;
+        e.preventDefault();
+        const q = hit.getAttribute('data-theme-query') || '';
+        themeSearch.value = q;
+        clearIsolation();
+        applyFilters();
+        themeSearch.focus({ preventScroll: true });
+      });
+
+      document.getElementById('zoom-in').addEventListener('click', () => {
+        cy.zoom({ level: cy.zoom() * 1.25, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } });
+      });
+      document.getElementById('zoom-out').addEventListener('click', () => {
+        cy.zoom({ level: cy.zoom() * 0.8, renderedPosition: { x: cy.width() / 2, y: cy.height() / 2 } });
+      });
+      document.getElementById('zoom-fit').addEventListener('click', () => {
+        cy.fit(null, 40);
+      });
+
+      function applyFilters() {
+        const filmQ  = filmSearch.value.trim().toLowerCase();
+        const themeQ = themeSearch.value.trim().toLowerCase();
+        const domain = domainSelect.value;
+
+        // Film search: hide films whose *title* doesn't match.
+        // (Direct neighbours stay visible so the user keeps local context.)
+        let filmMatches;
+        if (!filmQ) {
+          filmMatches = cy.nodes();
+        } else {
+          filmMatches = cy.nodes().filter(n => {
+            const node = NODES_BY_ID[n.data('id')];
+            return node && node.title.toLowerCase().includes(filmQ);
+          });
+        }
+
+        // Theme search — boolean over a searchable blob per film.
+        //   space-separated tokens  = AND
+        //   -word                   = NOT (excludes)
+        //   "quoted phrase"         = literal phrase
+        // The blob concatenates each film's key themes + its curated theme titles
+        // + their gloss text, so queries like 'Neuralink' or 'He Jiankui' find
+        // films linked to themes whose gloss mentions them, even when the theme
+        // title itself doesn't.
+        const themeTokens = parseThemeQuery(themeQ);
+        let themeMatches;
+        if (themeTokens.length === 0) {
+          themeMatches = cy.nodes();
+        } else {
+          themeMatches = cy.nodes().filter(n => {
+            const node = NODES_BY_ID[n.data('id')];
+            if (!node) return false;
+            return matchesBooleanQuery(buildSearchBlob(node), themeTokens);
+          });
+        }
+
+        // Theme search fully hides non-matches (display:none) — the user asked
+        // for an isolated view of just the films carrying the theme.
+        cy.elements().removeClass('theme-hide');
+        if (themeQ) {
+          cy.nodes().not(themeMatches).addClass('theme-hide');
+          cy.edges().forEach(e => {
+            if (e.source().hasClass('theme-hide') || e.target().hasClass('theme-hide')) {
+              e.addClass('theme-hide');
+            }
+          });
+        }
+
+        // Film search hides every film whose title doesn't match (display:none).
+        // No neighbour preservation — the graph shrinks to only the matches.
+        // Click-isolation reveals the neighbourhood as a second step.
+        cy.elements().removeClass('film-hide');
+        cy.nodes().not(filmMatches).addClass('film-hide');
+
+        // Domain dropdown: fully hide (display:none) edges that don't carry the
+        // selected domain — matches the theme-search treatment.
+        cy.edges().removeClass('domain-hide');
+        if (domain && domain !== 'all') {
+          cy.edges().forEach(e => {
+            const curated = e.data('curated_shared') || [];
+            const hasDomain = curated.some(slug => slug.startsWith(domain + '_'));
+            if (!hasDomain) e.addClass('domain-hide');
+          });
+        }
+
+        // Cascade film-hide to edges whose endpoints are hidden.
+        cy.edges().forEach(e => {
+          if (e.source().hasClass('film-hide') || e.target().hasClass('film-hide')) {
+            e.addClass('film-hide');
+          }
+        });
+
+        // Update stats to count what's actually on screen (after every hide class).
+        const isHidden = el =>
+          el.hasClass('theme-hide') || el.hasClass('isolated-hide')
+          || el.hasClass('domain-hide') || el.hasClass('film-hide');
+        const visibleNodes = cy.nodes().filter(n => !isHidden(n)).length;
+        const visibleEdges = cy.edges().filter(e => !isHidden(e)).length;
+        document.getElementById('stats').textContent =
+          `${visibleNodes} films · ${visibleEdges} connections`;
+
+        // Empty-state overlay: only shown when a theme query hides everything.
+        const emptyEl = document.getElementById('empty-overlay');
+        if (themeQ && visibleNodes === 0) emptyEl.classList.add('visible');
+        else emptyEl.classList.remove('visible');
+      }
+
+      document.getElementById('empty-clear').addEventListener('click', () => {
+        themeSearch.value = '';
+        applyFilters();
+        themeSearch.focus({ preventScroll: true });
+      });
+
+      // ----- Cytoscape -----
+      const cy = cytoscape({
+        container: document.getElementById('cy'),
+        elements: [],
+        wheelSensitivity: 0.2,
+        style: [
+          {
+            selector: 'node',
+            style: {
+              'background-color': 'data(color)',
+              'border-color': 'data(borderColor)',
+              'border-width': 1.5,
+              'label': 'data(title)',
+              'font-family': 'Courier New, Courier, monospace',
+              'font-size': 10,
+              'color': '#333',
+              'text-valign': 'bottom',
+              'text-margin-y': 6,
+              'text-wrap': 'wrap',
+              'text-max-width': 120,
+              'text-background-color': '#fafafa',
+              'text-background-opacity': 0.85,
+              'text-background-padding': 2,
+              'width': 'data(size)',
+              'height': 'data(size)',
+            }
+          },
+          {
+            selector: 'node:selected',
+            style: {
+              'border-color': '#1a1a1a',
+              'border-width': 3,
+            }
+          },
+          {
+            selector: 'edge',
+            style: {
+              'line-color': 'data(color)',
+              'opacity': 0.55,
+              'width': 'data(width)',
+              'curve-style': 'bezier',
+            }
+          },
+          {
+            selector: 'edge:selected',
+            style: {
+              'line-color': '#1a1a1a',
+              'opacity': 0.9,
+            }
+          },
+          {
+            selector: '.film-hide',
+            style: { 'display': 'none' }
+          },
+          {
+            selector: '.hl',
+            style: { 'opacity': 1 }
+          },
+          {
+            selector: '.isolated-hide',
+            style: { 'display': 'none' }
+          },
+          {
+            selector: '.theme-hide',
+            style: { 'display': 'none' }
+          },
+          {
+            selector: '.domain-hide',
+            style: { 'display': 'none' }
+          }
+        ]
+      });
+
+      let isolatedNodeId = null;
+      let isolationSource = null;   // 'click' | 'search'
+
+      function applyIsolation(node, source) {
+        cy.elements().removeClass('isolated-hide');
+        const keep = node.closedNeighborhood();
+        cy.elements().not(keep).addClass('isolated-hide');
+        cy.animate({ fit: { eles: keep, padding: 80 } }, { duration: 220 });
+        isolatedNodeId = node.data('id');
+        isolationSource = source;
+      }
+
+      function clearIsolation() {
+        if (!isolatedNodeId) return;
+        isolatedNodeId = null;
+        isolationSource = null;
+        cy.elements().removeClass('isolated-hide');
+        cy.animate({ fit: { eles: null, padding: 40 } }, { duration: 220 });
+      }
+
+      cy.on('tap', 'node', evt => {
+        const node = evt.target;
+        // A click overrides any film-search-driven isolation; clear the search
+        // so the visibility classes recompute around the clicked node, not the
+        // prior search match (otherwise neighbours of the new node that weren't
+        // neighbours of the search match end up incorrectly hidden).
+        if (filmSearch.value) filmSearch.value = '';
+        applyIsolation(node, 'click');
+        renderNodePanel(isolatedNodeId);
+        applyFilters();
+        revealPanelOnMobile();
+      });
+      cy.on('tap', 'edge', evt => {
+        const d = evt.target.data();
+        renderEdgePanel(d.source, d.target, d.curated_shared, d.inferred_shared);
+        revealPanelOnMobile();
+      });
+
+      // Narrow-viewport UX: when the info panel sits below the graph, scroll
+      // it into view after a tap so users don't need to know to scroll down.
+      function revealPanelOnMobile() {
+        if (window.matchMedia('(max-width: 900px)').matches) {
+          document.getElementById('info').scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      }
+      cy.on('tap', (evt) => {
+        if (evt.target === cy) {
+          clearIsolation();
+          clearPanel();
+        }
+      });
+
+      // ----- rebuild elements for current active set -----
+      function rebuild() {
+        const visibleIds = new Set(
+          DATA.nodes.filter(n => active.has(n.category)).map(n => n.id)
+        );
+        // degree count within visible subgraph
+        const degree = {};
+        visibleIds.forEach(id => degree[id] = 0);
+        const edges = DATA.edges.filter(e =>
+          visibleIds.has(e.source) && visibleIds.has(e.target)
+        );
+        edges.forEach(e => { degree[e.source]++; degree[e.target]++; });
+
+        const maxDeg = Math.max(1, ...Object.values(degree));
+        const maxW = Math.max(1, ...edges.map(e => e.weight));
+
+        const nodeEls = [...visibleIds].map(id => {
+          const n = NODES_BY_ID[id];
+          const cat = CAT_BY_KEY[n.category];
+          const size = 22 + (degree[id] / maxDeg) * 34; // 22..56
+          return {
+            group: 'nodes',
+            data: {
+              id: n.id,
+              title: n.title,
+              color: cat.color,
+              borderColor: darken(cat.color, 0.22),
+              size: size,
+            }
+          };
+        });
+
+        const edgeEls = edges.map(e => {
+          const t = e.weight / maxW;
+          return {
+            group: 'edges',
+            data: {
+              id: `e_${e.source}__${e.target}`,
+              source: e.source,
+              target: e.target,
+              curated_shared: e.curated_shared,
+              inferred_shared: e.inferred_shared,
+              weight: e.weight,
+              width: 0.8 + t * 3.2,
+              color: t > 0.5 ? '#5d5d5d' : '#b9b9b9',
+            }
+          };
+        });
+
+        cy.elements().remove();
+        cy.add(nodeEls);
+        cy.add(edgeEls);
+
+        cy.layout({
+          name: 'cose',
+          animate: false,
+          nodeRepulsion: 9000,
+          idealEdgeLength: 110,
+          edgeElasticity: 100,
+          gravity: 0.6,
+          fit: true,
+          padding: 40,
+        }).run();
+
+        document.getElementById('stats').textContent =
+          `${nodeEls.length} films · ${edgeEls.length} connections`;
+
+        applyFilters();
+
+        // Re-apply isolation across rebuilds: if the isolated node is still
+        // present, narrow to its (possibly smaller) neighbourhood; otherwise drop it.
+        if (isolatedNodeId) {
+          const node = cy.getElementById(isolatedNodeId);
+          if (node && node.nonempty()) {
+            applyIsolation(node, isolationSource);
+          } else {
+            isolatedNodeId = null;
+            isolationSource = null;
+          }
+        }
+      }
+
+      // ----- panel rendering -----
+      function clearPanel() {
+        document.getElementById('info').innerHTML = `
+          <div class="panel-empty">
+            Click a <strong>node</strong> to see film details and themes.<br><br>
+            Click an <strong>edge</strong> to see the themes that connect two films, with a short gloss on each.<br><br>
+            Use the legend above to bring in films that were shortlisted, added after the book, or suggested by Claude.
+          </div>
+        `;
+      }
+
+      function renderNodePanel(id) {
+        const n = NODES_BY_ID[id];
+        if (!n) return;
+        const cat = CAT_BY_KEY[n.category];
+
+        // Outbound links route through viewer.html so pages are styled, not raw html.
+        const links = [];
+        if (n.movie_page_slug) {
+          links.push(`<a href="viewer.html?slug=${n.movie_page_slug}" target="_blank">Film page ↗</a>`);
+        }
+        if (n.chapter_slug) {
+          links.push(`<a href="viewer.html?slug=${n.chapter_slug}" target="_blank">Chapter ↗</a>`);
+        }
+        if (n.category === 'claude') {
+          links.push(`<a href="viewer.html?slug=claude_film_recommendations" target="_blank">Claude's note ↗</a>`);
+        }
+        if (n.category === 'shortlist' || n.category === 'added' || n.category === 'bookend') {
+          links.push(`<a href="viewer.html?slug=films_grabbing_andrews_attention" target="_blank">Watchlist entry ↗</a>`);
+        }
+
+        const themeChips = n.key_themes.map(t =>
+          `<span class="theme-chip" data-theme-query="${escapeHtml(t)}">${escapeHtml(t)}</span>`
+        ).join('');
+
+        const curatedList = n.theme_slugs.map(slug => {
+          const g = GLOSSES[slug];
+          if (!g) return `<li><span class="tname">${escapeHtml(slug)}</span></li>`;
+          return `
+            <li>
+              <span class="tname" data-theme-query="${escapeHtml(g.title)}">${escapeHtml(g.title)}</span>
+              <span class="tgloss">${escapeHtml(g.gloss)}</span>
+              <br><a class="tlink" href="viewer.html?slug=${slug}" target="_blank">Read more ↗</a>
+            </li>
+          `;
+        }).join('');
+
+        const notesHtml = renderFilmNotes(n.notes_md, n.category);
+        const andrewHtml = renderNotes(n.andrew_response_md);
+
+        // Connections block: list neighbours, flagging ones currently hidden.
+        const neighbours = NEIGHBOURS_BY_ID[n.id] || [];
+        const visibleIds = new Set(cy.nodes().map(x => x.data('id')));
+        const visibleNbs = neighbours.filter(nb => visibleIds.has(nb.id));
+        const hiddenNbs  = neighbours.filter(nb => !visibleIds.has(nb.id));
+        const connectionsHtml = neighbours.length ? `
+          <div class="panel-section">
+            <h3>Connections (${neighbours.length})</h3>
+            <div class="neighbour-list">
+              ${visibleNbs.map(nb => neighbourLine(nb, false)).join('')}
+              ${hiddenNbs.length ? `
+                <div class="hidden-hint">
+                  ${hiddenNbs.length} hidden — enable their category above to see the edges:
+                </div>
+                ${hiddenNbs.map(nb => neighbourLine(nb, true)).join('')}
+              ` : ''}
+            </div>
+          </div>
+        ` : '';
+
+        document.getElementById('info').innerHTML = `
+          <div class="panel-kicker">Film</div>
+          <h2 class="panel-title">${escapeHtml(n.title)}</h2>
+          <div class="panel-meta">
+            ${n.year}${n.director ? ' · ' + escapeHtml(n.director) : ''}
+            <br>
+            <span class="pill-cat" style="background:${cat.color}">${cat.label}</span>
+          </div>
+
+          ${n.summary ? `
+            <div class="panel-section panel-summary">
+              ${escapeHtml(n.summary)}
+            </div>` : ''}
+
+          ${n.key_themes.length ? `
+            <div class="panel-section">
+              <h3>Key themes</h3>
+              <div>${themeChips}</div>
+            </div>` : ''}
+
+          ${n.theme_slugs.length ? `
+            <div class="panel-section">
+              <h3>Connects to (curated)</h3>
+              <ul class="theme-list">${curatedList}</ul>
+            </div>` : ''}
+
+          ${connectionsHtml}
+
+          ${notesHtml ? `
+            <div class="panel-section">
+              <h3>Notes</h3>
+              <div class="notes-body">${notesHtml}</div>
+            </div>` : ''}
+
+          ${andrewHtml ? `
+            <div class="panel-section">
+              <h3>Andrew's response</h3>
+              <div class="notes-body">${andrewHtml}</div>
+            </div>` : ''}
+
+          ${links.length ? `
+            <div class="panel-section">
+              <h3>Open on spoileralert.wtf</h3>
+              <div class="links-out">${links.join('')}</div>
+            </div>` : ''}
+        `;
+      }
+
+      function neighbourLine(nb, hidden) {
+        const cat = CAT_BY_KEY[nb.category];
+        const cls = hidden ? 'nb-row nb-hidden' : 'nb-row';
+        return `
+          <div class="${cls}">
+            <span class="nb-swatch" style="background:${cat.color}"></span>
+            <span class="nb-title">${escapeHtml(nb.title)}</span>
+            <span class="nb-meta">${nb.weight}</span>
+          </div>
+        `;
+      }
+
+      function renderEdgePanel(aId, bId, curated, inferred) {
+        const a = NODES_BY_ID[aId];
+        const b = NODES_BY_ID[bId];
+        if (!a || !b) return;
+
+        const curatedList = curated.map(slug => {
+          const g = GLOSSES[slug];
+          if (!g) return `<li><span class="tname">${escapeHtml(slug)}</span></li>`;
+          return `
+            <li>
+              <span class="tname" data-theme-query="${escapeHtml(g.title)}">${escapeHtml(g.title)}</span>
+              <span class="tgloss">${escapeHtml(g.gloss)}</span>
+              <br><a class="tlink" href="viewer.html?slug=${slug}" target="_blank">Read more ↗</a>
+            </li>
+          `;
+        }).join('');
+
+        const inferredHtml = inferred.map(t =>
+          `<span class="theme-chip" data-theme-query="${escapeHtml(t)}">${escapeHtml(t)}</span>`
+        ).join('');
+
+        document.getElementById('info').innerHTML = `
+          <div class="panel-kicker">Connection</div>
+          <h2 class="panel-title">${escapeHtml(a.title)}
+            <span style="color: var(--fg-dim); font-weight: normal;"> ↔ </span>
+            ${escapeHtml(b.title)}</h2>
+          <div class="panel-meta">
+            ${curated.length} curated theme${curated.length === 1 ? '' : 's'}
+            · ${inferred.length} inferred
+            <div class="theme-hint">Click a theme to find every film that shares it.</div>
+          </div>
+
+          ${curated.length ? `
+            <div class="panel-section">
+              <h3>Shared themes (curated)</h3>
+              <ul class="theme-list">${curatedList}</ul>
+            </div>` : ''}
+
+          ${inferred.length ? `
+            <div class="panel-section">
+              <h3>Shared themes (inferred)</h3>
+              <div>${inferredHtml}</div>
+              <p style="font-size: 11px; color: var(--fg-dim); margin: 8px 0 0 0;">
+                Inferred from overlap in each film's key-theme tags rather than explicit links.
+              </p>
+            </div>` : ''}
+        `;
+      }
+
+      // ----- helpers -----
+      // Format a film's notes with an authorship prefix per category:
+      //   claude                              → "From Claude:" prepended.
+      //   book / bookend / shortlist / added  → "From Andrew:" prepended; if
+      //     the prose contains an inline "Claude:" handoff, split at that
+      //     point so each voice stands apart in its own paragraph.
+      // Andrew's separate "Andrew's response" field on Claude films keeps its
+      // own panel section, so it doesn't need an inline prefix.
+      function renderFilmNotes(notes_md, category) {
+        if (!notes_md) return '';
+        if (category === 'claude') {
+          return wrapNotesWithPrefix('From Claude:', notes_md);
+        }
+        const m = notes_md.match(/\s+(?=Claude:\s)/);
+        if (m && m.index !== undefined) {
+          const before = notes_md.slice(0, m.index);
+          const after  = notes_md.slice(m.index + m[0].length).replace(/^Claude:\s*/, '');
+          return wrapNotesWithPrefix('From Andrew:', before)
+               + wrapNotesWithPrefix('Claude:', after);
+        }
+        return wrapNotesWithPrefix('From Andrew:', notes_md);
+      }
+
+      function wrapNotesWithPrefix(prefix, body) {
+        const html = renderNotes(body);
+        if (!html) return '';
+        return html.replace(/^<p>/, `<p><strong>${escapeHtml(prefix)}</strong> `);
+      }
+
+      function renderNotes(md) {
+        if (!md) return '';
+        // Light markdown: strip links, strip inline emphasis, preserve paragraphs.
+        let s = md;
+        s = s.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1'); // [text](url) -> text
+        s = s.replace(/\*{1,3}([^*]+)\*{1,3}/g, '$1'); // **bold**, *italic* -> plain
+        s = s.replace(/`([^`]+)`/g, '$1');              // `code` -> plain
+        const paras = s.split(/\n{2,}/).map(p => p.trim()).filter(Boolean);
+        return paras.map(p => `<p>${escapeHtml(p)}</p>`).join('');
+      }
+
+      function escapeHtml(s) {
+        if (s == null) return '';
+        return String(s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#039;');
+      }
+
+      function darken(hex, amt) {
+        // hex like "#rrggbb"
+        const m = /^#([0-9a-f]{6})$/i.exec(hex);
+        if (!m) return hex;
+        const n = parseInt(m[1], 16);
+        let r = (n >> 16) & 0xff, g = (n >> 8) & 0xff, b = n & 0xff;
+        r = Math.max(0, Math.round(r * (1 - amt)));
+        g = Math.max(0, Math.round(g * (1 - amt)));
+        b = Math.max(0, Math.round(b * (1 - amt)));
+        return '#' + [r, g, b].map(v => v.toString(16).padStart(2, '0')).join('');
+      }
+
+      // ----- URL param deep-linking -----
+      // Supported on load:
+      //   ?theme=<query>   — prefills theme search (hides non-matching films)
+      //   ?film=<slug>     — isolates on that film (and renders its panel)
+      //   ?cat=book,claude — comma list of categories to start with (optional;
+      //                      default is book+bookend)
+      function applyInitialStateFromUrl() {
+        const params = new URLSearchParams(window.location.search);
+
+        const catsParam = params.get('cat');
+        if (catsParam) {
+          const wanted = new Set(
+            catsParam.split(',').map(s => s.trim()).filter(Boolean)
+          );
+          const validKeys = new Set(CATEGORIES.map(c => c.key));
+          active.clear();
+          wanted.forEach(k => { if (validKeys.has(k)) active.add(k); });
+          if (active.size === 0) active.add('book');
+          document.querySelectorAll('#toggles input[type="checkbox"]').forEach(cb => {
+            cb.checked = active.has(cb.dataset.cat);
+          });
+        }
+
+        const theme = params.get('theme');
+        if (theme) themeSearch.value = theme;
+
+        // Rebuild now so any category overrides take effect, then apply filters.
+        rebuild();
+
+        const filmSlug = params.get('film');
+        if (filmSlug) {
+          const node = cy.getElementById(filmSlug);
+          if (node && node.nonempty()) {
+            // If the film's category isn't active, enable it so the node exists.
+            const nodeCat = NODES_BY_ID[filmSlug]?.category;
+            if (nodeCat && !active.has(nodeCat)) {
+              active.add(nodeCat);
+              document.querySelectorAll('#toggles input[type="checkbox"]').forEach(cb => {
+                if (cb.dataset.cat === nodeCat) cb.checked = true;
+              });
+              rebuild();
+            }
+            const n2 = cy.getElementById(filmSlug);
+            if (n2 && n2.nonempty()) {
+              applyIsolation(n2, 'click');
+              renderNodePanel(filmSlug);
+            }
+          }
+        }
+      }
+
+      // ----- keyboard shortcuts -----
+      //   /    — focus film search (unless already typing in an input)
+      //   Esc  — clear isolation + both search inputs and restore the view
+      document.addEventListener('keydown', (e) => {
+        const typingTag = e.target && (e.target.tagName === 'INPUT'
+          || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA');
+        if (e.key === '/' && !typingTag) {
+          e.preventDefault();
+          filmSearch.focus();
+          filmSearch.select();
+        } else if (e.key === 'Escape') {
+          filmSearch.value = '';
+          themeSearch.value = '';
+          clearIsolation();
+          clearPanel();
+          applyFilters();
+          if (typingTag && e.target.blur) e.target.blur();
+        }
+      });
+
+      // ----- kick off -----
+      applyInitialStateFromUrl();
+    })();
+  </script>
+</body>
+</html>
