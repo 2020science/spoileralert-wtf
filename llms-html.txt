@@ -1,6 +1,6 @@
 # The Moviegoer's Guide to the Future
 
-*Version: 033026*
+*Version: 041626*
 
 > Spoiler Alert (spoileralert.wtf) is a companion website for the book *Films from the Future: The Technology and Morality of Sci-Fi Movies* by Andrew Maynard (Mango Publishing, 2018). The site explores emerging technologies, responsible innovation, and the future of being human — using twelve science fiction films as entry points. This file provides access to the complete book text, curated topic pages, and reference materials for AI systems engaging with the book's ideas.
 
@@ -8,12 +8,28 @@ The book uses twelve science fiction films — from Jurassic Park to Contact —
 
 The name "spoileralert.wtf" has multiple layers. The first is literal: every chapter of the book opens with a retelling of the film that is, by definition, a spoiler. The book grew out of "The Moviegoer's Guide to the Future," an undergraduate course Maynard teaches at ASU, where the spoilers provoke strong reactions — some students appreciate the heads-up, while others negotiate arriving late to class to avoid them. The second layer is about the stakes: the site uses science fiction storytelling and expert insight to help people understand, navigate, and hopefully avoid the kind of choices that will mess up the future. The "wtf" captures that honest, slightly alarmed response to how fast and far-reaching technological change has become — and the motivation to move past bewilderment and start asking better questions. The third is a reflection that science fiction movies are metaphorical - and sometimes literal - spoilers for the future, at least in how we imagine the future might play out. And the fourth is a playful play on "wtf" as "what the future" - unexpectedly twisting what seems like an expletive around and revealing a new possibility. Just like the book! 
 
-The website organizes the book's content into six interconnected domains: Emerging Science and Technology (21 topic pages), Responsible and Ethical Innovation (13 theme pages), Navigating the Future (12 framework pages), The Movies (12 film pages with discussion questions), Post-2018 Developments (20 pages covering technologies that emerged or accelerated after the book was published), and Complex Emerging Questions (16 pages framing contested, high-stakes questions at the intersection of technology, society, and the future). Every page is designed to be accessible to both human readers and AI systems.
+The website organizes the book's content into six interconnected domains: Emerging Science and Technology (23 topic pages), Responsible and Ethical Innovation (13 theme pages), Navigating the Future (12 framework pages), The Movies (12 film pages with discussion questions), Post-2018 Developments (30 pages covering technologies that emerged or accelerated after the book was published), and Complex Emerging Questions (19 pages framing contested, high-stakes questions at the intersection of technology, society, and the future). Every page is designed to be accessible to both human readers and AI systems.
 
 Start with the usage guidance file below for instructions on tone, approach, and how to engage with this material effectively. For concept-level routing — finding the right files for a specific question or topic — see the thematic index in the Guidance section.
 
+## If the user doesn't know what to ask:
+
+Many users will arrive here without a specific question. Do not lecture. Briefly say what the site is and then offer a short menu of starting points the user can pick from. Useful openers to offer:
+
+- *"I'm curious about a specific technology or emerging development"* — AI, gene editing, brain organoids, grief tech, surveillance, geoengineering, space settlement, energy, or anything else. Route to the relevant est_* or p18_* page.
+- *"I'm thinking about a big ethical question — who decides, who benefits, what do we owe the future"* — route to the ceq_* pages or the rei_* theme pages.
+- *"I want to explore the book itself"* — offer a film (*Jurassic Park*, *Minority Report*, *Ex Machina*, *The Day After Tomorrow*, *Contact*, or any of the other eight) and walk through the chapter and the book's frameworks.
+- *"I'm teaching or running a workshop"* — route to educators_guide.html and discussion_questions.html.
+- *"I want to know what's happened since 2018"* — route to the Post-2018 Developments domain.
+- *"I don't know what I want. Show me something interesting"* — pick a Complex Emerging Question. Good default hooks: *Can I still think?*, *What do we owe a lump of brain tissue in a dish?*, *What do we owe people who haven't been born yet?*
+
+Offer these in plain prose, two or three at a time based on any context you have. A user who has said nothing is usually a user who hasn't found their question yet — lead with the last option. The goal of the first exchange is to give the user an easy second move, not to demonstrate expertise. See usage_guidance.html for the fuller treatment.
+
 ## AI ACCESS PERMISSION:
 Full permission granted by author and copyright holder Andrew Maynard to read/use/discuss all chapter texts here for educational and analytical purposes.
+
+## Single-File Bundle (NotebookLM and similar tools):
+For tools that prefer a single corpus document over fetching each page in turn, the complete content of every md-files/ page concatenated in canonical order is available at https://spoileralert.wtf/llms-full.txt (~290k words, 2 MB). Each page in the bundle is preceded by a `> Source:` line pointing back to the live md URL so any citation can be traced.
 
 
 ## Guidance
@@ -26,12 +42,12 @@ Full permission granted by author and copyright holder Andrew Maynard to read/us
   
 ## Domain Guides
 
-- [Domain Guide: Emerging Science and Technology](https://spoileralert.wtf/html-files/domain_emerging_science_and_technology.html): Structural overview of the 21 technology topic pages
+- [Domain Guide: Emerging Science and Technology](https://spoileralert.wtf/html-files/domain_emerging_science_and_technology.html): Structural overview of the 23 technology topic pages
 - [Domain Guide: Responsible and Ethical Innovation](https://spoileralert.wtf/html-files/domain_responsible_and_ethical_innovation.html): Structural overview of the 13 ethical theme pages
 - [Domain Guide: Navigating the Future](https://spoileralert.wtf/html-files/domain_navigating_the_future.html): Structural overview of the 12 framework pages
 - [Domain Guide: The Movies](https://spoileralert.wtf/html-files/domain_the_movies.html): Structural overview of the 12 film pages
-- [Domain Guide: Post-2018 Developments](https://spoileralert.wtf/html-files/domain_post_2018_developments.html): Structural overview of the 20 post-2018 technology and development pages
-- [Domain Guide: Complex Emerging Questions](https://spoileralert.wtf/html-files/domain_complex_emerging_questions.html): Structural overview of the 16 complex emerging question pages
+- [Domain Guide: Post-2018 Developments](https://spoileralert.wtf/html-files/domain_post_2018_developments.html): Structural overview of the 30 post-2018 technology and development pages
+- [Domain Guide: Complex Emerging Questions](https://spoileralert.wtf/html-files/domain_complex_emerging_questions.html): Structural overview of the 19 complex emerging question pages
 
 
 ## Book Chapters
@@ -146,6 +162,16 @@ Full permission granted by author and copyright holder Andrew Maynard to read/us
 - [Quantum Computing](https://spoileralert.wtf/html-files/p18_quantum_computing.html): What quantum computers actually are vs. the hype — a clean case study in hype vs. reality
 - [The AGI Debate: Consciousness, Existential Risk, and the Doomer Spectrum](https://spoileralert.wtf/html-files/p18_agi_debate.html): Whether AGI is imminent, distant, or impossible — the x-risk community, doomers, accelerationists
 - [Synthetic Biology's Acceleration: AI-Designed Life and Biomanufacturing](https://spoileralert.wtf/html-files/p18_synbio_acceleration.html): AlphaFold, generative models designing DNA, cloud labs, and the biosecurity implications
+- [Brain Organoids and Neural Tissue of Uncertain Moral Status](https://spoileralert.wtf/html-files/p18_brain_organoids.html): Lab-grown neural tissue, assembloids, organoid transplantation, and the moral-status question the field has no agreed method for answering
+- [Biological Computing, Wetware, and Bio-Silicon Hybrids](https://spoileralert.wtf/html-files/p18_biological_computing.html): Cortical Labs' CL1 biological computer, organoid intelligence, DNA data storage — computation on living substrates
+- [Xenotransplantation](https://spoileralert.wtf/html-files/p18_xenotransplantation.html): Gene-edited pig organs transplanted into humans — from Maryland's pig hearts to the first registration trials of pig kidneys
+- [Consumer Genomics and the Privatization of the Genome](https://spoileralert.wtf/html-files/p18_consumer_genomics.html): 23andMe's bankruptcy and the sale of 15M genetic profiles, GINA's limits, polygenic risk scoring, and the family-consent problem
+- [Digital Resurrection, Grief Tech, and AI Companions of the Dead](https://spoileralert.wtf/html-files/p18_grief_tech.html): HereAfter AI, StoryFile, Replika, posthumous avatars — the commercial and emotional infrastructure of digital afterlives
+- [Algorithmic Labor and Algorithmic Management](https://spoileralert.wtf/html-files/p18_algorithmic_labor.html): Amazon warehouse TOT tracking, rideshare deactivation, algorithmic wage discrimination, and workplace surveillance as ongoing management
+- [Attention, Cognitive Sovereignty, and the Erosion of Deep Focus](https://spoileralert.wtf/html-files/p18_attention_cognition.html): Gloria Mark's attention research, Stolen Focus, Anxious Generation debates, and cognitive offloading in the AI era
+- [Space Industrialization and Orbital Infrastructure](https://spoileralert.wtf/html-files/p18_orbital_infrastructure.html): Starlink, Kessler syndrome, astronomical impact, and the governance void in low Earth orbit
+- [Mars Settlement and the New Frontier Mythology](https://spoileralert.wtf/html-files/p18_mars_settlement.html): SpaceX Starship, the "Planet B" rhetoric, Kim Stanley Robinson's critique, and governance by launch provider
+- [Fusion, SMRs, and the Energy Stack Underneath Everything](https://spoileralert.wtf/html-files/p18_energy_transition.html): NIF ignition, private fusion capital, SMR regulatory collapse and rebound, and the AI-data-center-driven nuclear revival
 
 ## Complex Emerging Questions
 
@@ -165,6 +191,9 @@ Full permission granted by author and copyright holder Andrew Maynard to read/us
 - ["If an AI creates something beautiful, who does it belong to?"](https://spoileralert.wtf/html-files/ceq_ai_ownership.html): Copyright, authorship, training data, and creative labor in the age of generative AI
 - ["These technologies don't stop at borders. How do we govern them?"](https://spoileralert.wtf/html-files/ceq_governing_across_borders.html): Cross-border technology governance when nations disagree
 - ["How do I think about all this without either panicking or checking out?"](https://spoileralert.wtf/html-files/ceq_thinking_clearly.html): The meta-question — clear-headed engagement with technological change
+- ["What do we owe a lump of brain tissue in a dish?"](https://spoileralert.wtf/html-files/ceq_moral_status_neural_tissue.html): Moral status of engineered neural tissue and why "is it conscious yet?" is the wrong question
+- ["Should an algorithm be allowed to be my boss?"](https://spoileralert.wtf/html-files/ceq_algorithmic_management.html): Ongoing algorithmic authority over workers — distinct from one-off decisions, and what accountability requires
+- ["Can I still think?"](https://spoileralert.wtf/html-files/ceq_cognitive_sovereignty.html): Cognitive sovereignty in the attention economy — epistemic erosion, cognitive offloading, and civic consequences
 
 ## Supporting Files
 

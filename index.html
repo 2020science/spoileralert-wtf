@@ -378,6 +378,16 @@
     <div class="divider">· · ·</div>
 
     <div class="example-section">
+        <h2>Using with NotebookLM, or loading the corpus directly into your AI</h2>
+
+        <p>If you use NotebookLM, paste <a href="https://spoileralert.wtf/llms-full.txt">https://spoileralert.wtf/llms-full.txt</a> into the Add source dialog — NotebookLM will fetch the entire corpus as a single source you can then explore with its built-in tools (audio overviews, summaries, dialogue).</p>
+
+        <p>If your AI of choice is struggling with the website — fetching files unreliably, or working from prior knowledge instead of the material (typical of "fast" LLM models or non-reasoning / non-thinking models) — you can download <a href="https://spoileralert.wtf/llms-full.txt" download="llms-full.txt">llms-full.txt</a> and paste or upload its contents into the AI session directly. This loses the routing structure of the site and gives the AI the entire corpus as one block, but it works with less-capable LLMs and removes the dependency on retrieval.</p>
+    </div>
+
+    <div class="divider">· · ·</div>
+
+    <div class="example-section">
         <h2>What does this actually look like?</h2>
 
         <p>In case you're curious about the experience of engaging with a book in this way but are reticent to dive straight in, I asked Claude to simulate a few conversations with this website. This feels a bit convoluted I know — asking an AI to pretend to be a human while exploring a website built for AI — but it does provide an interesting glance into what the experience feels like.</p>
@@ -395,7 +405,7 @@
         <p>Because of this, it's still worth doing the old fashioned thing and actually reading <a href="https://andrewmaynard.net/films-from-the-future/">the print version</a> (or listening to the audio book). But as a calibration — assuming that expecting someone to actually read the book is hopelessly naive — here's a sample of me reading the first chapter:</p>
 
         <audio controls preload="none" style="width: 100%; margin: 1rem 0;">
-            <source src="/audio/FFTF Chapter 1.mp3" type="audio/mpeg">
+            <source src="/audio/FFTF%20Chapter%201.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
     </div>
@@ -409,7 +419,7 @@
 
         <p class="footnote-item" id="fn4"><span class="fn-num">[4]</span> "It's that simple" — famous last words that guarantee I'll be getting emails in all caps pointing out that it is, in fact, not at all simple. If that's you, sorry!</p>
 
-        <p class="footnote-item" id="fn5"><span class="fn-num">[5]</span> For the technically minded, the AI-legible content is available across over 120 hierarchical markdown files (wth a similar number of associated html files), with access being coordinated through a master file — <a href="https://spoileralert.wtf/llms.txt">llms.txt</a>. The files themselves can be explored by opening llms.txt directly, or going the slightly easier human-centred route of checking out the <a href="https://spoileralert.wtf/contents.html">contents page</a>.</p>
+        <p class="footnote-item" id="fn5"><span class="fn-num">[5]</span> For the technically minded, the AI-legible content is available across over 140 hierarchical markdown files (with a similar number of associated html files), with access being coordinated through a master file — <a href="https://spoileralert.wtf/llms.txt">llms.txt</a>. The files themselves can be explored by opening llms.txt directly, or going the slightly easier human-centred route of checking out the <a href="https://spoileralert.wtf/contents.html">contents page</a>.</p>
 
         <p class="footnote-item" id="fn6"><span class="fn-num">[6]</span> At the time of writing, some models fail spectacularly. Gemini even refuses to admit that any files pertaining to the book even exist on the website. Sometimes it denies the whole existence of the website itself. Of course, using the extension .wtf may not be helping here ...</p>
 
@@ -424,7 +434,7 @@
 
     <footer>
         Conceived by Andrew Maynard, built with Claude.<br>
-        <a href="https://spoileralert.wtf/contents.html">Site contents</a> · <a href="example-conversations.html">Conversations</a> · <a href="https://spoileralert.wtf/llms.txt">llms.txt</a><br>
+        <a href="https://spoileralert.wtf/contents.html">Site contents</a> · <a href="https://spoileralert.wtf/connections/">Film connections</a> · <a href="example-conversations.html">Conversations</a> · <a href="https://spoileralert.wtf/llms.txt">llms.txt</a><br>
         &copy; 2026 Andrew Maynard
     </footer>
 

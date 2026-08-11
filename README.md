@@ -10,7 +10,7 @@ So I tried something different. I transformed the book into an AI-legible "livin
 
 ## How it works
 
-The site fully implements the [llms.txt](https://llmstxt.org/) convention to make it AI-legible. At its core are 370+ structured markdown files — the complete book text, 120+ curated topic pages spanning emerging technologies, responsible innovation, and post-2018 developments, plus frameworks, discussion questions, and an educators guide. The master file [`llms.txt`](https://spoileralert.wtf/llms.txt) gives AI systems a structured map to all of it. An [HTML fallback](https://spoileralert.wtf/llms-html.txt) exists for AI systems that can't read raw markdown.
+The site fully implements the [llms.txt](https://llmstxt.org/) convention to make it AI-legible. At its core are 140 structured markdown files — the complete book text, 97 curated topic pages spanning emerging technologies, responsible innovation, and post-2018 developments, six domain overviews, and reference material including frameworks, discussion questions, and an educators guide. The master file [`llms.txt`](https://spoileralert.wtf/llms.txt) gives AI systems a structured map to all of it. An [HTML fallback](https://spoileralert.wtf/llms-html.txt) exists for AI systems that can't read raw markdown.
 
 The result is something between a book, a knowledge base, and a thinking partner — depending on what you ask and how good your AI is.
 
