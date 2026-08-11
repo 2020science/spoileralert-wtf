@@ -1,0 +1,827 @@
+# Chapter 12: The Day After Tomorrow — Riding the Wave of Climate Change
+
+*From Films from the Future: The Technology and Morality of Sci-Fi Movies by Andrew Maynard*
+
+---
+
+“We were wrong.”
+—Vice President Becker
+
+## Our Changing Climate
+In July 2017, a massive chunk of ice broke off the Larson C ice shelf
+in Antarctica. The resulting tabular iceberg covered around 2,200
+square miles—about the area of Delaware, and a tad smaller than
+the British county of Norfolk—and was one of the largest icebergs
+in recorded history to break off the continent. The event grabbed
+the attention of the media around the world, and was framed as yet
+another indication of the mounting impacts of human-activity-driven
+climate change.
+Thirteen years earlier, the climate disaster movie The Day After
+Tomorrow opened with a block of ice splitting off another of the
+Antarctic ice shelves, in this case the Larson B shelf. At the time,
+the sheer size of this make-believe tabular berg was mind-boggling
+enough to astound and shock moviegoers. But the movie-berg
+ended up being rather smaller than the 2017 one, coming in at a
+mere 1,212 square miles.
+Looking back, it’s sobering to realize that what was considered
+shockingly unimaginable in 2004 had become a pale reflection of
+reality in 2017.
+Human-caused climate change is perhaps the biggest challenge of
+our generation. As a species, we’ve reached the point where our
+collective actions have a profound and lasting effect on our planet,
+
+At this point I should be up front and admit that The Day After
+Tomorrow barely touches on any of these technologies. This is a
+movie that uses Hollywood hyperbole to try to shock its audience
+into thinking more seriously about the impacts of catastrophic
+climate change, but it does this through human stories and an
+improbable (but nevertheless dramatic) climactic tipping point.
+Nevertheless, it is a movie that reveals intriguing insights into the
+relationship between technology, society, and climate.
+Here, I need to add a personal note before we get further into this
+chapter. Climate change is a contentious and polarizing issue. When
+it comes to human-driven global warming, most people have an
+opinion on what is and is not happening, what is and is not relevant
+and important, and what people should and should not be doing
+about it. Not to beat about the bush, it’s a minefield of a topic to
+write about, and one for which, no matter what I wrote, I’d end up
+rubbing someone up the wrong way. And yet, this is not an excuse
+not to write about climate change.
+Given this challenge, this chapter focuses on a relatively narrow
+aspect of our relationship with the planet we live on and how
+technology plays into this. As a result, it does not contain a
+comprehensive survey of climate science. It doesn’t analyze and
+summarize climate-change mitigation options. It doesn’t even
+unpack the growing field of sustainable technologies. These are all
+tremendously important areas, and if you’re interested in them, there
+are volumes upon volumes written about each of them that you can
+explore further. Rather, using The Day After Tomorrow as a starting
+
+yet we are struggling to even acknowledge the magnitude of the
+issues we face as a result, never mind agree on effective ways
+forward. This is a deeply social and political issue, and one that
+we’ll only make progress toward addressing through socially and
+politically-oriented action. Yet, underlying our changing climate, and
+how we handle it, is technology. It’s the technological innovations
+of the Industrial Revolution and what came after that helped get
+us here in the first place. It’s technological and scientific advances
+in climate modeling, and data collection and processing, that
+have revealed just how big the challenge is that we’re facing. It’s
+our continued addiction to our technology-enhanced and energyintensive lifestyles that continues to drive climate change. And it’s
+breakthroughs in areas like renewable energy, carbon capture and
+storage, and solar radiation management that are helping open up
+ways toward curbing the worst impacts of climate change.
+
+point, the chapter explores what it means to live on a dynamic
+planet where there is a deep and complex relationship between
+living systems and the world they inhabit, and what this means, not
+only for technologies that unintentionally impact our climate, but
+also those that are intentionally designed to do so.
+
+The Day After Tomorrow opens in Antarctica, with the movie’s hero,
+Jack Hall (played by Dennis Quaid), and his colleagues drilling
+out ice cores on the Larson B ice shelf, just as a Rhode-Islandsized chunk of ice breaks away from it. This somewhat convenient
+coincidence leads to hearings that are presided over by the US
+Vice President, and this is where we learn that Jack is something
+of a maverick scientist, and the Vice President a cynical climatechange denier.
+It quickly transpires that the ice-shelf collapse is a prelude to a
+much more dramatic series of events. Water from the melting berg
+disrupts critical ocean currents, and this in turn triggers a rapid
+and catastrophic shift in global climate. A series of devastating
+megastorms rings the changes between the world as we know it and
+a radically altered world of the future. In this emerging new world,
+the global North—including many of the world’s most affluent
+countries—is plunged into a new ice age. It’s these catastrophic
+megastorms that create the disaster backdrop for the movie,
+including a dramatic but make-believe type of storm that’s capable
+of pulling down super-cooled air from the upper atmosphere and,
+quite literally, freezing people solid who are caught in the downdraft.
+As a paleoclimatologist, Jack studies changes in the Earth’s climate
+throughout its history. His research has unearthed disturbing
+evidence of rapid climate shifts in the Earth’s past that are linked
+to disrupted ocean currents. And because he’s a brash Hollywood
+scientist, he doesn’t hesitate to make a pain of himself by telling
+people that they need to act now, before the same sort of
+catastrophic events happen all over again.
+This turns out to be a bit of a tough sell, though, as Jack reckons
+that it could be a hundred years or so before the really bad stuff
+starts to happen. But because of the water pouring into the ocean
+from the disintegrating Larson B ice shelf, Jack’s predictions begin to
+play out faster than anticipated—much faster.
+
+The only problem is, Jack’s son Sam ( Jake Gyllenhaal) is currently
+stuck in New York, which is a long way above this “no-hope” line.
+Predictably, because this is a Hollywood disaster movie, Jack decides
+to travel to New York City and rescue his son, despite knowing that
+he’ll be facing some incredibly tough conditions. And in true joinedat-the-hip buddy-movie style, his two research partners join him. On
+the way, Jack and his team, together with his son Sam (who’s holed
+up in the New York Public Library with his girlfriend and a handful
+of others, burning books to stay alive) face deadly flesh-freezing
+downdrafts from one of the megastorms. Thankfully, though, they
+evade the killer air, and are eventually reunited.
+Meanwhile, there’s a flood of US refugees (including the remnants
+of the US Government) crossing the border to Mexico. Yet, before
+he can be evacuated from DC, the US President is killed in the
+ever-worsening storms. As the climate-change-denying vice
+president takes his place (now ensconced in Mexico), he faces an
+unprecedented human and environmental disaster. And as he comes
+to terms with the consequences of human disregard for our fragile
+environment, he emerges a humbler but wiser leader.
+As the storms clear, we see a remade Earth, with snow and ice
+covering much of the northern and southern hemispheres, and
+a thin band of warmer land sandwiched in between. What were
+previously thought of as developing economies are now the ones
+calling the shots. And what is left of humanity faces the challenge
+of building a new future, and hopefully, a more thoughtful and
+responsible one.
+As the movie draws to a close, we begin to see groups of survivors
+emerging from the ice-encased buildings of New York City,
+including Jake and Sam. Humanity has suffered a blow, but it’s far
+from beaten.
+
+As the planet’s climate becomes increasingly unstable, it turns out
+that Jack’s computer model is the only one around that’s capable of
+predicting what’s going on. As he plugs the numbers in and cranks
+the handle, it becomes increasingly clear that the world is on the
+brink of a catastrophic change in climate that’s only days away. Even
+worse, his model predicts that the only way to protect as many US
+citizens as possible is to move people in the lower-latitude states as
+far south as possible, and leave everyone above a “no-hope” latitude
+to the mercy of the elements.
+
+The Day After Tomorrow leaves viewers with a clear warning that, if
+we continue to be disdainful of how we treat the environment, there
+could be potentially catastrophic consequences. But the overarching
+message of the film is one of the indomitable spirit of humanity
+overcoming even the most extreme of catastrophes. Watching the
+remnants of society start to work together, we just know that,
+whatever happens, we will survive as a species.
+This narrative admittedly makes the climate change messaging of
+the movie somewhat ambivalent. The film certainly tries to warn
+viewers about the consequences of actions that lead to global
+warming. But it also conveys a message of hope that, even if we
+make a mess of things, we can use our grit and ingenuity to find a
+way out. In other words, climate change is a problem, but it’s not
+the end of the world. To confuse things further, this is a movie about
+global warming that ends up with a frozen planet. At first blush, it’s
+probably not the message you’d go for if you were out to convince
+someone that greenhouse gas emissions are leading to catastrophic
+planetary heating. Yet it does give the movie a twist that I must
+confess I rather like. It suggests that the consequences of humandriven climate change are not necessarily predictable or intuitive.
+Yes, the Earth’s climate as a whole is warming. But because it’s also
+complex and fickle, this warming won’t necessarily lead to the types
+of issues that some might imagine.
+In this way, the movie leaves us with a picture of a climate that is
+sensitive and unpredictable, with the greatest point of certainty
+being that, if we take it for granted and continue to use it as a
+dumping ground for our industrial and personal effluent, something
+will give. This is part of the concern that drives scientists, activists,
+and others in the push for rapid and drastic action to curb the
+impacts of human-caused climate change. But even though this
+is vitally important, it’s hard to make sense of the complex nexus
+between people, technology, and climate without first recognizing
+how fragile our relationship with the dynamic planet we live on has
+always been.
+
+## Fragile States
+On December 26, 2004, a magnitude 9.0 earthquake struck off
+the coast of Sumatra. It was one of the largest earthquakes ever
+recorded, and the shock waves reverberated around the world,
+
+The 2005 Indian Ocean tsunami is a sobering reminder of just how
+precarious a place Planet Earth is, even before we begin thinking
+about the impacts of technology and human-driven climate change.
+We live on a dynamic and unpredictable planet, and throughout
+human history, natural events have devastated communities. This
+is not to diminish the almost-unthinkable consequences of global
+warming if we don’t put the brakes on our unfettered use and abuse
+of natural resources. But it is an important reminder that long-term
+environmental stability and security are often illusions that are born
+from our ability to convince ourselves that, because yesterday was a
+good day, tomorrow and the next will be just the same.
+This is a blind spot that we all have to the dangers of sudden,
+catastrophic risks, whether we’re looking at climate change or the
+impacts of emerging technologies. Just how deeply rooted this is in
+our collective behavior was brought home to me several years ago
+on a family vacation to the Pacific Northwest. Traveling with my
+wife, my parents, and our (then) young kids, we started at Mount
+Hood in Oregon, and worked our way north to Seattle and Mount
+Rainier via Mount St. Helens. These and other volcanoes in the
+Cascade Range are all relatively inactive at the moment. But in 1980,
+the world was reminded of just how much power lurks under the
+range, as Mount St. Helens erupted, throwing more than half a cubic
+mile of material into the atmosphere, and leaving a crater over a
+mile wide.
+The May 18, 1980, eruption was the most violent in the Cascade
+Range since the region was populated by settlers migrating from
+the east. Apart from low-level volcanic activity around some of
+the peaks, there hasn’t been anything quite like it for over 1,000
+years. Yet despite this relative calm, the Cascade volcanoes are far
+from safe.
+Fifty miles outside the city of Seattle stands Mount Rainier, perhaps
+one of the most iconic of the Cascades. Mount Rainier is a magnet
+for hikers, skiers, and day-trippers. Something like twenty million
+people a year visit the mountain, and its striking profile is as much
+
+triggering other, smaller quakes as they went. But the most
+devastating result was a series of tsunami unleashed in the Indian
+ocean. These swamped coastal areas in Indonesia, Sri Lanka,
+Thailand, India, and many other countries. As the sea swept through
+towns, villages, and cities, over 250,000 people lost their lives. It was
+one of the worst natural disasters in recent memory.
+
+a part of Seattle as the Space Needle and Pike Place Market. Rainier
+stands guard over a metropolitan area accounting for some 3.7
+million people. And yet it’s classified by the US Geological Survey
+as one of the most dangerous volcanoes in the country—and one
+where a major eruption could be devastating.
+Seattle was founded in 1851, well after Mount Rainier’s last period
+of major volcanic activity, which occurred around five hundred
+years ago. Because of this lag between the cycle of volcanic activity
+and large-scale urban expansion, there is little if any cultural or
+historic memory among most of Seattle’s current inhabitants of how
+unpredictable the environment they live in is. I suspect that most
+people living around the city think of it as a safe place to be, simply
+because it’s been safe for as long as anyone can remember.
+My daughter now lives in Seattle, and just in case I was missing
+something, I asked her what it’s like living next to a volcano that
+could wipe out the city if it got particularly belligerent. She’s been
+living and working there for over four years now, and her response
+is best summarized as “meh”—supporting my suspicions that, to
+many people living in the area, a risk not experienced is a risk
+not worth worrying about. However, she did add, “So, how do you
+feel about your only daughter living in the shadow of one of the
+country’s most dangerous volcanoes?” which made me realize that
+she’s not the only one with a rather complacent perspective here.
+How easily we convince ourselves that this dynamic, dangerous
+planet we live on is going to stay the same from day to day.
+Despite our relatively optimistic short-term view of the Earth’s
+enduring stability, Mount Rainier has had a habit of awakening
+from its slumber every five hundred years or so. And given the
+timing of the last eruption, we’re overdue for some action here.
+Maybe nothing as dramatic as the 1980 Mount St. Helens eruption,
+but probably nothing that people used to enjoying this seemingly
+passive slumbering giant will take kindly to.
+
+Mount Rainier and the 2004 Indian Ocean tsunami are just two
+reminders of how complacent we become when the environment
+we live in appears to be stable, and how quickly we sink into denial
+about how precarious life is on this outer skin of our dynamic
+planet. Yet the reality is that we live in an environment that can turn
+dangerous on a dime.
+
+What these figures bring home—and they are only the tip of
+the iceberg of environment-related deaths—is that we live in a
+dangerous world. Many people live perilously close to potential
+circumstances that could rob them of their livelihoods, their
+communities, and their lives. Collectively, we live in a fragile state
+of being, despite everything we do to convince ourselves that we’re
+okay. Yet this very fragility is integral to life on Earth. It’s the very
+changeability of the world we live in that has led, through evolution
+and natural selection, to an incredible diversity of species, including
+humans. A changing environment forces adaptation. It weeds out
+the poorly adapted and creates new opportunities for evolving
+organisms to take hold and thrive in new niches. Change is a force
+of nature that has led to where we are now. Yet it’s one that we mess
+with at our peril.
+
+## A Planetary “Microbiome”
+Over time, the complex relationship between the Earth’s changing
+climate and the forces of evolution has led to a deep symbiosis
+between how living organisms impact the Earth, and how this in
+turn impacts them. Amazingly, over geological timescales, life has
+crafted the Earth we live on as much as Earth has molded the life
+it harbors. This symbiosis formed the basis of the Gaia hypothesis
+developed by scientists James Lovelock and Lynn Margulis in the
+1970s. And while a lot of pseudoscientific mythology has since
+grown up around the idea of Planet Earth being a living organism,
+there are deep evidence-based reasons to approach the Earth as a
+
+In 2008, CBC News published a list of some of the most devastating
+natural disasters that have occurred since 1900.[^168] It’s an admittedly
+subjective list, as the line between natural and human-created
+disaster gets increasingly blurred when it comes to floods and
+famines. This aside, though, the list makes for sobering reading.
+Tallying the numbers, something like eight million deaths have
+been associated with earthquakes, tsunamis, eruptions, hurricanes,
+cyclones, and floods over the past hundred years or so. Adding in
+pandemics and famines, the number rises to well over two hundred
+million people who have lost their lives as a direct result of the
+environment they live in. What makes these numbers even more
+devastating is that, apart from malaria (which is estimated to kill a
+million people a year), most of these deaths are caused by intense
+events that punctuate periods of relative calm.
+
+complex system of organic and inorganic matter that, together, are
+responsible for a shifting and evolving environment.
+If we were an alien race observing the Earth from some distant
+solar system, we’d see a planet where the atmosphere, the oceans,
+the land, and the organisms that are part of them are constantly
+changing and shifting. We’d see a rolling history of different
+species rising to dominance, then fading as others arose that were
+better fitted for a changing world. We’d see humans as the latest
+manifestation of this deep relationship between the planet and
+the life in and on it. And we’d probably assume that this species
+would also be superseded at some point, not necessarily by a
+more intelligent one, but by one that was simply better adapted for
+thriving in a post-human world. With the clarity that comes from
+time and distance, we’d recognize that humans are just one small
+cog in a much larger planetary-scale machine, albeit a cog that has
+an outsized opinion of itself.
+In recent years, a quite compelling analogy for this deep
+interconnection between the environment and the organisms that
+are part of it has come out of the field of microbiology. For decades
+now, scientists have realized that our bodies contain trillions of
+microbes. In fact, a popular myth has arisen that our microbes
+outnumber our human cells ten to one, meaning that despite any
+beliefs to the contrary, each of us is more non-human than we
+are human.
+This number doesn’t hold up to scientific scrutiny, as how much of
+each of us is made up of microbes varies quite considerably. But
+that’s not the interesting bit of this story. What is, and the piece
+that’s shaking up our understanding of our biology, is that we are
+each deeply interdependent on the microbes that live on and in us,
+so much so that there’s emerging evidence that our gut microbes can
+actually influence how we think and feel.[^169]
+This is where a useful analogy can begin to be drawn between the
+human microbiome and planet Earth. Not so long ago, we thought
+of ourselves as complete and independent entities, with minds and
+wills of our own. But we’re now learning that what we think of as
+“me” is a complex collection of non-human microbes and human
+cells that, together, make up a living, thinking organism. We are,
+in fact, a product of our microbes, and they of us. In the same
+way, we’re beginning to understand just how symbiotic the earth’s
+
+This perspective radically changes how we think of ourselves and
+our actions in relation to the planet. Through it, we can no longer
+assume that the environment is something to be utilized, or even
+something to be looked after, as both assume we are somehow
+separate from it. Rather, it’s increasingly clear that we are both a
+product of our environment, and deeply enmeshed in its future. In
+other words, what we do has a profound impact on how the world
+changes, and how this in turn will change us.
+This interdependence between us and the environment we live in
+has accelerated substantially over the past two centuries. A few
+thousand years and more ago, humans were something of a bit
+player as far as planetary dynamics went. We were insignificant
+enough that we could live our lives without bringing about too
+much change (although with hindsight, it’s possible to see how early
+environmental abuse set us on the pathway toward local flooding,
+famines, and the formation of deserts). Yet, over the past two
+hundred years, there’s been a dramatic change. Global population
+has risen to the point where the environment can no longer absorb
+our presence and our effluent without being substantially altered by
+it.
+Human profligacy is now a major factor in determining how we
+impact the environment, as we saw in chapter eleven and Inferno.
+But there’s another, equally important trend that is radically
+changing our relationship with planet Earth, and that is the
+increasing impacts of technological innovation.
+
+## The Rise of the Anthropocene
+Around two hundred years ago, we saw the beginnings of massive
+and widespread automation, an acceleration in fossil fuel use, and
+transformations in how we use agricultural land. The resulting
+Industrial Revolution changed everything about our relationship
+with the planet. Almost overnight, we went from a relatively minor
+species (in geological terms) to having a profound impact on the
+world we live on. This trend continues to this day, and we’re now
+entering a phase of technological innovation where how we live
+and what we do is more deeply coupled than ever to the evolution
+
+organisms are to the planet. Just as our microbiome is an integral
+part of who we are, we are discovering that we cannot separate the
+physical Earth, its rocks, soils, oceans, rivers, even its atmosphere,
+from the flora and fauna that inhabit it, including humans.
+
+of Planet Earth. But there’s a problem here. Going back to the
+microbiome analogy, we, along with all other forms of life, are part
+of a deep and complex cycle of planetary change. Yet, because of
+our growing technological abilities and our evolutionary drive to
+succeed, we are now forcing the world to change faster, and in
+different ways, than ever before, and we have no idea what the
+consequences of this are going to be.
+What we do know is that there will be consequences. We know
+that the Earth changes and adapts in response to the organisms
+that live on and in it. We understand that Planet Earth is a deeply
+complex system, where the results of seemingly small changes can
+be unpredictable and profound (going back to chapter two and
+chaos theory). We recognize that, in such systems, the harder you
+hit them, the more unpredictably they respond. And we realize that
+complex systems like the Earth are prone to undergoing radical and
+disruptive transitions when pushed too hard.
+This is all part of living in the “Anthropocene,” a term that’s
+increasingly being used to describe this period in the Earth’s history
+where, largely though our technological innovations, humans
+have the power to dramatically influence the course of planetary
+evolution. The trouble is, while we have this growing ability to
+impact a whole planet, it’s by no means certain that we know what
+we’re doing, or that we understand how to chart a path forward
+through the ways in which our planetary influence will in turn
+impact us.
+Here, The Day After Tomorrow stands as something of a warning
+against human hubris and the fragility of our relationship with
+the natural world. Over-the-top as it is, the film reminds us that
+we are messing with things we don’t understand, and that if
+we’re not careful, there will be a reckoning for our environmental
+irresponsibility. Perhaps not surprisingly, in true Hollywood style,
+it’s all a little clumsy. But it’s hard to avoid the message that we
+live on a dangerous planet that has the power to seriously disrupt
+our twenty-first-century lifestyles, and that we prod and poke it at
+our peril.
+But the movie also has a message of hope, albeit one that’s very
+human-centric. It suggests that, ultimately, humans are resilient;
+that even when we suffer catastrophic losses, we have the ability
+to collectively pick ourselves up and come back stronger and wiser
+than before.
+
+## Building Resiliency
+On September 6, 2017, Hurricane Irma devastated the Caribbean
+island of Barbuda. For the first time in three hundred years, the
+island was left uninhabited, apart from the dogs and other animals
+left behind by a fleeing population.
+Irma was just one of a string of powerful hurricanes sweeping
+through the Caribbean and across the Southern states of the US in
+2017, in one of the most destructive hurricane seasons on record.
+And, as one storm after the next battered communities, it challenged
+them to think about what it means to be resilient in the face of
+such devastation.
+Resiliency, I have to admit, is a bit of a buzz-word these days. In the
+environmental context, it’s often used to describe how readily an
+ecosystem is able to resist harm, or recover from damage caused by
+some event. But resiliency goes far beyond resistance to change. In
+its broadest sense, it gets to the heart of how we think about what’s
+important to us, and how we make provisions to protect and grow
+this, in spite of events that threaten to cause harm.
+Long before I became involved with environmental sustainability, I
+was used to the idea of resilience that’s commonly used in materials
+science. Here, resilience is a measure of how much energy a material
+can absorb, and still have the ability to return to its previous state
+when that energy is released. Imagine, for instance, a rubber band.
+If it’s stretched, and as long as it doesn’t break and is not is old
+
+Here, The Day After Tomorrow is surprisingly optimistic about the
+future. But this optimism does depend on us working together to
+develop the resiliency that’s necessary to survive and thrive on a
+dynamic planet. Emerging technologies have a vital role to play
+here, together with social, economic and political innovation. This
+is where renewable energy technologies are finally beginning to
+compete with fossil fuels; where distributed energy-networks and
+battery technologies are transforming how we generate, distribute
+and use electricity; where water treatment and agricultural
+technologies are enabling us to achieve more with less; and where
+we’re learning to not only ensure products are recyclable, but to
+develop a “circular economy” where everything is reused. And this is
+just the tip of the sustainable technologies iceberg. Yet if these and
+other technologies are to be used to build a resilient future, we first
+need to understand what we mean by “resiliency” in the first place.
+
+and weathered, it will return to its original shape once released. In
+this way, it’s resilient to change. But push it too far and it will snap;
+there’s a limit to how resilient it is.
+This idea of resiliency as an ability to return to “normality” in the
+face of stress is how it’s often used to describe ecosystems. Resilient
+ecosystems are frequently seen as those that resist permanent
+damage, and that recover fast if they are harmed. But in a world
+where change is the driving force behind pretty much everything,
+this turns out to be a rather limited concept. Despite change
+and adaptation being the bedrock of our planet’s biological and
+geological evolution, ideas of environmental resiliency seem too
+easily to slip into a mode of thinking that suggests change is bad,
+and should be resisted.
+This is understandable if we believe that we should be preserving
+how things are, or some ideal of how they should be. But it’s
+important to ask what are we trying to preserve here. Is it the global
+environment as it now stands? Is it how we as humans are currently
+living? Is it the continuation of life in some form? Or is it the
+continuation of some future vision of humanity?
+In reality, how we think about resiliency depends entirely on what
+we are trying to protect or preserve. And this, it turns out, is deeply
+dependent on context, to the extent that ideas that look like resilient
+approaches from one perspective may look highly precarious
+from another.
+In effect, our understanding of resilience depends on what’s
+important to us, and in this context, resilience is not necessarily
+about maintaining the status quo, but about protecting and
+preserving what is considered to be “of value.” This may be the
+environment, or our health and well-being. But it may just as equally
+be someone’s ability to make a living, or their deeply held beliefs,
+or even their sense of self-identity and worth. From this perspective,
+we can begin to think of resiliency as something we use to protect
+many different types of value within society, or to ensure that this
+value can be regained if it’s temporarily damaged.
+Thinking about resiliency in this way ends up with it being less
+about maintaining what we currently have, and more about
+ensuring future outcomes that we value. It also helps illuminate
+the complex landscape around issues like climate change where
+different, and sometimes hidden, values may be threatened. And
+with this reframing, we have a concept that is, in itself, adaptable to
+
+This begins to get close to a perspective on resilience proposed by
+Tom Seager and colleagues in 2013.[^170] Thinking specifically about
+engineered systems, they explored the idea of resilience as being
+about what a system does, rather than what it is. In the language of
+“value,” this translates to resilience being about developing systems
+that preserve what we consider to be valuable, rather than simply
+describing the system itself. It’s all about getting to where we want
+to be, rather than simply trying to stay in the same place.
+This broader understanding of resilience is described rather well
+by David Woods in a 2015 paper,[^171] and expanded on later by
+Seager and others.[^172] Woods describes four types of resilience. First,
+there’s rebound, or the ability for a system to return to its “healthy”
+state after being damaged. This is pretty close to the standard
+understanding of ecological resilience. Then there’s robustness, or
+the ability to withstand knocks and shocks without failing. Things
+get interesting though with the third type of resilience: graceful
+extensibility.
+Woods’ notion of graceful extensibility recognizes that, no matter
+how prepared you are, there will always be surprises, and it’s always
+good to be able to adapt to them. It’s a bit like the blade of grass
+bending but not being swept away by the hurricane, while stronger
+but less resilient trees are uprooted.
+Woods’ final type of resiliency is sustained adaptability, or a
+willingness to change and sacrifice some aspects of what already
+exists in order to maintain others. Again, this begins to frame the
+idea of resiliency as less about maintaining the status quo, and more
+about adapting to change while preserving what’s important.
+These four types of resiliency still have the feel of trying to maintain
+things as they are, but they do acknowledge that some willingness
+to change and adapt, and have some degree of flexibility, is
+
+a changing world. It’s a way of thinking about resiliency that moves
+our focus from maintaining our environment as we think it should
+be to considering where we want to be, even as the environment
+around us changes.
+
+necessary. I’d go further, though, and argue that, because we live
+in a world where change is the life-blood of everything, we need
+to understand how to live with change. This includes the surprises,
+failures, and changes that make life tough. But it also includes
+changes that make life easier, if we can just see how to take
+advantage of them. What’s important here is not trying to maintain
+what we have (or what we believe we should have), simply because
+we have it, but protecting what we think is truly important.
+Not surprisingly, the list of what we collectively think is important is
+a long and often conflicting one. But building resiliency to protect
+and preserve what we can agree should be protected and preserved
+in a changing world makes a lot of sense. And this brings us back to
+The Day After Tomorrow.
+On one level, The Day After Tomorrow can be viewed as a movie
+about the dangers of not building resilient systems. In the movie,
+political decision-making lacks the resiliency to prevent humandriven climate change, and infrastructure systems lack the resiliency
+to withstand the impacts of the extreme storms. What we see is a
+brittle world, collapsing under the consequences of ill-considered
+decisions.
+And yet, for all the dramatic and catastrophic change in the movie,
+people, relationships, and nations survive. Not only do they survive,
+they grow and adapt. And ultimately, they show deep resiliency in
+the face of potential catastrophe.
+This, though, is a matter of framing. Certainly, the developed
+world and its institutions and infrastructures are shattered by the
+catastrophic shift in global climate. But in the movie’s narrative,
+what is important to the central characters, including love,
+commitment, friendship, and selflessness, are resilient in the
+face of the onslaught. And because of this, despite the on-screen
+destruction, this is a movie about hope for the future—a hope that’s
+based on the resiliency of the human spirit.
+That said, this is very much a privileged Western perspective.
+Despite the shock we feel at seeing whole communities decimated
+in the movie, this is sadly not an unusual state of affairs as you look
+around the world. Beyond the confines of a Western middle-class
+existence, suffering and catastrophe are commonplace, whether
+through war, famine, disease, poverty, climate, or a whole host
+of other factors. And this is perhaps one of the more sobering
+takeaways from the movie; that while we might talk about the need
+
+For many of these communities, resiliency is not about holding on
+to what they have, but about not letting go of who they are. Yet,
+in many cases, this is a necessity rather than a virtue, and one that
+should probably not be praised where it shouldn’t be needed. And
+this brings us to a final way of thinking about resiliency. Resiliency
+should not be about survival, or about holding onto life with our
+fingernails. Rather, it should be about having the ability to thrive
+in a changing world. Yet to achieve this, we need to be proactive.
+We need to have foresight, and to act with intention, if we want
+to create the future we desire, in spite of what the dynamic and
+dangerous world we live on throws at us.
+This means taking responsibility for changes that we can control,
+such as reducing the chances of catastrophic climate change that’s
+driven by our own irresponsible actions. But it could just as easily
+mean using technology to intentionally modify the Earth’s climate.
+And this brings us to an idea that isn’t explicitly addressed in The
+Day After Tomorrow, but is deeply embedded in how we think
+about resiliency, climate, and the future: geoengineering.
+
+## Geoengineering the Future
+In 2006, University of Arizona astronomer Roger Angel suggested a
+rather radical solution to global warming. His idea was to launch a
+trillion-dollar light diffuser into space, to deflect some of the sun’s
+rays from the Earth.[^173] The proposal was published in the prestigious
+journal the Proceedings of the National Academy of Sciences, and
+at the time it caught the imagination of a number of us who were
+intrigued by such an audacious approach to planetary engineering.
+Angel proposed to send billions of small, transparent “flyers” into
+space to create a cloud at the Lagrange point between the Sun and
+the Earth—the point where the gravitational pull of each body just
+balances out—allowing the flyers to seemingly hover effortlessly
+between the two. These would deflect just enough sunlight from
+hitting the Earth that the cloud would act as a massive solar shade,
+countering the effects of greenhouse-gas-driven global warming.
+
+for resiliency in the face of climate change, communities around the
+world are exhibiting resiliency now, every day, as they struggle to
+survive and find meaning in a fickle world.
+
+Angel’s idea was part of a growing interest in using planetaryscale engineering to manage the effects of human-caused climate
+change. Commonly called “geoengineering,” it’s an approach to
+controlling the earth’s climate that, to some at least, has become
+increasingly relevant as efforts to curb carbon dioxide emissions
+have run into rough water. Yet, despite the urgency with which
+we need to get a grip on our collective environmental impacts,
+geoengineering represents technologies and ideologies that are
+fraught with challenges.
+I first started writing about geoengineering back in in 2009.[^174] At the
+time, I was fascinated by the audacity of the ideas being discussed
+(most of which were more mundane than throwing billions of
+sunshades into space). But I was also intrigued by the ethical and
+social issues they raised. I’d been following the technology before
+this, but what sparked my interest in 2009 was the controversy
+around a particular experiment planned to take place in the
+Southern Ocean.
+The experiment was given the admittedly not-so-catchy name
+LOHAFEX,[^175] and was designed to see if algal blooms could be
+used to remove carbon dioxide from the air.[^176] The plan was to
+release six tons of dissolved iron over three hundred square miles
+of ocean in an attempt to feed and stimulate an algal bloom, which
+would remove carbon dioxide from the atmosphere before sinking
+to the bottom of the ocean. But even before the research started,
+it drew criticism from environmental groups. As one of the largest
+geoengineering trials to date at the time, they were concerned that it
+represented unnecessary and even unethical direct experimentation
+on the only environment we have.
+Despite the low chances of LOHAFEX having any lasting impacts,
+these concerns put the study on hold until the funders were certain
+that the risks were minimal. As it turned out, the experiment,
+when it eventually took place, showed that ocean fertilization with
+iron had a small and unpredictable impact on atmospheric carbon
+dioxide. This was a useful finding, as it indicated the limitations
+of this one potential approach to carbon dioxide removal. But it
+also demonstrated what a contentious issue geoengineering was at
+the time.
+
+If you believe that the root problem with the world today is human
+behavior, then one of your primary solutions to global warming is
+likely to be trying to change how people behave. This may involve
+reducing dependency on fossil fuels, or encouraging people to lead
+more energy-efficient (or less energy-greedy) lifestyles. Or it may
+mean helping individuals and organizations develop environmentally
+healthy practices. In contrast, anything that gives what you think are
+humanity’s bad habits a free pass is, by default, not good news—the
+reckless extraction and use of fossil fuels for instance, or profligate
+energy use. Geoengineering does not fit comfortably within this
+ideology. It smacks too much of developing technological fixes to
+reverse the consequences of “bad behavior,” rather than fixing the
+behavior that led to the problem in the first place.
+Unfortunately, to many people—and I would count myself here—
+we don’t have the luxury of sacrificing people’s lives and the
+environment we live in on the altar of ideology. Without question,
+we are caught up in a cycle of collective and individual behavior
+where we readily and wrongly pollute the “commons” of the
+atmosphere for short-term gain. It would be lovely, of course, to
+think that people could learn to be more responsible than this. But
+individuals are complex, and society as a whole is more complex
+still. We all have our own values, and things that are important to
+us that we are striving for. And in some cases, for good or bad,
+these don’t align with the common good of maintaining the earth’s
+environment in its current (or past) state. Factors like putting food
+on the table and a roof over our family’s head come into play,
+or getting out of poverty, reducing inequities, closing economic
+disparities, and striving for the same living conditions as others.
+Individuals and nations are constantly juggling a plethora of issues
+that are important, and while the environment is one of them, it isn’t
+always the most important.
+
+Even today, the ethics and responsibility of geoengineering are hotly
+contested. On one hand, this isn’t surprising. We only have one
+environment to experiment with, and so we can’t afford too many
+“oops!” moments; there’s no convenient drawing-board to go back
+to when Global Experiment A goes wrong. But in addition to the
+(albeit low in most cases) risks, there’s another concern that dogs
+geoengineering, and that’s the underlying ideology.
+
+Yet despite this complex mess of conflicting priorities, aims, and
+desires, the cold hard truth is that our actions are already forcing the
+global climate to change. And as they do, we have a choice to make:
+live with the consequences, or do something about it. To some in
+the geoengineering community, the only way to “do something
+about it” is to stop waiting for people to do the right thing, and to
+start to engineer the heck out of the problem. And this, as it turns
+out, isn’t as hard as you might imagine.
+Here, geoengineers have two basic options: reduce the amount
+of sunlight hitting and being absorbed by the earth’s atmosphere,
+or actively reduce the concentration of greenhouse gases in the
+atmosphere (carbon dioxide in particular). In technical terms,
+these are often lumped into one of two categories: solar radiation
+management, or SRM, and carbon dioxide removal, or CDR, although
+it must be said that, to the enterprising geoengineer, there are ways
+of engineering the earth’s environment that don’t necessarily fit
+conveniently into either of these buckets.
+Roger Angel’s solar shade spaceships aside, many of these
+techniques aren’t exactly rocket science. For instance, planting
+lots of trees is a form of CDR, as they suck up and store carbon
+dioxide in their wood (although it’s not the most effective form of
+CDR). LOHAFEX was another form of CDR, as are technologies
+that actively remove carbon dioxide from power-plant emissions, or
+artificial trees and other technologies that convert carbon dioxide
+either into plastics and fuels that can be reused, or into materials
+that can be buried in the ground.
+Many of the approaches being considered for SRM are equally
+straightforward: painting roofs white, for instance, to reflect sunlight,
+or spraying sunlight-reflecting particles into the stratosphere. This
+last technique borrows a trick from volcanoes, which can actually
+cool the earth’s atmosphere when they spew millions of tons of
+sulfate particles into the stratosphere. And it’s not that expensive.
+A country like India, for instance, could probably finance a global
+stratospheric aerosol SRM program designed to improve local crop
+yields. The problem is, of course, that such unilateral action would
+most likely make a lot of other countries rather angry.
+All this is rather hypothetical, though, as to date there’s not been
+sufficient research to get a good sense of what might work and
+what might not with geoengineering technologies, and what the
+unintended consequences might be and how to avoid them. As
+
+And yet, something has to give here. To use an analogy from health,
+it’s like a physician being faced with a patient needing heart bypass
+surgery because they’ve overindulged and under-exercised, but
+refusing treatment because it may encourage others to similarly
+adopt unhealthy lifestyles. In the medical case, the solution is a
+“yes and” one: treat the patient and simultaneously work to change
+behavior. And it’s the same with the environment. Yes, we’ve made a
+mess of things, and yes, we need to change our behavior. But also,
+yes, we need to use every tool we have to make sure the resulting
+impacts are as benign as we can make them.
+And this brings us back to resiliency, and the challenges of living
+on a dynamic planet. Unless drastic action is taken to forcibly
+reduce the human footprint on planet Earth, we need to be able
+to protect and nurture what is important to humanity. And that
+means developing the ability to protect lives and livelihoods; to
+protect dignity and freedom; to protect what people care about
+the most. This will take social and political change, together with
+global cooperation. But it will also take using our technical and
+engineering prowess to the best of our ability. And, importantly, it
+will depend on combining research and experimentation with social
+awareness, to develop ways of engineering the climate that are
+socially responsible as well as socially and politically sanctioned.
+This probably won’t end up including high-concept ideas like
+Roger Angel’s solar diffusers. And to be fair, Angel saw his thought
+experiment as an extreme solution to an emerging extreme problem.
+Emphasizing this, his paper concluded, “It would make no sense
+to plan on building and replenishing ever larger space sunshades
+to counter continuing and increasing use of fossil fuel. The same
+massive level of technology innovation and financial investment
+needed for the sunshade could, if also applied to renewable
+energy, surely yield better and permanent solutions.” Rather, we
+need feasible and tested engineering approaches that can be used
+
+a result, the “geoengineering elite” of the world are caught in a
+seemingly never-ending argument around should-they-shouldn’tthey. And what limited research on possible approaches has been
+proposed has run into barriers, much as the LOHAFEX project did.
+People who are professionally concerned about these things are
+reticent to sanction experiments designed to help develop effective
+geoengineering approaches, either because they are worried
+about the consequences, or because they see this as an ideological
+slippery slope.
+
+carefully and responsibly, and with the agreement of everyone
+potentially impacted by them. And they need to be part of a range
+of options that are pursued to managing both our impacts on the
+world we live on, and the challenges of living on what is, at the end
+of the day, a capricious planet.
+How we respond to this challenge—and to the ongoing challenge of
+climate change more broadly—depends to a large extent on how we
+think about the world we live in and the future we’re building. And
+this raises an issue that threads through this chapter: Irrespective
+of how deep our science is, or how powerful and complex our
+technologies are, we cannot hope to build a better, more resilient
+future through science and technology if we don’t understand our
+relationship with them in the first place. And this leads us to our
+final movie: Carl Sagan’s Contact.
+
+
+[^168]: “The world’s worst natural disasters. Calamities of the 20th and 21st centuries” Published by CBC, May 8, 2008. http://www.cbc.ca/news/world/the-world-s-worst-natural-disasters-1.743208
+
+[^169]: See, for instance, Ed Yong’s 2016 book “I Contain Multitudes: The Microbes Within Us and a Grander View of Life,” published by Ecco.
+
+[^170]: Park, J., et al. (2012). “Integrating Risk and Resilience Approaches to Catastrophe Management in Engineering Systems.” Risk Analysis 33(3): 356-367. http://doi.org/10.1111/j.1539-6924.2012.01885.x
+
+[^171]: Woods, D. D. (2015). “Four concepts for resilience and the implications for the future of resilience engineering.” Reliability Engineering & System Safety 141: 5-9. http://doi.org/10.1016/j.ress.2015.03.018
+
+[^172]: Seager, T. P., et al. (2017). “Redesigning Resilient Infrastructure Research.” Published in “Resilience and Risk. Methods and Application in Environment, Cyber and Social Domains.” Editors: I. Linkov and J. M. Palma-Oliveira Springer. Pages 81-119.
+
+[^173]: Angel, R. (2006). “Feasibility of cooling the Earth with a cloud of small spacecraft near the inner Lagrange point (L1).” Proceedings of the National Academy of Sciences 103(46): 17184. http://doi.org/10.1073/pnas.0608163103
+
+[^174]: See “Geoengineering: Does it need a dose of geoethics?” 2020 Science, January 28, 2009. https://2020science.org/2009/01/28/geoengineering-does-it-need-a-dose-of-geoethics/
+
+[^175]: The name LOHAFEX comes from “LOHA,” the Hindi word for iron, and “FEX,” an acronym derived from Fertilization Experiment. The lead scientists were nothing if not obscurely creative!
+
+[^176]: “LOHAFEX: An Indo-German iron fertilization experiment.” Eurekalert, January 13, 2009. https://www.eurekalert.org/news-releases/805437

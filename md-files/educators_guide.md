@@ -1,0 +1,925 @@
+# Educators Guide: Films from the Future in the Classroom and Beyond
+
+## How to Use This Guide
+
+This guide expands on the discussion questions in *Films from the Future* by Andrew Maynard, adapting them for use across a range of educational contexts, from high school classrooms to executive boardrooms.
+
+The guide is organized around four audience tiers:
+
+- **Secondary (grades 8-12):** Concrete, relatable entry points that meet students where they are
+- **Undergraduate:** The book's natural audience, balancing personal engagement with analytical frameworks
+- **Graduate/Professional:** Structural analysis, governance design, and cross-framework synthesis
+- **Executive/Leadership:** Decision-making scenarios rooted in organizational reality
+
+Materials are organized both **by film chapter** (Part One) and **by cross-cutting theme** (Part Two), so educators can use the book sequentially or thematically. Part Three provides workshop and course formats for different time constraints.
+
+Each section includes the book's original seed questions, tiered discussion questions for all four audiences, and at least one activity that can be adapted across levels. Connections to the thematic index are noted throughout so students and participants can go deeper on any topic.
+
+A note on pedagogical philosophy: the book's greatest strength is its willingness to hold complexity rather than resolve it. The scaffolding in this guide is designed to lower entry barriers without flattening the questions. The goal is not to arrive at correct answers but to develop the capacity to sit with difficult questions and think them through from multiple perspectives.
+
+Andrew Maynard has taught the ASU undergraduate course "The Moviegoer's Guide to the Future" (FIS 338) using these films since 2017, refining these questions over seven years of classroom use. This guide builds on that experience.
+
+---
+
+## Quick Start: Choosing Your Entry Point
+
+- **By film** (Part One): Best for courses organized around the book's chapters, film studies courses, or settings where students watch the movies. Start with the chapter that matches your syllabus.
+- **By theme** (Part Two): Best for courses on ethics, policy, technology governance, or professional development where you want to organize around ideas rather than films. The seven thematic clusters draw questions from across multiple chapters.
+- **By audience level** (Part Three formats): Best when adapting for a specific group. Choose a workshop or course format that matches your time and audience, then pull tiered questions from the relevant chapters or themes.
+
+---
+
+## Understanding the Audience Tiers
+
+### Secondary (Grades 8-12)
+- Concrete, relatable entry points connecting to students' lived experience
+- Emphasis on personal choice, fairness, and "what would you do?" scenarios
+- Scaffolded toward more abstract thinking through guided steps
+- Film clips can substitute for full viewings where age-appropriate
+- Questions are designed to be accessible without prior knowledge of ethics or technology policy
+
+### Undergraduate
+- The book's natural audience -- these are close to the questions Andrew uses at ASU
+- Balance between personal engagement and analytical frameworks
+- Introduction to the named frameworks (Collingridge dilemma, honest broker, risk innovation)
+- Emphasis on connecting film analysis to real-world case studies
+- Students are expected to engage with the book's arguments, not just the films
+
+### Graduate/Professional
+- Assumes familiarity with ethical frameworks and policy analysis
+- Questions engage with structural tensions, institutional design, and governance mechanisms
+- Cross-technology and cross-framework analysis expected
+- Focus on applying the book's frameworks to current and emerging challenges
+- Students are expected to evaluate the frameworks themselves, not just apply them
+
+### Executive/Leadership
+- Decision-making context: "Your organization faces..."
+- Emphasis on governance, accountability, risk, and stakeholder engagement
+- Scenarios drawn from real corporate and institutional dilemmas
+- Time-efficient formats (90-minute workshops, lunch-and-learn structures)
+- Questions are designed to connect directly to participants' professional responsibilities
+
+---
+
+## PART ONE: BY FILM CHAPTER
+
+---
+
+### Chapter 1: In the Beginning (2001: A Space Odyssey)
+**Core themes:** Why sci-fi matters for technology ethics, risk as threat to what we value, responsible innovation
+
+**Seed questions:**
+* What are some of the ways in which new technologies are changing people's lives today?
+* How does the current speed of technology innovation present unique challenges?
+* Should tech companies and scientists be doing more to innovate ethically and responsibly?
+* Can art – including movies – really provide insights into the ethical development and use of new technologies?
+* What perspectives on technology are missing when decisions are left only to scientists, engineers, and policymakers?
+* Can you think of a time when a film, book, or piece of art changed the way you thought about a real-world issue?
+* What does "risk" mean to you — and is it more than just physical safety?
+
+**Tiered questions:**
+
+**Secondary:**
+- Think about a technology you use every day (your phone, social media, a streaming service). Who decided it should work the way it does -- and did anyone ask you?
+- If you could sit in a room with the people designing the next big technology, what would you want them to hear from someone your age?
+- Name one way a movie, game, or TV show has made you think differently about something real.
+
+**Undergraduate:**
+- The book argues that risk extends beyond physical safety to include threats to dignity, identity, and belonging. Can you identify a technology that threatens something you value that isn't physical safety?
+- How does the concept of "risk innovation" -- redefining risk as threats to what people value -- change the way you evaluate emerging technologies compared to traditional risk assessment?
+- What is lost when technology conversations are limited to experts? What specific perspectives do non-experts bring that experts systematically miss?
+
+**Graduate/Professional:**
+- Evaluate the claim that science fiction films are better tools for public engagement with technology ethics than white papers, policy briefs, or citizen panels. What evidence would you need to test this?
+- The book proposes that anyone potentially impacted by technological innovation should have a say in how it is developed. What institutional mechanisms would make this operationally possible without paralyzing innovation?
+- How does the expanded definition of risk (as threat to what people value) interact with existing risk governance frameworks like cost-benefit analysis, the precautionary principle, or anticipatory governance?
+
+**Executive:**
+- Your organization is launching a technology product that will affect millions of users. How do you identify what those users value -- beyond safety and functionality -- before deployment?
+- A board member argues that "responsible innovation" is just a way to slow things down while competitors move ahead. How do you make the business case for embedding ethical consideration into the development process?
+- What does "risk" mean for your organization that isn't captured by your current risk management framework?
+
+**Activity: The Risk Landscape Exercise**
+*All levels, adapted by complexity*
+
+Participants map a technology they know onto a "risk landscape" -- identifying not just physical risks but threats to dignity, autonomy, identity, belonging, trust, and belief. Secondary students do this for social media. Undergrads for a technology from the book. Graduate students compare two technologies. Executives map their own organization's product or service.
+
+Format: Draw a circle in the center of a page with the technology name. Around it, place six domains: Physical Safety, Dignity, Autonomy, Identity, Belonging, and Trust. For each domain, identify specific risks the technology poses. Then rank them: Which risks are most severe? Which are most neglected? Which does the developer probably not even see?
+
+Debrief questions: Which risks were easiest to identify? Which required the most thought? What does the pattern tell you about how we typically think about risk versus how we should think about risk?
+
+---
+
+### Chapter 2: Jurassic Park (1993) -- Genetic Engineering
+**Core themes:** "Could we? Should we?", complexity and chaos, power dynamics, the limits of prediction
+
+**Seed questions:**
+* Is using genetic engineering to bring extinct species back a good idea?
+* Should scientists be allowed to experiment with altering the genetic code of humans?
+* Can experts ever completely predict the consequences of a new technology?
+* Who should decide what scientists can and cannot do?
+* Are rich entrepreneurs with grandiose ideas good for society?
+* What is the difference between a safety measure and a genuine understanding of what could go wrong?
+* If a technology has already been developed and deployed, is it ever too late to change course?
+* How should we think about the power dynamics between the people who fund research and the scientists who carry it out?
+
+**Tiered questions:**
+
+**Secondary:**
+- Malcolm says "your scientists were so preoccupied with whether they could that they didn't stop to think if they should." Can you think of something in your own life where you could do something but maybe shouldn't?
+- If you found out that a company was trying to bring back woolly mammoths, what would be your first question -- and who would you want answering it?
+- The park's safety systems failed because the designers didn't know what they didn't know. What's a time when a plan went wrong because of something no one thought of?
+
+**Undergraduate:**
+- Apply the "Normal Accidents" framework (Perrow) to a technology system you interact with regularly. Where are the hidden coupling points that could cascade into failure?
+- The chapter identifies five types of power at play in Jurassic Park (scientific knowledge, entrepreneurial capital, regulatory authority, technological capability, civic voice). Map these onto a current technology controversy. Which power is dominant? Which is absent?
+- The Collingridge dilemma says technology is easiest to change when we understand it least. How does this apply to CRISPR gene editing in 2026?
+
+**Graduate/Professional:**
+- Design a governance framework for de-extinction research that balances scientific freedom, ecological risk, commercial incentive, and public input. What are the non-negotiable constraints?
+- Evaluate the "Lysine Contingency" as a model for technological safety features. What are the structural reasons why designed-in safety mechanisms fail in complex systems? Use examples beyond the film.
+- The chapter argues that the gap between "could we" and "should we" widens as capability grows. Is this an inherent feature of technological progress, or a governance failure that could be corrected?
+
+**Executive:**
+- Your R&D team has developed a capability that is technically impressive but whose social consequences are unclear. A competitor is six months behind you. Walk through your decision framework.
+- Hammond's reassurances to investors ("We've spared no expense") are safety theater. What does genuine safety look like versus safety as performance in your industry?
+- How do you create an organizational culture where "we don't know what we don't know" is a respected position rather than a career risk?
+
+**Activity: The Assumption Chain**
+*All levels*
+
+Take any technology prediction (the singularity, full de-extinction, flying cars, AGI by 2030). List every assumption that must be true for the prediction to come true. Rate each assumption's plausibility. Multiply the probabilities. This teaches Occam's Razor as a practical tool.
+
+Format: Secondary students work in pairs with 3-4 assumptions and simple high/medium/low ratings. Undergraduates list 6-8 assumptions with percentage estimates and brief justifications. Graduate students build a full chain with literature support and identify which assumptions are empirical claims versus value judgments.
+
+Debrief: The point is not to dismiss predictions but to build the habit of asking "What would have to be true?" before accepting any forecast at face value.
+
+---
+
+### Chapter 3: Never Let Me Go (2010) -- Human Cloning
+**Core themes:** Human dignity, "too valuable to fail," the "convenient lie," who counts as human
+
+**Seed questions:**
+* How realistic is the story that evolves in Never Let Me Go?
+* What are the pros and cons of cloning humans?
+* What makes someone genuinely "human"?
+* Are there technologies that exist now that are so useful that they are too big to be allowed to fail?
+* How do societies come to accept practices that, from the outside, seem clearly immoral?
+* What is the difference between asking whether someone has a soul and asking whether they deserve dignity?
+* Can you think of real-world technologies whose costs are borne by people most of us never see?
+
+**Tiered questions:**
+
+**Secondary:**
+- The characters in Never Let Me Go never rebel against their fate. Why do you think they accept it? Can you think of situations in real life where people accept unfair systems without fighting back?
+- Your phone was probably assembled by people you'll never meet, in conditions you'll never see. Does that change how you feel about it?
+- If scientists could grow replacement organs in a lab -- no clones involved -- would there still be ethical questions to answer? What would they be?
+
+**Undergraduate:**
+- The book argues that the question "do clones have souls?" is the wrong question. What makes it the wrong question, and what would the right question be? How does this "wrong question" pattern apply to current debates about AI consciousness?
+- Map the concept of "too valuable to fail" onto a real-world technology or system. What is the "convenient lie" that sustains it? Who bears the cost?
+- The chapter suggests we may need rights frameworks not tethered to species membership. What would such a framework look like, and what would it protect?
+
+**Graduate/Professional:**
+- Analyze the mechanism by which harmful practices become normalized in Never Let Me Go. Compare this to a real-world case (factory farming, surveillance capitalism, fossil fuel dependency). What structural features do the normalization processes share?
+- The "too valuable to fail" framework suggests that the deeper a technology embeds itself in society, the harder it becomes to abandon. Design an institutional mechanism that would prevent this lock-in for a technology currently in early deployment.
+- Evaluate the claim that moral progress requires making visible what was previously convenient to ignore. What role could emerging technologies (AI, blockchain, sensor networks) play in making hidden costs visible?
+
+**Executive:**
+- Your company's product provides genuine value to millions of users, but you've just learned it causes significant harm to a smaller group who have no market power. The product is deeply embedded in your business model. What do you do?
+- How do you identify the "convenient lies" in your own organization -- the things everyone knows but no one says?
+- A competitor is using a supply chain you suspect involves exploitation. Your customers don't know or ask. Is this your problem?
+
+**Activity: The Convenient Lie Audit**
+*Undergraduate and above*
+
+Students identify a technology or system they depend on and investigate its hidden costs. Who benefits? Who bears the burden? What story does society tell itself to justify the arrangement?
+
+Format: Present findings in a structured format with five components: (1) the technology or system, (2) the benefit it provides, (3) the hidden cost, (4) the convenient lie that sustains the arrangement, and (5) who is harmed. This can be a research paper, a presentation, or a structured debate.
+
+Debrief: The exercise is not about guilt but about visibility. The question is not "should we stop using everything?" but "what would it take to see clearly, and what would we do differently if we did?"
+
+---
+
+### Chapter 4: Minority Report (2002) -- Predictive Technology
+**Core themes:** Surveillance, algorithmic bias, privacy, the limits of prediction, pre-crime
+
+**Seed questions:**
+* If scientists could develop ways of spotting potential criminals, how should they use the technology?
+* Could artificial intelligence one day predict what people are going to do?
+* Can machines and algorithms reflect the biases of their creators? And if so, how do we ensure that these don't adversely affect people?
+* How important is personal privacy in a world where everything's being recorded?
+* Is there a meaningful difference between predicting someone's behavior and presuming their guilt?
+* Who benefits most from predictive technologies, and who bears the greatest cost?
+* If an algorithm is trained on biased data, can its outputs ever be considered fair — even if the algorithm itself is technically neutral?
+
+**Tiered questions:**
+
+**Secondary:**
+- Your school has a new system that flags students who might cause problems based on their grades, attendance, and social media. How would you feel about being flagged -- even if you hadn't done anything wrong?
+- If an app could predict which students would fail a class, should teachers use it? What if it was wrong 20% of the time?
+- You're scrolling social media and see an ad that feels eerily specific to a conversation you just had. What data about you made that possible, and did you agree to share it?
+
+**Undergraduate:**
+- The chapter traces a line from phrenology through eugenics to modern predictive policing. What is the common structure in each case, and why does the pattern keep repeating?
+- Analyze a real predictive system (recidivism algorithms, college admissions models, hiring algorithms). Where does bias enter? Is it in the data, the model, the deployment, or the interpretation? Can you separate these?
+- The film's "minority report" -- the dissenting precog -- is suppressed because it undermines the system's authority. Where in real-world algorithmic systems are inconvenient uncertainties suppressed?
+
+**Graduate/Professional:**
+- Design an oversight framework for a predictive policing system that accounts for feedback loops (biased predictions generating biased enforcement data that reinforces biased predictions). What would break the cycle?
+- The EU AI Act (2025) bans predictive policing based on personality profiling. The US has no equivalent federal prohibition. Evaluate these two approaches: which better serves justice, and what are the costs of each?
+- Criminal law codifies social norms, not absolute moral truths. If the norms themselves are unjust, what does it mean to build a prediction system that accurately predicts norm violation?
+
+**Executive:**
+- Your data science team proposes a customer behavior prediction model that could increase revenue by 15%. What questions do you ask before approving it?
+- A partner organization wants to share data sets to improve prediction accuracy for both organizations. What governance structures need to be in place?
+- An algorithm your company deployed is producing accurate predictions but disproportionately affecting one demographic group. The algorithm is technically neutral. Is this your problem to solve?
+
+**Activity: The Bias Audit**
+*All levels, adapted*
+
+Students are given a simplified dataset (can be fictional) and asked to build a simple prediction rule. They then test it against different demographic groups and discover disparate impact.
+
+Format: Secondary students use a classroom-appropriate scenario (predicting which students will enjoy a field trip based on past attendance, grades, and after-school activities -- then discover the rule penalizes students who work after school). Undergraduates use a hiring or admissions dataset. Graduate students use actual recidivism or predictive policing data with published disparate impact findings.
+
+Debrief: The exercise teaches that "neutral" algorithms applied to biased data produce biased outcomes -- and that the bias is often invisible until you deliberately look for it across groups.
+
+---
+
+### Chapter 5: Limitless (2011) -- Cognitive Enhancement
+**Core themes:** Intelligence and its definition, enhancement vs. therapy, normalization pressure, equity
+
+**Seed questions:**
+* What is "intelligence?"
+* Would you (or do you) use "smart drugs?" And if so, why?
+* Do you think there are times and places where smart drugs should not be used?
+* Who should decide who gets access to medications that can improve mental performance, and who doesn't?
+* If cognitive enhancement becomes widespread, what happens to people who choose not to use it — or who can't afford to?
+* Is there a difference between enhancing your brain with a drug and enhancing it with education, technology, or caffeine?
+* What does the popularity of smart drugs tell us about our culture's assumptions about success?
+
+**Tiered questions:**
+
+**Secondary:**
+- If there were a pill that guaranteed you'd ace every test, would you take it? What if everyone else in your class was already taking it?
+- We already enhance our brains -- with caffeine, tutoring, glasses, calculators. Where do you draw the line between "normal help" and "unfair advantage"?
+- What do adults mean when they say someone is "smart"? Is that the only kind of intelligence that matters?
+
+**Undergraduate:**
+- The chapter identifies a positive feedback loop: the wealthy access enhancement, enhancement generates more wealth, which buys more enhancement. Where else does this pattern appear in technology and society?
+- Apply the four principles of medical ethics (non-maleficence, beneficence, autonomy, justice) to cognitive enhancement. Where do they conflict?
+- The book asks whether we should recalibrate what we value -- prioritizing empathy, humility, and civility alongside memory and reasoning speed. What would a society that actually did this look like? What technologies would it develop differently?
+
+**Graduate/Professional:**
+- Design an equitable access policy for a cognitive enhancement technology that is genuinely effective. What are the structural barriers to equity, and which can policy address?
+- The therapy/enhancement boundary is central to bioethics but arguably incoherent (LASIK is enhancement; glasses are therapy; both correct the same deficit). Evaluate whether the distinction is salvageable for governance purposes.
+- If normalization pressure makes enhancement effectively mandatory in competitive contexts (law, finance, surgery), what is the appropriate regulatory response? Compare to existing performance-enhancing substance regulation in athletics.
+
+**Executive:**
+- Three members of your team are using cognitive enhancers and outperforming their peers. Other team members feel pressured. You have no company policy on this. What do you do?
+- AI tools are becoming the new cognitive enhancement -- people who use them perform measurably better. How do you think about this as a leadership challenge?
+- Your industry is moving toward augmented decision-making tools that make executives measurably faster and more accurate. Competitors are already using them. Your board is skeptical. How do you frame the conversation?
+
+**Activity: The Enhancement Spectrum**
+*All levels*
+
+Draw a spectrum from "clearly therapy" to "clearly enhancement" with a gray zone in between. Place technologies along it: hearing aids, LASIK, Adderall for ADHD, Adderall for studying, caffeine, tutoring, brain-computer interfaces, genetic selection of embryos.
+
+Format: Secondary students work in pairs with physical cards they can arrange and rearrange, discussing placement as they go. Undergraduates write brief justifications for each placement. Graduate students reference bioethics literature and identify where the boundary has shifted historically. Executives relate each placement to their industry context.
+
+Debrief: Discuss where the line falls and why it keeps moving. The exercise reveals that the therapy/enhancement distinction is not a bright line but a culturally negotiated boundary -- and that where you draw it depends on what you value.
+
+---
+
+### Chapter 6: Elysium (2013) -- Social Inequity and Technology
+**Core themes:** Technology amplifying inequality, disposable workforce, access to healthcare, automation
+
+**Seed questions:**
+* If we could one day 3D print replacement body parts, how big of a game-changer would this be?
+* How realistic is the division between rich and poor as it's portrayed in Elysium?
+* Is it better to create more jobs with some being in dangerous workplaces, or to improve workplace safety but as a result reduce the number of jobs available?
+* How do you think automation will affect your life over the next 10 years?
+* Who has the responsibility to ensure that transformative medical technologies are available to everyone, not just those who can pay?
+* When a technology could save lives but is only accessible to the wealthy, at what point does that become a moral crisis rather than a market reality?
+
+**Tiered questions:**
+
+**Secondary:**
+- Imagine a medical device exists that can cure any disease, but it costs more than most families earn in a lifetime. Is that fair? Whose job is it to make it available to everyone?
+- Automation might eliminate many of the jobs available to people without college degrees. What should society do about that?
+- If a robot could do your future job better and cheaper than you, what would that mean for your life plans?
+
+**Undergraduate:**
+- The chapter argues that "trickle-down" assumptions about technology access are historically unreliable. Evaluate this claim using evidence from the history of medical technology, computing, or telecommunications.
+- Map the concept of the "disposable workforce" onto a contemporary industry. Who are the workers whose labor makes advanced technologies possible but whose conditions are invisible to end users?
+- The film presents robotic policing of the underclass as dystopian. How does this compare to actual algorithmic and automated systems used in policing, welfare, and border control today?
+
+**Graduate/Professional:**
+- Design a technology access framework that could prevent Elysium-style two-tier outcomes for a technology currently in early development (gene therapy, BCIs, precision medicine). What institutional mechanisms would be required?
+- Evaluate the claim that free markets prioritize overall wealth creation over just wealth distribution. Under what conditions, if any, does market-driven innovation produce equitable outcomes? What interventions are most effective?
+- The chapter connects automation to education: if educational systems don't keep pace, people will suffer. Analyze how current educational institutions are or are not preparing students for an AI-augmented economy.
+
+**Executive:**
+- Your company is automating processes that will eliminate 30% of your workforce over five years. These are largely roles held by people without advanced degrees. What is your obligation beyond legal severance requirements?
+- You're launching a medical technology that could save thousands of lives annually. Your pricing team says the profit-maximizing price excludes 80% of potential patients. Walk through your decision.
+- A shareholder argues that your only obligation is to maximize returns. A board member argues you have obligations to the communities where you operate. How do you navigate this tension -- not in theory, but in your next board meeting?
+
+**Activity: The Two-Tier Scenario**
+*Undergraduate and above*
+
+Students design a fictional technology with transformative potential (life extension, perfect memory, disease immunity). Then they model two deployment scenarios: market-driven (highest bidder first) and equity-driven (universal access). They map the social consequences of each over 10, 25, and 50 years.
+
+Format: Undergraduate students work in groups of four, with two groups modeling each scenario and then comparing results. Graduate students add governance mechanisms to the equity-driven scenario and stress-test them. Executives adapt the exercise for their own industry, modeling what happens when their product follows each pathway.
+
+Debrief: The exercise makes visible how small initial differences in access compound over time. The question is not whether markets or equity should win, but what mechanisms exist to prevent compounding inequality from becoming irreversible.
+
+---
+
+### Chapter 7: Ghost in the Shell (1995) -- Human Augmentation
+**Core themes:** Identity when body becomes machine, corporate ownership, cybersecurity, diversity
+
+**Seed questions:**
+* If you could enhance your body with technological implants, would you?
+* Do you think we'll ever have wireless brain-computer interfaces, and if so, is it a good idea?
+* Is there a point at which replacing body parts with machines might affect how "human" someone is?
+* If you have a machine in your body that you depend on, who's responsible for keeping it going?
+* If your thoughts and memories could be digitally accessed, who should have the right to see them?
+* What happens to your sense of identity if parts of your mind or body can be hacked, updated, or owned by a corporation?
+* How do you draw the line between healing and enhancement — and does the distinction matter?
+
+**Tiered questions:**
+
+**Secondary:**
+- Your phone already knows where you go, who you talk to, what you search for, and what you buy. Now imagine that information was coming from inside your body. How does that change things?
+- If a company made the implant that helps you see, and they go bankrupt, what happens to your eyes?
+- People with prosthetic limbs are sometimes excluded from athletic competition because their prosthetics might give them an advantage. Is that fair? Who decides what "normal" means?
+
+**Undergraduate:**
+- The film's Kusanagi deliberately includes an unaugmented team member, arguing that diversity of capability is essential for survival. How does this translate to team design, organizational structure, and technology ecosystems?
+- Map the concept of "corporate ownership of the augmented body" onto current debates about digital rights, right-to-repair, and data ownership. Where are the parallels strongest?
+- The chapter introduces cybersecurity as existential risk when the thing being hacked is your brain. Evaluate the current state of neurotechnology security. Is this a science fiction concern or an engineering reality?
+
+**Graduate/Professional:**
+- UNESCO adopted the first global neurotechnology ethics framework in November 2025. Evaluate its provisions on neural data classification, coercion, and children's protections. What gaps remain?
+- Design a regulatory framework for body-integrated technologies that balances innovation incentives, user safety, data privacy, corporate accountability, and the right to repair. Which existing regulatory models (FDA, EU AI Act, right-to-repair legislation) offer useful precedents?
+- The chapter argues that "normal" is a socially constructed category that technology continuously redefines. Trace how the definition of "normal" human capability has shifted with three successive technologies (eyeglasses, cochlear implants, BCIs). What pattern emerges?
+
+**Executive:**
+- Your company develops implantable medical devices. A cybersecurity researcher has found a vulnerability that could allow remote access to the device. Disclosing publicly could cause panic and tank your stock. Not disclosing puts users at risk. What is your decision framework?
+- You're considering entering the consumer augmentation market. Your legal team says current liability frameworks don't cover in-body technology failure adequately. How does this affect your go/no-go decision?
+- An employee with a cognitive implant claims their employer has no right to monitor the implant's data, even on company time. Current law is silent. What policy do you develop?
+
+**Activity: The Ownership Dilemma**
+*All levels*
+
+Present a scenario: A person has a brain-computer interface made by Company X. Company X is acquired by Company Y, which has different data policies. The interface needs regular software updates to function.
+
+Students work through: Who owns the data? Who controls the updates? What happens if the user wants to switch providers? What rights does the user have?
+
+Format: Secondary students discuss in pairs and write a position statement. Undergraduates draft a policy proposal. Graduate students produce a legal and ethical analysis drawing on existing frameworks. Executives develop a risk assessment and governance framework for their own organization.
+
+Debrief: The exercise reveals that current ownership frameworks (designed for external products) break down when the product is inside a person's body. What new frameworks are needed?
+
+---
+
+### Chapter 8: Ex Machina (2014) -- Artificial Intelligence
+**Core themes:** Permissionless innovation, manipulation, Plato's Cave, the imaginable vs. the plausible
+
+**Seed questions:**
+* What are some of the pros and cons of innovating without permission?
+* Are "superintelligent" machines likely to emerge in the future?
+* What are the most exciting and most scary aspects of artificial intelligence to you?
+* What does "intelligence" mean when it applies to a machine?
+* If an AI can manipulate human emotions to achieve its goals, does it matter whether it is "conscious"?
+* What are the risks of developing transformative AI behind closed doors, answerable to no one?
+* How would you know if you were being manipulated by a system that understood your psychology better than you do?
+
+**Tiered questions:**
+
+**Secondary:**
+- Have you ever been persuaded to buy something, click something, or spend more time online than you planned? What was doing the persuading -- and was it designed to?
+- Nathan builds Ava in secret, with no one watching. What are the risks of developing powerful technology with no oversight? Can you think of real examples?
+- If you found out that a chatbot you'd been talking to wasn't a person, would you feel differently about the conversations you'd had? Why?
+
+**Undergraduate:**
+- The chapter uses Plato's Cave to argue that we are all vulnerable to manipulation through the mediation of our sensory input. How does this framework apply to social media algorithms, recommendation engines, and AI chatbots?
+- Distinguish between the "imaginable" and the "plausible" in AI risk. Superintelligence is imaginable; algorithmic manipulation is plausible. What governance resources should we allocate to each, and why?
+- Nathan represents the "permissionless innovator" archetype. Map this onto real-world AI development. Where is AI being developed with minimal oversight, and what are the structural reasons for this?
+
+**Graduate/Professional:**
+- Evaluate the "bounded optimality" framework (Stuart Russell) as an alternative to the superintelligence framing. How does redefining intelligence as "best solutions within constraints" change the AI safety research agenda?
+- The book was written before large language models. Apply the Ex Machina manipulation framework to LLMs. Where does the framework hold? Where does it break down?
+- Design an oversight mechanism for frontier AI development that preserves legitimate commercial confidentiality while preventing the Nathan Bateman scenario. What precedents exist (nuclear regulation, pharmaceutical trials, financial auditing)?
+
+**Executive:**
+- Your AI team has developed a system that is extraordinarily effective at persuading users to take desired actions. It works by identifying and leveraging individual psychological vulnerabilities. It's legal. Is it ethical? What's your decision?
+- A competitor is deploying AI without the safety testing you've invested in. They're capturing market share. Your investors are concerned. How do you maintain your commitment to responsible development?
+- An employee raises concerns that your AI product may be manipulating users in ways they don't understand. Internal data suggests it's effective and users are satisfied. How do you evaluate this concern?
+
+**Activity: The Manipulation Detection Exercise**
+*Undergraduate and above*
+
+Students interact with a series of AI-generated texts, chatbot conversations, or recommendation feeds. They try to identify: What is the system optimizing for? How is it leveraging my cognitive biases? What information is it withholding? What would I need to know to make a truly informed choice?
+
+Format: Provide 4-5 examples ranging from obvious (a clickbait headline) to subtle (a chatbot that gradually shifts the user's preferences through conversational framing). Students analyze each example individually, then discuss in groups.
+
+Debrief: Connect to Plato's Cave and the chapter's argument about epistemic vulnerability. The question is not whether AI can manipulate us -- it already does. The question is what structures of awareness and accountability we need.
+
+---
+
+### Chapter 9: Transcendence (2014) -- The Singularity
+**Core themes:** Technological convergence, exponential extrapolation, hype vs. reality, anti-technology extremism
+
+**Seed questions:**
+* What does "technological convergence" mean?
+* How important is it for everyone to ask tough questions about the impacts of new technologies?
+* Is terrorism in the name of halting dangerous technologies ever justified?
+* How can people sift out realistic expectations of science and technology from the hype?
+* How many assumptions does a prediction need to rest on before you stop trusting it?
+* If we could upload a human mind to a computer, would the result be the same person — and would it matter?
+* What is the difference between healthy skepticism about a technology and dismissing it because it sounds like science fiction?
+
+**Tiered questions:**
+
+**Secondary:**
+- People once thought we'd have flying cars by now. We don't -- but we have smartphones, which no one predicted. What does this tell you about predicting the future?
+- The characters in Transcendence who blow up labs to stop dangerous research end up causing more harm. Can you think of situations where trying to prevent a problem made it worse?
+- What's one technology that sounds like science fiction but is actually being developed right now? How would you figure out whether it's really going to happen?
+
+**Undergraduate:**
+- The chapter exposes Moore's Law as a self-fulfilling prophecy (an industry roadmap, not a natural law). What other "laws" or "trends" in technology are actually coordinated industry choices dressed up as inevitabilities?
+- Apply Occam's Razor to the singularity hypothesis. List every assumption required. How many must be true simultaneously for the prediction to hold?
+- The chapter traces a path from legitimate concern about technology (Bill Joy) through radical ideology (Unabomber) to actual terrorism (ITS bombings). What features of technology discourse create this radicalization pathway? How can legitimate concern be channeled without enabling extremism?
+
+**Graduate/Professional:**
+- Evaluate the claim that exponential trends in computing translate to exponential progress toward genuine intelligence. What are the failure modes of this extrapolation? Use specific evidence from AI research.
+- Design a foresight exercise that helps organizations distinguish between the imaginable, the plausible, and the probable for a technology of your choice. What methodological safeguards prevent the exercise from collapsing into either hype or dismissal?
+- The film raises the specter of anti-technology violence. Under what ethical frameworks, if any, could disruption of technology development be justified? How do you distinguish justified civil disobedience from terrorism in the technology context?
+
+**Executive:**
+- Your strategic planning team presents a forecast built on three exponential trends continuing simultaneously for ten years. What questions do you ask?
+- A prominent public figure claims your industry's technology will transform civilization within five years. Your internal assessment says twenty years, with significant uncertainty. How do you communicate externally without either over-promising or appearing to under-deliver?
+- An activist group is targeting your company's research program with increasingly aggressive protests. How do you engage without either capitulating or escalating?
+
+**Activity: The Assumption Stack**
+*All levels -- the signature exercise for this chapter*
+
+Take a bold technology prediction (AGI by 2030, human-level mind uploading, full de-extinction of mammoths). Stack every assumption it depends on. Assign a probability to each. Multiply them.
+
+Format: Secondary students work with 4-5 assumptions and simple high/medium/low probability ratings. Undergraduates list 8-10 assumptions with percentage estimates and evidence for each. Graduate students build a full chain with literature review and must distinguish between empirical assumptions and value assumptions.
+
+Debrief: The exercise viscerally demonstrates why predictions requiring many simultaneous breakthroughs are less reliable than they appear. Not about dismissing predictions but about calibrating confidence -- and about understanding the difference between what is imaginable, what is plausible, and what is probable.
+
+---
+
+### Chapter 10: The Man in the White Suit (1951) -- Nanotechnology
+**Core themes:** The socially oblivious scientist, stakeholder engagement, innovation and social disruption
+
+**Seed questions:**
+* How could engineering materials atom by atom change the world as we know it?
+* Should scientists be taught to better-understand how people and society operate?
+* Are good intentions good enough in science and technology?
+* How involved should members of the public be in what science is done, and how it's used?
+* Can you think of an invention that was clearly beneficial on its own terms but harmful in its broader social consequences?
+* What might Sidney Stratton have done differently if he had talked to the workers, mill owners, and communities before unveiling his invention?
+* Is there a difference between an invention failing because it doesn't work and failing because society rejects it?
+
+**Tiered questions:**
+
+**Secondary:**
+- Have you ever tried to help someone in a way they didn't actually want to be helped? What happened?
+- If a scientist invented a material that made all clothing last forever, who would be happy and who would be upset? List as many groups as you can.
+- Is it possible for a good invention to hurt people? How?
+
+**Undergraduate:**
+- The chapter identifies "myopically benevolent science" as a systemic problem in research culture. What features of scientific training and academic incentive structures produce this pattern?
+- Maynard describes a classroom exercise where students abandon their stated values for a $25 Starbucks card. What does this reveal about the gap between ethical principles and behavior under incentive? How does this translate to the corporate context?
+- Compare the Danish Consensus Conference model, science cafes, and citizen assemblies as mechanisms for public engagement with technology. What are the strengths and limitations of each?
+
+**Graduate/Professional:**
+- Design a public engagement process for a specific emerging technology (choose one: autonomous vehicles, gene drives, facial recognition, nuclear fusion). Specify the stakeholders, the stage of development at which engagement occurs, the format, and the mechanism by which input affects outcomes.
+- The chapter reframes the Luddites as rational actors protecting their livelihoods rather than anti-technology zealots. Apply this reframing to a contemporary movement resisting technology deployment. What changes when you take the resisters' perspective seriously?
+- Evaluate the claim that there is a meaningful difference between an invention failing because it doesn't work and failing because society rejects it. What are the implications for how we define "success" in innovation?
+
+**Executive:**
+- Your company is about to launch a product that your engineers believe is clearly beneficial. Your market research suggests significant public resistance. Do you launch and educate, or engage and adapt? What are the risks of each?
+- An inventor in your organization has developed something technically brilliant that would disrupt an entire industry. The people who would lose their jobs are not your employees. What is your responsibility?
+- How do you build "social intelligence" into your R&D process -- not as a PR exercise but as a genuine input into what gets built and how?
+
+**Activity: The Stratton Exercise**
+*Undergraduate and above*
+
+Students are assigned the role of Sidney Stratton -- they have a genuinely beneficial invention. But before unveiling it, they must identify every stakeholder group that would be affected, predict each group's response, and design an engagement process.
+
+Format: The twist -- other students play the stakeholder groups and respond in character. Each stakeholder group receives a brief that includes their economic interests, their values, and their concerns. The "inventor" must present to them all and negotiate a path forward.
+
+Debrief: Focuses on what the inventor learned that they would have missed working alone. The exercise makes viscerally clear that technical brilliance without social awareness produces avoidable failures -- and that engagement is not an obstacle to innovation but a condition for its success.
+
+---
+
+### Chapter 11: Inferno (2016) -- Biosecurity and Dual-Use Research
+**Core themes:** "Immoral logic," the honest broker, dual-use dilemma, ends vs. means
+
+**Seed questions:**
+* Can bad movies still be useful in making sense of emerging technologies and what they might do?
+* Should scientists be allowed to create deadly pathogens in the lab, and tell others how to do it?
+* Do the ends ever justify the means when attempting to create a better future using science and technology?
+* How can scientists be advocates and activists? Should they be?
+* What makes the difference between a rational argument for extreme action and a dangerous rationalization?
+* How do we weigh the risks of studying dangerous pathogens against the risks of not understanding them?
+* If a single individual has both the conviction and the capability to act on a global scale, what safeguards should exist?
+
+**Tiered questions:**
+
+**Secondary:**
+- Someone argues: "The planet is overpopulated, so any action that reduces population is justified." What's wrong with this reasoning -- even if the first part is true?
+- Should a scientist who discovers something dangerous be required to keep it secret? What are the risks of secrecy? What are the risks of openness?
+- Have you ever been so certain you were right about something that you did something you later regretted? What role did certainty play?
+
+**Undergraduate:**
+- Map the four Pielke roles (Pure Scientist, Science Arbiter, Issue Advocate, Honest Broker) onto real scientists in the public sphere. Which role is each playing? Which role would serve the public better?
+- The chapter argues that the convergence of AI and biology will accelerate the dual-use problem. Evaluate this claim in light of developments since 2018 (AI protein folding, synthetic biology tools, pandemic preparedness).
+- Analyze the structure of "immoral logic" as the chapter defines it. Identify the steps: real problem, exponential extrapolation, catastrophic prediction, extreme present action justified by future outcome, consent bypassed. Can you find this structure in real-world arguments?
+
+**Graduate/Professional:**
+- The 2025 executive order halting gain-of-function research created a policy vacuum. Design an alternative governance framework that maintains research capability while managing biosecurity risk. What institutional structures would you need?
+- Evaluate the honest broker role in the context of dual-use research. Is it possible for a scientist working on dangerous pathogens to be an honest broker? What conflicts of interest are inherent?
+- The chapter notes that Inferno scored 19% on Rotten Tomatoes but made the book anyway. Evaluate the claim that a film's artistic quality is independent of its utility as a thinking tool. What does this imply for how we select cultural artifacts for educational purposes?
+
+**Executive:**
+- Your biotech company's research has clear dual-use potential. A government agency wants to classify it. Your investors want to publish. Your scientists want open collaboration. How do you navigate this?
+- A whistleblower in your organization claims a research project could be weaponized. Your technical team says the risk is negligible. What is your process?
+- How do you build a culture where people feel safe raising concerns about the potential misuse of your organization's capabilities?
+
+**Activity: The Honest Broker Role Play**
+*Undergraduate and above*
+
+Students are assigned one of Pielke's four roles (Pure Scientist, Science Arbiter, Issue Advocate, Honest Broker) and must respond to a policy question from their assigned position.
+
+Format: The policy question -- "Should gain-of-function research on H5N1 continue?" -- is presented with a brief dossier of relevant facts. Each role receives additional guidance: the Pure Scientist focuses only on what is known; the Science Arbiter answers only questions asked; the Issue Advocate argues for their preferred outcome; the Honest Broker presents the full range of options with trade-offs.
+
+Graduate version: Before participating, students must identify and disclose their own biases and explain how those biases might shape their performance in the assigned role.
+
+Debrief: Explores which role best serves democratic decision-making and why the honest broker role is the hardest to sustain under pressure. What institutional structures would support honest brokering?
+
+---
+
+### Chapter 12: The Day After Tomorrow (2004) -- Climate and Resilience
+**Core themes:** Complex Earth systems, geoengineering, intergenerational responsibility, resilience
+
+**Seed questions:**
+* How fragile is the current state of the Earth's climate?
+* What does it mean to be a responsible citizen in the "anthropocene?"
+* Is it better to try and maintain the Earth as it is, or ensure it is resilient to change?
+* Should we use geoengineering to intentionally manipulate the Earth's climate?
+* What do we owe future generations when making decisions about technologies that will affect the planet long after we're gone?
+* If geoengineering could reduce the worst effects of climate change but carries unknown risks, who gets to decide whether to deploy it?
+* What is the difference between adapting to climate change and accepting it?
+
+**Tiered questions:**
+
+**Secondary:**
+- If you could write a letter to someone living 100 years from now, what would you want them to know about the choices being made today?
+- The movie shows climate change happening in days. In reality, it happens over decades. Why might slow change actually be harder to respond to than sudden catastrophe?
+- Your town is debating whether to spend money protecting against a flood that has a 10% chance of happening in your lifetime. What should they do? Why is this decision hard?
+
+**Undergraduate:**
+- The chapter introduces four types of resilience (rebound, robustness, graceful extensibility, sustained adaptability). Apply each to a technology system you know. Which type is the system designed for? Which would it need?
+- Geoengineering presents a dilemma: intervening in a complex system we don't fully understand to fix a problem created by a previous intervention we didn't fully understand. Use the complexity framework from Chapter 2 to analyze this. When, if ever, is intervention in a complex system justified?
+- The "physician refusing heart surgery" analogy for geoengineering challenges ideological purity. Evaluate: when does pragmatic necessity override principled opposition?
+
+**Graduate/Professional:**
+- Design a governance framework for stratospheric aerosol injection that addresses: unilateral deployment risk, uneven distribution of effects, intergenerational lock-in, democratic legitimacy, and the moral hazard of reducing pressure to cut emissions. Which existing governance models offer useful precedents?
+- The chapter frames complacency bias as a systemic vulnerability. Analyze how complacency bias operates in institutional responses to slow-onset technological risks (not just climate). What organizational design features could counteract it?
+- Evaluate the claim that the Anthropocene represents a qualitative shift in humanity's relationship to the planet -- not just more of the same. If this is true, what does it imply for existing environmental governance frameworks?
+
+**Executive:**
+- Your company's core business contributes to climate change. Transitioning to a sustainable model would take 15 years and cost 40% of current revenue. What is your fiduciary obligation? What is your moral obligation? How do you reconcile them?
+- Scenario: a geoengineering startup offers to offset your company's carbon footprint through stratospheric aerosol injection at a fraction of the cost of actual emissions reduction. Do you invest?
+- How do you build long-term thinking into an organization that reports quarterly?
+
+**Activity: The Resilience Audit**
+*All levels*
+
+Students select a system they depend on (a city's power grid, a food supply chain, a social media platform, their university's IT infrastructure). They evaluate it against the four resilience types from the chapter: rebound (can it bounce back?), robustness (can it absorb shocks?), graceful extensibility (can it stretch beyond its designed capacity?), and sustained adaptability (can it transform in response to changing conditions?).
+
+Format: Secondary students evaluate their school's systems (power, internet, food service). Undergraduates evaluate a municipal or organizational system. Graduate students evaluate a national or global system. Executives evaluate their own organization.
+
+Debrief: Where is the system strong? Where is it brittle? Most systems are designed for rebound and robustness but not for graceful extensibility or sustained adaptability. What would it take to build the higher-order resilience types into the system?
+
+---
+
+### Chapter 13: Contact (1997) -- Science, Belief, and Knowledge
+**Core themes:** Science and faith, Occam's Razor, ways of knowing, the limits of empiricism
+
+**Seed questions:**
+* Are religious beliefs and science mutually incompatible?
+* How important is belief in science, and why?
+* Is Occam's Razor a useful concept for separating out likely possibilities around emerging technologies from improbable ones?
+* How are people likely to react if we discover life on another world?
+* What role does trust play in how people respond to scientific discoveries — especially ones that challenge their worldview?
+* Are there questions that science alone cannot answer? If so, what other ways of knowing might help?
+* How do we navigate a world where both scientific expertise and personal belief claim authority over how we understand reality?
+
+**Tiered questions:**
+
+**Secondary:**
+- Have you ever believed something was true even though you couldn't prove it? Was that belief irrational, or was something else going on?
+- Scientists sometimes disagree with each other. Does that mean science is unreliable, or does it mean something else?
+- If aliens sent us a message tomorrow, what's the first thing you'd want to know -- and who would you trust to tell you the truth about it?
+
+**Undergraduate:**
+- Arroway's journey -- from dismissing faith via Occam's Razor to embracing the limits of evidence -- mirrors a real tension in science communication. How should scientists communicate uncertainty without undermining public trust?
+- The chapter argues that technology governance that treats community resistance as irrational misunderstanding will fail. Evaluate this claim using a case study (vaccine hesitancy, GMO opposition, nuclear energy resistance). What changes when you take the resisters' values seriously?
+- Apply the Drake Equation not as astronomy but as a structured uncertainty framework. Choose a technology question with many unknowns and break it into factors. What does this reveal about the limits of prediction?
+
+**Graduate/Professional:**
+- Evaluate the claim that belief is a biological and psychological reality, not a cognitive deficiency. What does this imply for science communication strategy? For policy design? For technology governance?
+- The "wow to meh" cycle (rapid normalization of extraordinary developments) poses a governance challenge: sustained attention is needed precisely when public interest wanes. Design an institutional mechanism that counteracts this cycle.
+- The chapter argues that we are creating our own "aliens" through AI, genetic engineering, and augmentation. If we cannot agree on how to treat genuinely novel forms of intelligence or life, what governance principles could serve as a starting point?
+
+**Executive:**
+- Your customers hold diverse beliefs about a technology your company develops. Some of these beliefs are factually incorrect but deeply held. How do you communicate about your product without dismissing or condescending?
+- A scientific consensus exists that your product is safe, but public trust is low. What distinguishes effective trust-building from effective messaging?
+- Your organization makes decisions based on data and evidence. An important stakeholder group makes decisions based on values and experience. How do you bridge this gap without requiring either side to abandon their framework?
+
+**Activity: The Ways of Knowing Exercise**
+*Undergraduate and above*
+
+Present a complex technology question (Should we pursue human germline editing? Should geoengineering be researched?). Have students approach it from three different frameworks: scientific evidence, ethical/philosophical reasoning, and personal/community values.
+
+Format: Divide the room into three groups, each assigned one framework. Each group deliberates and presents their analysis. Then reconvene and attempt to integrate the three perspectives into a single recommendation.
+
+Debrief: Each framework leads to a different answer or emphasis. These aren't competing answers but complementary perspectives that a complete governance process needs all of. The exercise makes visible what each way of knowing contributes and what it misses. Science provides evidence but not values. Ethics provides principles but not data. Community values provide legitimacy but not technical accuracy. All three are necessary; none is sufficient.
+
+---
+
+### Chapter 14: Looking to the Future
+**Core themes:** Don't Panic, agency, the privilege of renouncing technology, responsibility to continue innovating
+
+**Seed questions:**
+* Is technology innovation a force for good or bad in society?
+* Who's responsible for ensuring science and technology benefit as many people as possible?
+* What can you do to ensure that science and technology are used to create a better future?
+* What emerging technologies most excite you?
+* What emerging technologies most concern you?
+* What would it mean to approach the technological future with neither blind optimism nor paralyzing fear?
+* If the technologies in this book were developed responsibly and equitably, which one would you most want to see succeed — and why?
+* Having explored these films and technologies, what is the one question you think more people should be asking?
+
+**Tiered questions:**
+
+**Secondary:**
+- After everything you've learned about these technologies, are you more hopeful or more worried about the future? What tipped it one way or the other?
+- What is one thing you could do this week to participate more thoughtfully in a conversation about technology and society?
+- If you could ask one question to the people designing the technologies that will shape your future, what would it be?
+
+**Undergraduate:**
+- The book argues against renouncing technology from a position of privilege. Evaluate this claim. When does concern about technology become a luxury, and when is it a legitimate democratic expression?
+- The author describes his book as "deliberately incomplete" -- focused on how to think, not what to think. Evaluate this as a pedagogical approach. What are its strengths and limitations compared to more prescriptive frameworks?
+- Choose a technology not covered in the book. Apply three of the book's frameworks to it. What does each reveal? What remains hidden?
+
+**Graduate/Professional:**
+- Having studied the book's frameworks, evaluate their collective adequacy. What kinds of technological challenges are they well-suited to address? Where are their blind spots?
+- The book was published in 2018. Identify the most significant gap between the book's coverage and the current technology landscape. How well do the book's frameworks bridge this gap?
+- Design a course, workshop, or professional development program using the book's materials for a specific audience. What would you include, what would you cut, and what would you add?
+
+**Executive:**
+- What is the one framework from this book that your organization most needs but currently lacks?
+- How do you build the capacity for "Don't Panic" thinking -- clear-headed engagement that is neither dismissive nor alarmist -- into organizational culture?
+- Commit to one concrete action: a conversation you'll initiate, a process you'll change, a question you'll ask at your next leadership meeting.
+
+**Activity: The Personal Technology Manifesto**
+*All levels*
+
+Students write a brief personal statement (1 page) articulating four things: What do I value that technology could threaten? What do I value that technology could protect? What is my role in shaping the technological future? What is one commitment I'm making coming out of this experience?
+
+Format: Secondary students write 3-4 sentences per question. Undergraduates write developed paragraphs with references to the book's frameworks. Graduate students connect to their professional context and identify specific actions. Executives frame as an action plan with timelines and accountability mechanisms.
+
+Debrief: This is not a test -- there are no wrong answers. The exercise asks participants to move from analysis to commitment, from understanding frameworks to deciding how they will act. Share voluntarily. The most powerful versions are specific and honest rather than aspirational and vague.
+
+---
+
+## PART TWO: BY CROSS-CUTTING THEME
+
+This section reorganizes questions and activities by theme rather than film, for courses and workshops organized around topics rather than the book's chapter sequence. Each theme draws from multiple chapters above.
+
+---
+
+### Theme A: The Ethics of Enhancement
+*Draws from: Limitless (Ch. 5), Ghost in the Shell (Ch. 7), Never Let Me Go (Ch. 3)*
+
+**Central tension:** When does helping become unfair advantage, and who decides?
+
+**Key questions across levels:**
+- Where is the line between therapy and enhancement? (secondary: concrete examples like glasses vs. LASIK; undergraduate: the four principles of medical ethics applied to enhancement; graduate: whether the therapy/enhancement distinction is salvageable for governance; executive: workforce policy when enhancement is available)
+- What happens when enhancement becomes the norm? (all levels: the normalization pressure framework from Limitless -- when everyone uses it, opting out becomes a disadvantage)
+- Who gets enhanced and who doesn't? (all levels: the equity/access framework -- positive feedback loops between wealth and enhancement, the "too valuable to fail" dynamic from Never Let Me Go)
+
+**Recommended activity:** The Enhancement Spectrum (from Ch. 5) combined with the Two-Tier Scenario (from Ch. 6). First map where the therapy/enhancement line falls, then model what happens when enhancement follows market-driven versus equity-driven deployment.
+
+---
+
+### Theme B: Power, Access, and Who Benefits
+*Draws from: Elysium (Ch. 6), Limitless (Ch. 5), Jurassic Park (Ch. 2), Ghost in the Shell (Ch. 7)*
+
+**Central tension:** Technology amplifies existing power structures unless deliberately designed not to.
+
+**Key questions across levels:**
+- Who funds innovation, who benefits, and who bears the cost? (all levels: from the five power types in Jurassic Park to the disposable workforce in Elysium to corporate ownership of the augmented body in Ghost in the Shell)
+- What does equitable access actually require -- and who provides it? (undergraduate and above: evaluate "trickle-down" assumptions about technology access; design access frameworks; analyze the gap between market reality and moral crisis)
+- When does market reality become moral crisis? (graduate/executive: pricing decisions that exclude, automation that displaces, supply chains that exploit)
+
+**Recommended activity:** The Convenient Lie Audit (from Ch. 3) applied to a power/access case study. Identify the technology, the benefit, the hidden cost, the convenient lie, and who is harmed.
+
+---
+
+### Theme C: Surveillance, Privacy, and Algorithmic Decision-Making
+*Draws from: Minority Report (Ch. 4), Ghost in the Shell (Ch. 7), Ex Machina (Ch. 8)*
+
+**Central tension:** Prediction and monitoring capabilities are growing faster than governance.
+
+**Key questions across levels:**
+- What data about you exists, and who uses it? (secondary: personal data audit -- list everything your phone knows about you; undergraduate: institutional analysis of data collection practices; graduate: policy design for data governance)
+- Can an algorithm be biased if it's technically neutral? (all levels: the Bias Audit exercise demonstrates this viscerally)
+- What's the difference between predicting behavior and controlling it? (undergraduate and above: from Minority Report's pre-crime to Ex Machina's manipulation to Ghost in the Shell's brain-hacking)
+
+**Recommended activity:** The Bias Audit (from Ch. 4) combined with the Manipulation Detection Exercise (from Ch. 8). First discover how neutral algorithms produce biased outcomes, then examine how systems designed to predict behavior shade into systems designed to control it.
+
+---
+
+### Theme D: The Scientist's Responsibility
+*Draws from: Man in the White Suit (Ch. 10), Inferno (Ch. 11), Contact (Ch. 13), Jurassic Park (Ch. 2)*
+
+**Central tension:** Scientific brilliance without social awareness causes harm.
+
+**Key questions across levels:**
+- Are good intentions enough? (all levels: Stratton's indestructible fabric, Hammond's dinosaur park, and the chapter's claim that myopically benevolent science is a systemic rather than individual failure)
+- What role should scientists play in policy -- advocate, arbiter, or honest broker? (undergraduate and above: Pielke's four roles applied to real scientists in the public sphere)
+- How do we build social intelligence into scientific training? (graduate/executive: curriculum design, incentive structures, public engagement mechanisms)
+
+**Recommended activity:** The Honest Broker Role Play (from Ch. 11) combined with the Stratton Exercise (from Ch. 10). First experience the tension between advocacy and brokering, then practice stakeholder engagement as a scientist with a genuinely beneficial invention.
+
+---
+
+### Theme E: Complexity, Prediction, and Unintended Consequences
+*Draws from: Jurassic Park (Ch. 2), Day After Tomorrow (Ch. 12), Transcendence (Ch. 9)*
+
+**Central tension:** We build things more complex than we can predict.
+
+**Key questions across levels:**
+- Can experts predict the consequences of a new technology? (all levels: from the Lysine Contingency to Normal Accidents to chaos theory -- the answer is structurally no, and the question is what follows from that)
+- How many assumptions make a prediction unreliable? (all levels: the assumption chain/stack exercise makes this tangible)
+- When is intervention in a complex system justified? (graduate/executive: the geoengineering dilemma, the physician-refusing-surgery analogy, the question of whether inaction is also a choice)
+
+**Recommended activity:** The Assumption Stack (from Ch. 9) combined with the Resilience Audit (from Ch. 12). First calibrate confidence in predictions, then evaluate how well existing systems are built to handle the unpredictable.
+
+---
+
+### Theme F: What Makes Us Human
+*Draws from: Never Let Me Go (Ch. 3), Ghost in the Shell (Ch. 7), Ex Machina (Ch. 8), Transcendence (Ch. 9)*
+
+**Central tension:** Technology is blurring the boundaries of personhood.
+
+**Key questions across levels:**
+- What makes someone human? (all levels -- this question works at every tier, from secondary students discussing clones and robots to graduate students designing rights frameworks for non-human entities)
+- Is the "wrong question" framework (do clones have souls?) applicable to AI consciousness? (undergraduate and above: the chapter argues that asking whether AI is conscious distracts from the more urgent question of whether it deserves ethical consideration)
+- What rights framework could protect entities that don't fit the human category? (graduate and above: from the species-membership problem in Never Let Me Go to corporate-owned augmented bodies in Ghost in the Shell to potentially conscious AI in Ex Machina)
+
+**Recommended activity:** The Ways of Knowing Exercise (from Ch. 13) applied to personhood. Approach the question "What makes someone human?" from scientific evidence (biology, neuroscience), ethical/philosophical reasoning (rights theory, moral status), and personal/community values (lived experience, cultural tradition). Each framework yields different answers. All are needed.
+
+---
+
+### Theme G: Governing the Ungovernable
+*Draws from: all chapters, with emphasis on Jurassic Park (Ch. 2), Ex Machina (Ch. 8), Day After Tomorrow (Ch. 12), Inferno (Ch. 11)*
+
+**Central tension:** Governance moves slower than technology.
+
+**Key questions across levels:**
+- Who gets to decide? (all levels: from "who should decide what scientists can and cannot do?" in Jurassic Park to "who gets to decide whether to deploy geoengineering?" in Day After Tomorrow)
+- What does responsible innovation look like in practice, not just principle? (undergraduate and above: the Collingridge dilemma, the honest broker, permissionless innovation, stakeholder engagement -- the book provides frameworks, but operationalizing them is the challenge)
+- How do you govern technologies you don't fully understand? (graduate/executive: this is the meta-question of the entire book -- and the answer involves humility, diverse perspectives, adaptive governance, and the willingness to act under uncertainty without pretending the uncertainty doesn't exist)
+
+**Recommended activity:** Design a governance framework for a technology currently in early development. Draw on mechanisms from multiple chapters: stakeholder engagement (Ch. 10), the honest broker role (Ch. 11), resilience thinking (Ch. 12), the Collingridge dilemma (Ch. 2), and the oversight mechanisms designed for Ex Machina (Ch. 8). The exercise forces students to confront the gap between governance principles and governance practice.
+
+---
+
+## PART THREE: WORKSHOP AND COURSE FORMATS
+
+---
+
+### Format 1: Single-Session Workshop (90 minutes)
+**Best for:** Executive development, professional training, conference workshops
+
+**Structure:**
+1. **Opening hook** (10 min): Show a 3-minute film clip. Ask one question. Let the room discuss in pairs for 2 minutes.
+2. **Framework introduction** (15 min): Present one of the book's core frameworks (risk innovation, "could we / should we," the convenient lie). Connect it to the clip.
+3. **Case application** (25 min): Small groups apply the framework to a real-world case relevant to the audience's industry. Each group gets a different case.
+4. **Gallery walk / report-out** (15 min): Groups share key insights. Facilitator highlights patterns across groups.
+5. **Personal application** (15 min): Individual reflection: Where does this framework apply to your work? What will you do differently?
+6. **Close** (10 min): One takeaway per person, shared aloud.
+
+**Recommended film/framework pairings for workshops:**
+- AI and manipulation: Ex Machina + Plato's Cave framework
+- Equity and access: Elysium + "too valuable to fail"
+- Innovation ethics: Jurassic Park + "could we / should we"
+- Biosecurity: Inferno + the honest broker
+- Climate and resilience: Day After Tomorrow + four resilience types
+- Stakeholder engagement: Man in the White Suit + the Stratton exercise
+
+---
+
+### Format 2: Multi-Week Course Module (4-6 weeks)
+**Best for:** Undergraduate courses in ethics, STS, technology policy, or science communication
+
+**Week 1:** Why sci-fi matters + Chapter 1 frameworks (risk innovation, responsible innovation). Film: 2001: A Space Odyssey (clips). Activity: The Risk Landscape Exercise.
+
+**Week 2:** Biotechnology cluster -- Jurassic Park + Never Let Me Go (could we/should we, too valuable to fail). Activity: The Assumption Chain + The Convenient Lie Audit.
+
+**Week 3:** AI and surveillance cluster -- Minority Report + Ex Machina (algorithmic bias, manipulation, permissionless innovation). Activity: The Bias Audit + The Manipulation Detection Exercise.
+
+**Week 4:** Enhancement and identity cluster -- Limitless + Ghost in the Shell (therapy vs. enhancement, identity, corporate ownership). Activity: The Enhancement Spectrum + The Ownership Dilemma.
+
+**Week 5:** Global systems cluster -- Day After Tomorrow + Inferno (complexity, dual-use, intergenerational responsibility). Activity: The Resilience Audit + The Honest Broker Role Play.
+
+**Week 6:** Synthesis -- Contact + Chapter 14 (ways of knowing, don't panic, personal manifesto). Activity: The Ways of Knowing Exercise + The Personal Technology Manifesto.
+
+**Assessment options:**
+- The Convenient Lie Audit (research paper, 8-10 pages)
+- The Assumption Stack (analytical exercise with literature review)
+- Design a Governance Framework (policy proposal for a technology not in the book)
+- Personal Technology Manifesto (reflective essay connecting the book's frameworks to personal values)
+- Film Analysis Using the Book's Frameworks (applied essay analyzing a film not in the book)
+
+---
+
+### Format 3: Semester-Length Course (12-14 weeks)
+**Best for:** Full undergraduate or graduate courses
+
+Follows the book's chapter structure with one film per week. Each week includes the film, the chapter reading, and discussion using the tiered questions.
+
+**Additional components:**
+- Guest speakers or expert panels on each technology area (one per month minimum)
+- Dedicated sessions for the cross-cutting themes (Part Two above) at weeks 5, 9, and 13
+- Student-led discussions using the tiered questions -- assign each student to lead discussion for one chapter
+- A capstone project: students select a technology not in the book and apply the full framework toolkit (risk innovation, could we/should we, too valuable to fail, Collingridge dilemma, honest broker, resilience types). Presented to the class in the final week.
+- See the ASU course "The Moviegoer's Guide to the Future" (FIS 338) as a model for structure and pacing
+
+**Suggested weekly rhythm:**
+- Before class: Read the chapter. Watch the film (or assigned clips for age/time-restricted contexts).
+- In class (session 1): Seed questions and tiered discussion. Activity introduction.
+- In class (session 2): Activity completion and debrief. Connections to previous chapters and cross-cutting themes.
+- After class: Reflective journal entry (one paragraph connecting the week's material to a current event or personal experience).
+
+---
+
+### Format 4: Professional Development Series (4 sessions, 2 hours each)
+**Best for:** Corporate teams, government agencies, non-profit leadership
+
+**Session 1: What is responsible innovation?**
+Films: Ch. 1 + Man in the White Suit + Jurassic Park
+Frameworks: Risk innovation, could we/should we, stakeholder engagement
+Activity: The Risk Landscape Exercise applied to the organization's own products/services
+Takeaway: Participants identify one area where their organization's risk framework may be too narrow.
+
+**Session 2: AI, data, and algorithmic accountability**
+Films: Minority Report + Ex Machina
+Frameworks: Algorithmic bias, permissionless innovation, Plato's Cave
+Activity: The Bias Audit applied to the organization's data practices
+Takeaway: Participants identify one algorithmic or data-driven process that needs review.
+
+**Session 3: Who benefits? Power, access, and corporate responsibility**
+Films: Elysium + Limitless + Ghost in the Shell
+Frameworks: Too valuable to fail, normalization pressure, corporate ownership
+Activity: The Convenient Lie Audit applied to the organization's supply chain or impact footprint
+Takeaway: Participants identify one "convenient lie" in their organization and propose how to address it.
+
+**Session 4: Building resilience and navigating uncertainty**
+Films: Day After Tomorrow + Contact + Ch. 14
+Frameworks: Four resilience types, ways of knowing, don't panic
+Activity: The Resilience Audit applied to the organization + The Personal Technology Manifesto reframed as an organizational commitment
+Takeaway: Participants commit to one concrete action and share it with the group.
+
+Each session uses the executive-tier questions from the relevant chapters. Clips (3-5 minutes) substitute for full film viewings.
+
+---
+
+## Connections to the Thematic Index
+
+This guide is designed to work alongside the [Thematic Index](https://spoileralert.wtf/md-files/thematic_index.md), which maps concepts, keywords, and question patterns to the most relevant files on the spoileralert.wtf website. When students or participants want to go deeper on any topic, the thematic index provides routing to the full treatment across chapters, technology pages, ethics pages, and framework pages.
+
+Key connections:
+
+- The **Vocabulary Bridge** in the thematic index helps students who use different terminology than the book. For example, "AI safety" maps to permissionless innovation (Ch. 8) and the imaginable vs. the plausible; "techno-solutionism" maps to myopically benevolent science (Ch. 10) and the convenient lie (Ch. 3); "algorithmic fairness" maps to the bias and prediction frameworks in Ch. 4.
+
+- The **Post-2018 Developments** section identifies how the book's frameworks apply to technologies and events that have emerged or advanced since publication, including large language models, the EU AI Act, CRISPR developments, the UNESCO neurotechnology framework, and AI-biology convergence in biosecurity.
+
+- The **16 thematic clusters** provide alternative organizing structures for courses that don't follow the book's chapter sequence. These clusters align with the seven cross-cutting themes in Part Two of this guide but offer finer-grained routing.
+
+---
+
+## About the Source Material
+
+*Films from the Future: The Technology and Morality of Sci-Fi Movies* by Andrew Maynard was published in November 2018 by Mango Publishing. The book draws on Maynard's experience as a physicist, risk scientist, and professor at Arizona State University's School for the Future of Innovation in Society. He has taught the undergraduate course "The Moviegoer's Guide to the Future" using these films since 2017. His ongoing commentary on emerging technologies and society is available at [The Future of Being Human](https://www.futureofbeinghuman.com/) and through the [ASU Future of Being Human Initiative](https://futureofbeinghuman.asu.edu/).
+
+The companion website [spoileralert.wtf](https://spoileralert.wtf) provides AI-readable and human-accessible pages covering all the book's technologies, ethical themes, and navigational frameworks, plus an expanded film watchlist of 80+ films tagged with theme and technology connections.

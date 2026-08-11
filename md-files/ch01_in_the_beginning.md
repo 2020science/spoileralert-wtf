@@ -1,0 +1,532 @@
+# Chapter 1: In the Beginning
+
+*From Films from the Future: The Technology and Morality of Sci-Fi Movies by Andrew Maynard*
+
+---
+
+“I’m sorry, Dave, I’m afraid I can’t do that.”
+—HAL
+
+## Beginnings
+I first saw Stanley Kubrick’s 2001: A Space Odyssey on a small blackand-white TV, tucked into a corner of my parents’ living room. It was
+January 1, 1982, and I was sixteen years old.
+I wasn’t a great moviegoer as a teenager. In fact, at that point, I
+could probably count the number of times I’d been to the cinema on
+one hand. But I was an avid science fiction reader, and having read
+Arthur C. Clarke’s short story The Sentinel, I was desperate to see
+the movie Kubrick and Clarke had crafted from it—so much so, that
+every ounce of my teenage brattishness was on full display.
+My parents had friends around for dinner that evening, and, as
+usual, the drill was that I was either polite or invisible. But there
+was a problem. The only TV in the house was in the living room,
+which was precisely where, at 7:35 that evening, everyone else
+would be.
+I must have been especially awkward that day, because my parents
+agreed to let me put on my headphones and watch the TV while
+they entertained. And so, I snuggled into a corner of the sofa, pulled
+the black-and-white portable up, and became selfishly absorbed in
+Kubrick’s world of the future.
+Goodness knows what our guests were thinking!
+2001: A Space Odyssey is a movie that’s rich with metaphors that
+explore our relationship with technology. So much so that, if I
+could reach back and talk to my sixteen-year-old self, I’d say, “Take
+note—this is important.” I’d also add, “Don’t be such a jerk” for good
+measure. However, despite being awed by the opening sequence,
+with its primitive apes and inscrutable black monolith, enthralled
+by the realistic space scenes, and shocked by the computer HAL’s
+
+Back in 1982, I was entranced by 2001: A Space Odyssey because
+it exposed me to new ideas and new ways of imagining the future.
+Like many fans, I suspect, I ended up with quotes from the movie
+branded into my brain, like, “Open the pod bay doors, HAL,” along
+with HAL’s response, “I’m sorry, Dave, I’m afraid I can’t do that.”
+Without my realizing it, Kubrick’s movie made me think about
+a future where smart computers might decide that their selfpreservation was more important than the humans who created
+them. Fast-forward to the present, and—as we grapple with living
+in an increasingly complex world—I’m more convinced than ever
+that, for all their flaws, science fiction movies are a powerful way
+of exploring the technological futures we face and how to navigate
+them. Of course, it can be irritating when scriptwriters and directors
+play fast and loose with scientific and engineering reality for the
+sake of telling a good story. But getting too wrapped up in the
+minutiae of how accurate a science fiction movie is misses the
+point—these are stories about our relationship with the future,
+and, like all good storytelling, they sometimes play around with
+reality to reveal deeper truths. As it turns out, this creative freedom
+can be surprisingly powerful when it comes to thinking about the
+social benefits and consequences of new technologies and how
+we can steer technology innovation toward more beneficial and
+equitable outcomes.
+It’s this human dimension of science fiction movies that I’m
+particularly interested in. What these movies do rather well is
+provide us with a glimpse around the corner of our collective near
+future, to help us see what might be coming down the pike and start
+thinking how we might respond to it. And they manage to do this
+because their scriptwriters and directors aren’t encumbered by the
+need to stick to today’s reality. Viewed in the right way—and with
+a good dose of critical thinking—science fiction movies can help us
+think about and prepare for the social consequences of technologies
+we don’t yet have, but that are coming faster than we imagine.
+This is precisely what this book sets out to do. Using the twelve
+movies it’s built around, the book provides glimpses into the
+technological capabilities we’re building now, and how we might
+start to think about their beneficial and responsible development
+
+instinct for self-preservation, it would be another thirty years before
+I began to realize how powerful the medium of film is, especially
+when thinking about the future of science and technology in a
+complex human society.
+
+and use. Naturally, it only scratches the surface of the vast array of
+technologies that are beginning to emerge, and the opportunities
+and challenges they present. But through the lens of these movies,
+the book sets out on a journey to explore what can go wrong with
+new technologies, and how we can all help nudge them toward
+a future that looks better than the present we’re currently in. And
+it continues that personal journey I started in 1982 with that first,
+barely conscious glimpse into how science fiction movies can reveal
+hidden connections between who we are, the society we live in, and
+the technologies we create.
+
+Welcome to the Future
+Google “top science fiction movies,” and you’ll probably be
+overwhelmed by a deluge of “top 100” lists, “best ever” compilations,
+and page upon page of the last word (supposedly) on must-watch
+movies. People are passionate about their science fiction movies,
+and they have strong opinions about what should be on everyone’s
+watch list, and what should not. Some of the movies in this book
+appear regularly on these lists, Jurassic Park (chapter two) and
+Minority Report (chapter four), for instance. Some are hidden gems
+that only the most dedicated fans cherish, including films like The
+Man in the White Suit (chapter ten), and the anime movie Ghost in
+the Shell (chapter seven). Others are likely to raise eyebrows, and I
+suspect there’ll be a few movie buffs wondering why the collection
+includes films like Transcendence (chapter nine) and Inferno
+(chapter eleven).
+This is a fair question. After all, why write a book about science
+fiction movies that aren’t listed as being amongst the best there are?
+The answer is that this is not a book about great science fiction
+movies, but a book about how science fiction movies can inspire
+us to see the world around us and in front of us differently. Each of
+the movies here has been selected because it provides a jumping-off
+point for exploring new and intriguing technological capabilities,
+and the challenges and opportunities these raise. Some of the
+resulting stories are life-affirming and heart-warming, while others
+are deeply disturbing. Individually, they provide fascinating accounts
+of the sometimes-weird and complex landscape around emerging
+technologies. Together, though, they paint a much broader picture of
+how our technological world is changing, and what this might mean
+to us and the generations that come after us.
+
+In pulling these movies together and writing the book, I wanted
+to explore the often complex relationship we have with emerging
+technologies. But I also wanted to highlight some of the amazing
+advances we see beginning to emerge in science and technology. We
+truly do live in incredible times. Scientists are learning how to write
+and rewrite genetic code with increasing precision and efficiency.
+Nanotechnologists are designing and engineering materials that
+far exceed the properties of anything that occurs in nature. We
+are already creating artificial intelligence systems that can operate
+faster and smarter than any human. There are self-driving cars on
+our roads, with autonomous people-carrying drones just around
+the corner. Researchers are working on brain-computer interfaces
+and mapping the human brain down to its individual neurons. And
+we may well see people walking on the surface of Mars within
+the next decade. Until recently, these and many more scientific
+and technological marvels were the stuff of science fiction, yet the
+frenetic pace of innovation is rapidly catching up with some of our
+wildest imaginings.
+This is heady stuff to the physicist in me—at heart, I must confess,
+I’m still a technology geek. And yet this stupendous technological
+power comes with a growing obligation to learn how to handle it
+responsibly. Despite the speed with which we’re hurtling toward
+our technological future, we are still grappling with how to do
+this in ways that don’t end up causing more harm than good.
+This isn’t because scientists and engineers don’t care about who
+gets hurt—most of them care deeply—but because we’re charging
+headlong into a future that’s so complex, it’s becoming increasingly
+challenging to work out what could go wrong and how to avoid it.
+
+The movies themselves were selected after many hours of watching
+and soul-searching. There are some quite wonderful science
+fiction movies that didn’t make the cut because they didn’t fit the
+overarching narrative (Blade Runner and its sequel Blade Runner
+2049, for instance, and the first of the Matrix trilogy). There are
+also movies that bombed with the critics, but were included because
+they ably fill a gap in the bigger story around emerging and
+converging technologies. Ultimately, the movies that made the cut
+were chosen because, together, they create an overarching narrative
+around emerging trends in biotechnologies, cybertechnologies,
+and materials-based technologies, and they illuminate a broader
+landscape around our evolving relationship with science and
+technology. And, to be honest, they are all movies that I get a kick
+out of watching.
+
+Navigating this future is going to require every ounce of insight
+we can squeeze out of our collective brains. And because the
+consequences of how we use new and emerging technologies will
+end up affecting us all, we all have a role to play here, including
+individuals who are all too easily overlooked by scientists and
+engineers—in fact, especially these individuals.
+Faced with this task, science fiction movies simultaneously remove
+barriers to people talking together about the future, and reveal
+possibilities that might otherwise remain hidden. Every one of the
+movies here can be appreciated as much by someone who flunked
+high school as by a Nobel Prize winner. Because of this, they are
+tremendously powerful for getting people from very different
+backgrounds and perspectives thinking and talking together. But
+more than this, they have a way of slipping past our preconceived
+ideas of the world and revealing things to us that we could so
+easily miss.
+It’s these unexpected insights that I’ve tried to draw out from each
+of the movies, building on my own work and experiences, as well as
+those of others. In doing so, I’ve been amazed at how powerful they
+are at revealing connections and ideas that aren’t always obvious.
+I’ve been surprised and delighted at how these reflections have
+taken unexpected and serendipitous turns, opening up new ideas
+around how to approach beneficial and responsible technology
+innovation. But I’ve also been taken aback at times by the very real
+harm we could cause if we get things wrong—not just to humanity
+as a whole, but to communities that all too easily slip between the
+cracks. And as I immersed myself in these movies, I’ve become
+more certain than ever that, fascinating as the minutiae of individual
+technologies can be, it’s when they begin to converge that the really
+interesting stuff begins to happen.
+
+## The Power of Convergence
+In June 2007, the first generation of the Apple iPhone was released
+to the public. From the perspective of today’s crowded smartphone
+marketplace, it’s hard to realize how seismic an event this was at the
+time. Yet, looking back, it started a trend in how we use and interact
+with technology that continues to reverberate through society to
+this day.
+The iPhone stands as an iconic example of technological
+convergence—what happens when different strands of innovation
+
+Smartphones are a useful, but still rather crude, example of
+technological convergence. Expanding on this, we’re now beginning
+to see convergence between biotechnologies, materials science,
+robotics, artificial intelligence, neurotechnologies, and other
+areas that are rapidly catching up with what used to be limited
+to deeply futuristic science fiction. This is seen across the movies
+in this book, from the use of genetic engineering in Jurassic Park
+(chapter two) to human augmentation in Ghost in the Shell (chapter
+seven). The power of convergence between different technological
+trends particularly stands out in the movie Transcendence (chapter
+nine). Here, the technology we see on the screen is firmly rooted
+in Hollywood fantasy. Despite this, the film captures the scale of
+technological leaps that become possible when technical knowhow
+from one area is used to solve problems and accelerate progress in
+another.
+Transcendence is, at heart, a movie about transcending our
+biological and evolutionary heritage. Inspired by the ideas
+of transhumanists like Ray Kurzweil, it imagines a future
+where convergence between biotechnology, neurotechnology,
+nanotechnology, and artificial intelligence leads to a profound
+shift in capabilities—albeit one with sobering consequences.
+There’s a scene relatively early on in the movie where artificialintelligence (AI) genius Will Caster (played by Johnny Depp) is
+dying, and his only hope is for his consciousness to be uploaded
+
+intertwine together (a topic we’ll come back to in chapter nine)—
+and the social and technological transformations that can occur as
+a result. These days, smartphones integrate hundreds of different
+technologies: nanoscale-featured processors and memory chips,
+advanced materials, cloud computing, image processing, video
+communication, natural language processing, rudimentary artificial
+intelligence, biometrics. They’ll even allow you to make phone
+calls. They are a triumph of our ability to weave together separate
+technologies to make devices that are not only more than the sum of
+their parts, but are also transforming the ways we live our lives. But
+as the capabilities of smartphones and other personal electronics
+expand, there’s a growing fear of serious unintended consequences,
+so much so that, in 2018, JANA Partners LLC and the California State
+Teachers’ Retirement System—two investors in Apple—requested the
+company actively address the potential impacts of iPhone use on
+teenagers.[^1]
+
+into a revolutionary new artificial-intelligence-powered computer.
+But, to achieve this, his colleagues need to use equally cuttingedge neuroscience and sensor technology to record and store every
+nuance of Caster’s brain. In true movie fashion, they succeed just
+before he passes away, and Caster becomes a human-machine
+chimera who transcends his biological roots.
+The science and technology in Transcendence are fanciful. But
+as you peel away the Hollywood hyperbole, the movie hints at
+a coming level of technological convergence that could radically
+change the world we live in. This is rooted in our growing ability
+to blur the lines between physical technologies like materials,
+machines, and electronics; biological technologies like gene editing
+and biomanipulation; and cyber technologies like machine learning,
+natural language processing, and massive-scale data collection
+and manipulation. What unfolds in Transcendence is scientifically
+impossible. But what is not impossible—and what scientists and
+engineers are becoming increasingly adept at—is our growing ability
+to merge together and integrate seemingly different technologies, to
+transform the world we live in.
+This is perhaps most apparent in emerging gene-editing
+technologies, where scientists are developing the abilities to
+rewrite the DNA-based code that underpins every living organism,
+something that is only possible through converging technologies.
+But we’re also seeing this convergence leading to massive advances
+in areas like designer materials, artificial intelligence, humanmachine interfaces, and many others. For perhaps the first time,
+we are getting close to being able to far outstrip nature in how we
+design and engineer the world around us.
+This is where the true transformative power of convergence lies,
+and it’s also where some of the greatest potential pitfalls are.
+Through converging technologies, we’re developing capabilities
+that could radically improve lives by eradicating diseases, providing
+cheap and plentiful renewable energy, and ensuring everyone
+has access to nutritious food and clean water. At the same time,
+there are tremendous risks. We don’t yet know how large-scale
+automation will affect jobs in the future, for instance, or how access
+to technologies may simply lead to the poor getting poorer and the
+rich richer. We have little idea how to wield increasingly powerful
+gene-editing technologies responsibly. And we’re not sure yet
+whether the rapid development of artificial intelligence is going to
+make the world a better place or lead to the end of humanity as we
+
+This is a theme that runs deeply through this book, and it’s one that
+gets to the heart of the morality and the ethics of the science and
+the technologies we develop and use. If we’re going to navigate
+the world of these converging technologies successfully, we’re
+going to have to start thinking more creatively and innovatively
+about where we’re going as a species, what could go wrong, and
+what we need to do to make things go right. Of course, movies
+are not the most reliable guide here, and I’d hate to give the
+impression that surviving and thriving in the twenty-first century
+is as easy as watching a few films. But they do provide a platform
+for exploring some of the more intriguing and important emerging
+and converging trends in technology innovation, and the tension
+between developing them responsibly and ensuring they reach
+their full potential. And here they touch on another common theme
+that threads through the following chapters: the challenges and
+opportunities of socially responsible innovation.
+
+## Socially Responsible Innovation
+The movie The Man in the White Suit (chapter ten) is perhaps one of
+the less well-known films in this book, but it is one that admirably
+highlights this tension between impactful and often well-intentioned
+innovation and unforeseen social consequences. In the movie,
+Sidney Stratton is a scientist with a vision. And that vision is to
+create the perfect fabric, one that’s incredibly strong, doesn’t wear
+out, and never needs washing. There’s only one problem: He never
+bothered to ask anyone else what they thought of his invention.
+As a result, he finds himself attracting the ire of his co-workers,
+the textile industry, the local union, and even his landlady. Stratton
+made the classic mistake of thinking that, just because he could do
+something, others would love it.
+Even though the movie was made back in 1951, it eloquently
+captures the idea of socially responsible innovation. This is another
+theme that threads through this book, and it’s one that is deeply
+intertwined with the opportunities and challenges presented by
+converging technologies.
+
+know it! The harsh reality is that, while convergence is massively
+accelerating our technological capabilities, we still have little if any
+idea what might go wrong, or what the unintended consequences
+could be.
+
+Responsible Innovation (sometimes referred to as Responsible
+Research and Innovation) is a hot topic these days. There’s even
+an academic journal devoted to it. The thinking behind responsible
+innovation is that we don’t always have a second or third chance
+to get things right when developing new technologies, and so it’s
+better to think about the potential consequences as early as we can,
+and take action to avoid the bad ones as early in the development
+process as possible. There are plenty of formal definitions for
+responsible innovation.[^2] But many of these boil down to ensuring
+that anyone who is potentially impacted by technological innovation
+has a say in how it’s developed and used, and taking steps to ensure
+innovation that leads to a better future for as many people as
+possible, without causing undue harm. This is easy to say, of course,
+but fiendishly difficult to put into practice.
+This idea of social responsibility comes up time and time again in
+the movies here. In many cases, a film’s dramatic tension draws
+directly on some person or organization not thinking about the
+consequences of what they are doing, or being too arrogant to
+see their blind spots (this is apparent straight out of the gate with
+Jurassic Park in chapter two). This makes for compelling narratives,
+but it also opens the way for surprisingly nuanced approaches to
+exploring what might go wrong with emerging technologies if we
+don’t think of who they will impact (and how), and how we can
+steer them toward better outcomes. And it opens the door to delving
+into something that is near and dear to my heart: grappling with the
+risks of new and unusual technologies.
+
+Most of my professional life has been involved with risk in one
+way or another. Much of my early published scientific research was
+aimed at reducing the health risks from inhaling airborne particles.
+I’ve worked extensively on understanding and reducing the health
+and environmental risks of nanotechnology and other emerging
+technologies. I’ve taught risk assessment, I’ve written about risk,
+and I’ve run academic centers that are all about risk. And if there’s
+one thing I’ve learned over the years, it’s that I have less and less
+patience for how many people tend to think about risk.
+The problem is that, while established approaches to risk work
+reasonably well when it comes to protecting people and the
+
+This is the idea behind the concept of Risk Innovation, which is
+where much of my current work lies.[^3] Over the past couple of
+hundred years—pretty much since the beginning of the Industrial
+Revolution—we’ve become quite adept at developing new ways
+of causing harm. And over time we’ve become equally adept at
+developing ways of assessing and managing the risks associated
+with innovation, whether they arise from mining and manufacturing,
+exposure to new chemicals and materials, or pollution. But these
+approaches to risk belong to a different world than the one we’re
+now creating. With emerging and converging technologies, it’s
+becoming increasingly apparent that, in order to navigate a radically
+shifting risk landscape, we need equally radical innovation in how
+to think about and act on risk.
+Perhaps not surprisingly, risk is at the core of all the movies here.
+Each of these films has a risk-based narrative tension that keeps its
+audience hooked. Yet it’s not always apparent that it’s risk that keeps
+you glued to the screen, or holding your breath, or even reaching
+for the tissues in places. Most of us are used to thinking about
+risk in terms of someone’s life being put in danger, or perhaps the
+environment and ecosystems being threatened, and there’s plenty of
+this in the book. But these movies also explore other, subtler risks,
+including threats to dignity, belonging, identity, belief, even what it
+means to be human.
+These are rather unconventional ways of thinking about risk,
+and they get at what is so important to us that our lives are
+diminished if it’s denied us, or taken from us. Because of this, they
+make considerable sense as we begin to think about how new
+technologies will potentially affect our lives and how to develop
+and use them responsibly. This is a way of thinking about risk that
+revolves around threats to what is important to us, whether it’s
+
+environment from conventional technologies, they run out of steam
+rather fast when we’re facing technologies that can achieve things
+we never imagined. To coopt a Biblical metaphor, we’re in danger
+of desperately trying to squeeze the new wine of technological
+innovation into the old wineskins of conventional risk thinking,
+and at some point, something’s going to give. If we’re to develop
+new technologies in socially responsible ways, we need to realign
+how we think about risk with the capabilities of the innovations
+we’re creating.
+
+something we have and can’t face losing, or something we aspire to
+and cannot bear to lose sight of. This includes our health, our wellbeing, and the environment we live in, but it also extends to less
+tangible but equally important things that we deeply value.
+In each of the movies here, the characters we follow risk either
+losing something of great importance to them, or being unable to
+gain something that they aspire to. In many of the movies, the types
+of risks these characters face aren’t always immediately obvious,
+but they profoundly impact the consequences of the technologies
+being developed and used, and it’s this insight that opens up
+interesting and new ways of thinking about the social consequences
+of technological innovation. And so we discover that, in Jurassic
+Park (chapter two), John Hammond’s dream of creating the world’s
+most amazing theme park is at risk. In the movie Never Let Me Go
+(chapter three), it’s the threat to Tommy’s hope for the future that
+brings us to tears. And in Ghost in the Shell (chapter seven), it’s
+Major Kusanagi’s sense of who and what she is. There are also more
+conventional risks in each of these movies. Yet, by revealing these
+less obvious risks, these movies reveal new and often powerful
+ways to think about developing new technologies without causing
+unnecessary and unexpected harm.
+In this way, the movies here provide what are often quite startling
+insights into the social challenges and opportunities surrounding
+emerging technologies. Watching them with an open mind and a
+critical eye can reveal subtle connections between irresponsible
+innovation and threats to what people value or aspire to, which
+in turn have profound implications for society more broadly. And
+this is where their creativity and imagination have the power to
+lift us out of the rut of conventional thinking, and allow us to see
+opportunities and dangers that extend beyond the world of makebelieve and into the technological future we are striving to create.
+In other words, I’m a sucker for using the imagination in science
+fiction movies to stimulate new ways of thinking about risk,
+and in turn, new ways of thinking about socially responsive and
+responsible innovation. But there’s another aspect to these movies
+that also gets me excited, and that’s their ability to break down the
+barriers between “experts” and “non-experts” and open the door
+to everyone getting involved in talking about where technology
+innovation is taking us, and what we want from it.
+
+## A Common Point of Focus
+
+I was recently invited to a meeting convened by the World Economic
+Forum, where I was asked to moderate a discussion about how
+governments, businesses, and others can respond to the potential
+risks presented by new technologies. Much of our discussion
+was around regulations and policies, and what governments and
+companies can do to nip problems in the bud without creating
+unnecessary roadblocks. But one question kept recurring: How can
+we ensure the safe and beneficial development of new technologies
+in a world that is so deeply and divisively divided along ideological
+lines?
+
+To my surprise, one of the participants suggested something that
+didn’t involve politics, regulations, or more effective education: art.
+Naturally, we still need technical experts, laws, and policies if we’re
+going to get new technologies right. But the question that was put
+forward was an intriguing complement to these: Can we use art
+(including all forms of creative expression) to pull people out of
+their entrenched ideas and get them thinking and talking about how
+they can work together to build the future they want? Obviously,
+we’re never going to reach world peace and prosperity by insisting
+everyone contemplate Da Vinci’s Mona Lisa or one of Damien Hirst’s
+pickled cows.[^4] Yet art provides a common point of focus that allows
+people to express their ideas, thoughts, and opinions, while being
+open to those of others. And it allows the possibility of being able
+to do this without slipping into ideological ruts. Art, in all its forms,
+is a medium that can mitigate our tendency to close down our
+imagination (together with our humility and empathy), and it’s one
+that opens us up to seeing the world in new and interesting ways. In
+this context, science fiction movies are, without a doubt, a legitimate
+form of art, and one that has the power to bring people together
+in imagining how to collectively create a future that is good for
+society, rather than a dystopian mess—as long as that imagination is
+grounded in reality where it matters.
+This isn’t to say that technical education and skills aren’t
+important—they most certainly are. Developing technologies that
+work and are safe demands incredible technical skills, and it would
+be naïve and irresponsible to discount this. No matter how inclusive
+we want to be, we can’t expect a random person plucked from the
+
+street to have the skills necessary to genetically engineer organisms
+safely, or to design aircraft that don’t fall out of the sky. That would
+be crazy. But one thing we’re all qualified to do is think about what
+the possible consequences of technology innovation might mean to
+us and the people we care for. And here, pretty much everyone has
+something to contribute to the socially responsible and responsive
+development of new technologies.
+This is something that I hope will become increasingly clear through
+the remainder of this book. But before we dive into the movies
+themselves, I do need to say something about spoilers.
+
+## Spoiler Alert
+This is a book that contains spoilers. You have been warned. It’s
+not a book to read if you’re one of those people who can’t stand to
+know what happens before you watch a movie. But I can guarantee
+that if you read the book before seeing the movies, your experience
+will be all the richer for it. Even if you’re familiar with the movies,
+you’ll see them through new eyes after reading the book. And if you
+decide not to watch the movies at all, that’s okay as well. Certainly,
+the movies are engaging and entertaining, but at the end of the day,
+it’s the technologies that are the stars here.
+Each chapter starts with a brief overview of the movie it’s built
+around. This is partly to orient you if you haven’t seen the movie,
+or you aren’t particularly interested in watching it—although I’d
+hope that, after reading the chapter, you head out to your preferred
+streaming service to get the full effect. But it’s also to help set the
+scene for what’s to come. If you know these movies well, you’ll
+realize that the summaries are idiosyncratic, to say the least. They let
+you know what I think is interesting and relevant about each film,
+what grabs my attention when watching them and makes me think.
+But they don’t give everything away. In fact, I’d hope that, watching
+any of the movies after reading the book, you’d still be surprised
+and delighted by unexpected plot twists and turns.
+With that said, it’s time to start the journey, starting with genetic
+engineering, resurrection biology, and the folly of entrepreneurial
+arrogance that is so adeptly captured by Stephen Spielberg’s original
+Jurassic Park. So buckle up, hang on, and enjoy the ride!
+
+
+[^1]: An open letter from JANA partners and CALSTRS to Apple, Inc., January 6, 2018. Accessible at https://thinkdifferentlyaboutkids.com/
+
+[^2]: For a good working definition of responsible research and innovation, I’d recommend a 2013 paper by Jack Stilgoe, Richard Owen, and Phil Macnaghten. “Developing a framework for responsible innovation.” Research Policy 42(9): 1568-1580. http://doi.org/10.1016/j.respol.2013.05.008
+
+[^3]: For more on risk innovation, I’d recommend reading this 2015 article. “Why we need risk innovation.” Nature Nanotechnology 10: 730–731. http://doi.org/10.1038/nnano.2015.196
+
+[^4]: In 1993, the British artist Damien Hirst produced an exhibit with the title “Mother and Child (Divided).” It consisted of a cow and calf, each sliced in half, pickled in formaldehyde, and mounted in a display cabinet. https://www.tate.org.uk/art/artworks/hirst-mother-and-child-divided-t12751 

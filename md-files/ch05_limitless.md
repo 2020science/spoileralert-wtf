@@ -1,0 +1,974 @@
+# Chapter 5: Limitless — Pharmaceutically-Enhanced Intelligence
+
+*From Films from the Future: The Technology and Morality of Sci-Fi Movies by Andrew Maynard*
+
+---
+
+“I don’t have delusions of grandeur, I have an actual
+recipe for grandeur.”
+—Eddie Morra
+
+## A Pill for Everything
+Back in 2009, just as we were about to tip over into the next decade,
+I set out to take stock of some of the more interesting and unusual
+emerging technologies on the horizon. The short article that ended
+up on the blog 2020 Science lists ten technology trends I thought
+were worth watching over the next ten years. And at number nine
+was “nootropics.”[^45]
+Even then, these so-called “smart drugs” were being used quite
+widely by people wanting give their brains a boost. And, from my
+research, it seemed that this was a technology that was only going to
+get bigger. I had no idea just how big, though. Nearly ten years later,
+Googling “cognitive enhancers” returns a flood of companies selling
+smart drugs, people giving advice on brain-improving substances,
+cognitive-enhancer dosing regimens using a plethora of ingredients,
+“how-to” guides on hacking your brain, and a regular stream of
+news articles on the latest substance-enhanced mind hacks. Back in
+2009, it was off-label uses of substances like modafinil, Adderall, and
+Ritalin that was all the rage. These days, it’s a whole pharmacopoeia
+of substances and “stacks” (or formulations) designed to give you a
+legal, or at least a not-too-illegal, edge.
+
+Underpinning this trend, there’s an almost unquestioned assumption
+that having a better memory, and being able to think faster and
+more clearly, are important if you want to be successful. Things
+are less clear, though, when it comes to the potential tradeoffs that
+these substances come with. Mess with your body’s chemistry, and
+there’s usually a price to pay somewhere down the line. But things
+are more complex when it comes to social tradeoffs. What do we
+gain and lose as a society if a growing number of people start to
+chemically enhance themselves? And if we’re collectively going to go
+down this path, how can we navigate our way to using increasingly
+powerful cognitive enhancements responsibly?
+
+The movie Limitless provides an intriguing gateway into exploring
+the future of brain-enhancing drugs. It’s smart (pun intended),
+witty, and, at the end of the day, relatively ambivalent about the
+ethics of chemical cognitive enhancement. The film revolves around
+struggling author Eddie Morra (played by Bradley Cooper). Eddie’s
+a mess. He can’t write, he’s not looking after himself, and his
+girlfriend’s just left him. But just as he hits rock bottom, he runs
+across his former brother-in-law Vernon ( Johnny Whitworth).
+Vernon offers Eddie a new experimental drug, NZT-[^48], which he
+claims is in human trials and is “FDA-approved” (although he doesn’t
+say for what). Eddie, having nothing to lose at this point, pops the
+pill. And the effects are dramatic. Within a matter of seconds, he
+finds himself thinking faster and more clearly. His memory recall
+improves dramatically. He can not only absorb more information
+faster, he can also make better use of what he knows than ever
+before. And with this, his life dramatically clicks into focus. On NZT,
+no-hoper Eddie becomes suave, smart, organized, and interesting
+Enhanced Eddie.
+The trouble is, he only has one pill, so the next day he’s back at
+Vernon’s, who, it turns out, has problems of his own, namely, some
+very powerful people who want to get their hands on his supply
+of NZT.
+Keeping the dramatic tension moving along at a pill-popping
+pace, Vernon is murdered; Eddie finds and removes his stash
+of NZT; he starts taking the pills at an increasing rate; and
+boom—he’s transformed from a failing writer into someone with
+limitless potential.
+
+Then the blackouts begin. As it turns out, there’s no such thing as a
+free lunch, even in the world of designer drugs, and this particular
+wonder drug comes with a steep price. Eddie begins to lose track
+of where he’s been and what he’s been doing, and it looks like he
+might have been involved in a murder in one of his blank patches.
+On top of that, he’s running out of NZT.
+NZT, it turns out, has some rather unpleasant side effects. Use too
+much, and you begin to blank out. Come off it too fast, and you get
+sick and die. Wean yourself off it slowly, and you lose your ability to
+focus. There’s no easy win here once you’re hooked.
+As all this is playing out, Eddie is brokering the deal of a lifetime
+with corporate kingpin Carl van Loon (Robert de Niro). He’s also
+trying to stay clear of his loan shark, whom Eddie inadvertently
+introduced to NZT, and who is now eager for more. And he’s being
+chased down by a mysterious stranger who, you’ve guessed it, is
+also after his supply of NZT.
+Following a succession of increasingly tense scenes, Enhanced Eddie
+eliminates the loan shark and his lackeys, finishes his novel (easy
+when you’re smart-pilled up), gets back with his girlfriend (Abbie
+Cornish), runs for a seat in the Senate, and begins to entertain the
+idea of running for President. And, as he gets his act together, he
+claims he’s ironed out the links in NZT’s formulation. At the end of
+the movie, it seems that Eddie’s version of NZT has, in fact, made his
+potential near-limitless.
+
+But there’s a problem—a few of them, as it turns out. After the
+sheer exuberance of being so “together” wears off, Enhanced Eddie
+hatches a super-smart plan to make a bucketload of cash through
+day trading, cashing in on his chemically-enhanced intelligence.
+Using his enhanced memory and his newfound ability to rapidly
+make sense of stock market patterns and fluctuations, he works out
+how he can trounce more seasoned traders and make a fortune.
+But this isn’t simply because he wants to be wealthy. With his
+supercharged brain, Eddie begins to see a way forward to achieving
+his dreams of being successful. And here, he realizes that money—
+and lots of it—is the lever he needs to achieve his success. Perhaps
+showing a modicum of over-confidence, Eddie borrows a wad of
+cash from a local thug (played by Andrew Howard) to kick-start his
+day-trading scheme, and begins to make money hand over fist while
+staying several steps ahead of a growing storm of hurt behind him.
+
+Limitless doesn’t shy away from tackling the risks of cognitionenhancing drugs. But neither does it suggest that their use is
+inappropriate. Rather, it challenges viewers to think about the
+pros and cons. Under the surface, though, there are more subtle
+narratives around the value of intelligence and the meaning of
+success, as well as a surprisingly sophisticated exploration of the
+ethics of cognitive enhancement.
+
+## The Seduction of Self-Enhancement
+Intelligence is important; at least, that’s what we’re led to believe.
+From the moment we’re born—and sometimes from before this, if
+your parents subjected you to “educational stimuli” in the womb—
+there is a deep assumption that smarter is better. Educational aids,
+special schools, gifted and talented programs, cognitive development
+regimens, tests, grades, certificates, degrees, achievements, prizes;
+we’re conditioned to believe that, from day zero, the way to succeed
+in life is to be smart.
+From an evolutionary perspective, this isn’t too surprising. Our
+particular human brand of intelligence is what differentiates us from
+our fellow species, including our ability to remember, learn, think,
+and problem-solve. It’s what led to Homo sapiens forming powerful
+social groups, learning to farm plants and animals, harnessing
+water, coal, and electricity, developing synthetic chemicals, creating
+cyberspace, exploring real space, growing enough food to feed
+a hungry and expanding world, and plenty more besides. Our
+history seems to suggest that the secret of our success is, indeed,
+our smarts. So it’s perhaps natural to think that the pathway to
+more success is even more intelligence, wherever and however we
+can find it. And when our evolutionary smarts run out of steam, or
+we feel we were genetically or socially short-changed, artificially
+enhanced intelligence begin to look pretty attractive.
+Of course, we enhance our intelligence through artificial means
+all the time; it’s part of the reason why we’re so phenomenally
+successful as a species.[^46] As soon as I Googled “cognitive enhancers”
+while researching this chapter, I tapped into an artificial aid to
+supplement my less-than-adequate memory and intellect. Our
+technology already makes us smarter than our biological brains and
+bodies allow. And this has been integral to how we’ve survived and
+grown as a species. We’ve evolved the ability to develop tools and
+
+So why not use this intellect to enhance the very source of our
+intelligence: the human brain? If we can do everything we’ve
+achieved so far as a species through using three pounds per person
+of unenhanced gray matter, imagine what would be possible with an
+artificially supercharged set of neurons.
+This is such a no-brainer that brain-hacking is now big business.
+We’re being sold the message through intensive marketing that
+being smarter than others will give us an advantage, and that we
+can get smarter through everything from playing brain games
+to doing brain exercises. And, of course, consuming cognitionenhancing drugs.
+
+“Peak Performance” is a San Francisco-based meetup organized by
+the entrepreneur George Burke.[^47] This eclectic group of individuals
+gets together regularly to explore ways of improving their bodies’
+performance, including (but certainly not limited to) the use
+of smart drugs. What makes Burke especially interesting is his
+advocacy for taking cognitive enhancers to keep ahead of the game.
+In a June 2017 article in the Washington Post, Burke acknowledges,
+“It’s not like every tech worker in Silicon Valley is taking nootropics
+to get ahead… It’s the few who are getting ahead who are using
+supplements to do that.”[^48] Burke takes a daily cocktail of vitamins,
+minerals, research pharmaceuticals, and a touch of the psychedelic
+drug LSD. He claims it gets his brain operating at a level that
+improves his memory, attention, creativity, and motivation.
+Who wouldn’t want this?
+Somewhat ironically, as I’m writing this, I’m fighting against brain
+fog brought on by burning the candle at both ends while fighting
+off some insidious virus. As a result, there’s a fog-addled part of my
+
+use technologies that vastly amplify our bodies’ innate capabilities.
+You just need to think about the complex technologies that weave
+through our lives every day to realize how stupendously powerful is
+this ability to not only imagine vastly different futures, but use our
+intellect to create them.
+
+brain that can see the attraction of an intelligence-enhancing pill.
+Why not order a cocktail or two of these “smart meds”—maybe
+with a sprinkle of LSD—to clear the cobwebs away? Why not be the
+writer-genius I could be, at the pop of a pill, rather than the hack
+I suspect I am? Why not use a chemical aid to access those elusive
+memories and ideas that are teasing me from beyond the wisps of
+dullness? What’s to stop me trouncing the competition as brainhacked “Enhanced Andrew”? Surely Amazon Prime can deliver the
+appropriate cocktail before I’ve struggled my way through the next
+paragraph.[^49]
+But what would the downsides be? More to the point—and thinking
+beyond my own selfish needs—what are the social and ethical pros
+and cons of taking substances to boost brain performance? This
+takes us right back to questions raised by the movie Limitless. But
+first, it’s worth taking a deeper dive into the world of smart drugs
+and “nootropics.”
+
+## Nootropics
+In 2004, the academic and medical doctor Anjan Chatterjee wrote
+a review of what he termed “Cosmetic Neurology.”[^50] He was far
+from the first person to write about the emergence and ethics of
+cognitive enhancers, but the piece caught my attention because of
+its unusual title.
+Chatterjee’s title has its roots in cosmetic surgery, an area fraught
+with medical angst as surgeons weigh up the pros and cons of
+desirable, but physiologically unnecessary, surgical interventions.
+Through the article, Chatterjee grapples with similar challenges as
+he weighs the benefits and downsides of treatments that don’t cure
+disease but, rather, extend abilities.
+I’m not sure the term “cosmetic neurology” works. “Cosmetic” has an
+air of frivolity about it that is far removed from the issues Chatterjee
+is grappling with here. These include the use of substances to
+compensate for perceived deficiencies in human performance,
+such as the ability of pilots to remain alert and perform at their
+best. In the article, Chatterjee explores a growing number of
+pharmaceuticals that are known to affect the brain’s operations in
+ways that can improve aspects of performance, including memory
+
+It could be argued, of course, that this has already happened in
+a world that’s caffeine-fueled by Starbucks, Dunkin’ Donuts, Tim
+Hortons, and numerous other retail chains offering over-the-counter
+mental stimulants. For as long as people have known that some
+substances affect the brain, they’ve been finding ways to make use
+of these effects, and caffeine is an obvious poster child here. Take
+the nineteenth-century French writer Honoré de Balzac, for instance.
+He was well-known for a prolific coffee habit, writing with rather
+obvious self-awareness that, after drinking the substance,
+
+[T]he cavalry of metaphor deploys with a magnificent gallop; the
+artillery of logic rushes up with clattering wagons and cartridges;
+on imagination’s order, sharpshooters sight and fire…[^51]
+
+In fact, reading his work, it’s hard to avoid wondering just how
+caffeined-up he was.
+Although caffeine in the form of tea and coffee is deeply socially
+normalized these days, there’s a growing market for high-dosage
+shots to keep the brain alert. Visiting our on-campus one-stop store,
+there’s a whole array of caffeine-enriched energy drinks and shots
+that students (and presumably faculty) can use to keep their brains
+alert. But these are just the visible tip of the iceberg of smart drugs
+being used on educational campuses the world over.
+For a number of years now, students in particular have been using
+substances like Adderall, Ritalin, and Provigil to give their brains
+a boost. These are all regulated substances that are designed for
+purposes other than getting through college, or finishing the latest
+class assignment. But that isn’t stopping what is purportedly a
+thriving black market in pharmaceutical smart pills.
+Adderall is intended for use in treating conditions like attention
+deficit hyperactivity disorder (ADHD) and narcolepsy. But there’s
+a perception that it also increases memory performance and
+
+and concentration. And, while he struggles with the ethics of
+cognitive enhancers, he wonders whether a “better brain” may, one
+day, be seen as an inalienable right.
+
+concentration in healthy adults.[^52] Ritalin (or methylphenidate) is
+another drug used to treat ADHD that is also used off-label for
+memory and concentration boosts. Provigil (or modafinil), on the
+other hand, is aimed specifically at treating sleep disorders, and
+is used off-label to increase wakefulness and counter fatigue by
+otherwise healthy adults. It’s also used by the military in a number
+of countries to keep soldiers alert, and has even reportedly been
+used by astronauts to stave off fatigue.[^53]
+These and other prescription drugs show measurable effects on
+concentration and wakefulness in some studies. But their precise
+impact on performance often depends on who uses them, how they
+use them, and what they use them for. And in most cases, there are
+tradeoffs. These may take the form of unwanted short-term side
+effects and inadequate performance boosts. In some instances,
+there may actually be long-term impacts on cognitive performance,
+although the research here is patchy. Yet, despite this, there’s been
+a steady stream of news articles over the past few years suggesting
+frequent use among students and professionals in jobs where being
+smart matters.
+That said, it’s surprisingly tough to get a hard fix on how prevalent
+this behavior is. A number of studies suggest that up to 50 percent
+of students in various countries are using some form of artificial
+means to increase concentration and performance, but these include
+caffeine-based drinks and tobacco. The number using off-label
+drugs like modafinil are just a few percent in many of these studies.
+Despite the published data, though, it’s not uncommon to come
+across occasional use among students. A few years ago, for instance,
+I was discussing smart drugs as part of a project with a group of
+colleagues. At one point, we turned to our student research assistant
+(someone I didn’t know) and asked whether her peers really were
+using these substances. She sheepishly reached into her bag and
+bought out a small pill, “just for when I need it,” she said.
+It’s not just students, though. I regularly come across rumors of
+faculty members and researchers occasionally using artificial aids
+to finish a grant proposal or to put an academic publication to bed.
+In 2008, Barbara Sahakian and Sharon Morein-Zamir published
+
+In academia, we know that a number of our scientific
+colleagues in the United States and the United Kingdom already
+use modafinil to counteract the effects of jetlag, to enhance
+productivity or mental energy, or to deal with demanding and
+important intellectual challenges.
+
+The article prompted Nature to conduct a straw poll of its readers.
+One in five of the survey’s respondents admitted to using Ritalin,
+modafinil, or beta-blockers to aid their focus, concentration, or
+memory.[^55]
+Of course, one downside of this academic brain-hacking is that
+none of these substances are risk-free. Making the decision to use
+one of these “Professor’s little helpers” to get ahead of your peers
+requires some careful balancing of short-term gains against potential
+downsides. These could include headaches, diarrhea, agitation,
+sleeplessness, odd behavior,[^56] hair loss, and the need for increasing
+doses to get the same effect.
+Because the side effects of off-label prescription drugs use aren’t
+widely tracked, it’s hard to tell just how safe or otherwise their
+use is, although the indications are that moderate or occasional
+use isn’t likely to lead to serious or lasting problems. But this
+uncertainty has led to experimentation around less restricted—and
+often less studied—substances in the quest for the perfect cognitive
+enhancer, the one that boosts your brain’s abilities without any
+unwanted downsides.
+
+In 1973, the Romanian researcher and medical doctor Cornelius
+Giurgea published an article on a new drug called piracetam.[^57] What
+was unusual about piracetam was its seeming inertness compared
+to other pharmaceutical drugs. According to Giurgea, even at high
+
+the delightfully-titled commentary “Professor’s little helper” in the
+journal Nature.[^54] In their piece, they noted that:
+
+doses, it showed “no sedation or tranquilization, no stimulation,
+no interference with synaptic transmitters, no acute or long-term
+toxicity…no cortical or subcortical EEG changes, no interference
+with limbic after-discharges, reticular sensory or direct arousal
+threshold” and “no changes of the cardiovascular, respiratory,
+gastrointestinal systems.” In other words, it did pretty much nothing.
+Except that, based on Giurgea’s research, it protected against severe
+brain hypoxia (oxygen deprivation), and it enhanced learning
+and memory.
+To Giurgea, piracetam was a unique class of drug that enhanced
+the integration of evolutionarily important brain functions like
+memory and learning, without obviously deleterious side effects.
+He considered this class of drug so unique that he coined a new
+term for it, from the root “noos,” referring to “mind,” and “tropein,”
+meaning “towards.” And so “nootropics” were born.
+Since then, the term nootropics has been used to cover pretty much
+all types of substances that purportedly enhance brain function. But,
+increasingly, purists are going back to Giurgea’s roots and using
+it to describe cocktails and “stacks” that improve function without
+unwanted side effects. To them, this means discounting those offlabel prescription drugs.
+Piracetam remains a popular nootropic and is readily purchased in
+many countries (although it occupies a legal gray zone in some), and
+there’s a growing body of research on its use and effects. A quick
+search on Google Scholar pulls up over 19,000 papers and articles
+on the substance. That said, the benefits to healthy adults remain
+ambiguous. But this doesn’t stop people from using it to, in the
+words of one supplier, “give you a serious cognitive edge without
+putting your health at risk.”
+This is just the tip of the cognitive-enhancement iceberg though.
+Increasingly, advocates like George Burke and others are
+experimenting with esoteric cocktails of substances to boost their
+brains and to tap into what they believe is their full potential. And
+it’s not hard to see why. If your livelihood and ambitions depend on
+your ability to squeeze every last ounce of performance out of your
+brain, why wouldn’t you try everything possible to make sure you
+were running at peak performance?
+This, of course, assumes that most people aren’t running on all four
+cylinders in the smarts department in the first place, and that our
+brains have the capacity to work better than they do. In Limitless,
+
+What’s more interesting, and potentially more relevant, is the idea
+that’s developed in Limitless that we could chemically enhance
+memory storage and recall, and our ability to make sense of the
+seemingly-disparate pieces of information we all have tucked away
+in our heads. Certainly, I struggle with memory and recall, and
+my ability to make sense of and act on new information suffers
+as a result. It’s easy for me to fantasize about how much smarter
+I’d be if everything I’ve experienced or learned was always at my
+fingertips, just waiting to be combined together in a flash of genius.
+And while I may be using 100 percent of my brain, it doesn’t
+take much to convince me that 90 percent of this is, at times, a
+dysfunctional mess.
+To someone who depends on their brain for their living, I must
+confess that the idea of clearing the fog and making things work
+better is attractive. Surely with better recall and data processing,
+I’d be better at what I do. And maybe I would. But there’s a danger
+to thinking of our brains as computers, which of course is where
+these ideas of memory and data processing come from. It’s tempting
+to conflate what’s important in our heads with what we think is
+important in our computers, including more memory, faster recall,
+and more efficient data processing. If we follow this pathway, we
+run the risk of sacrificing possibly essential parts of ourselves for
+what we mistakenly think is important.
+Unfortunately, we don’t know enough about the human brain yet to
+understand the benefits and dangers of how we think about human
+intelligence and success, although we do know that comparing
+what’s in our head to a computer is probably a bad idea.[^58] More
+than this, though, we also have a tendency to conflate achievements
+that we associate with intelligence, with success. But what if we’re
+using the wrong measures of success here? What if our urge to make
+
+the plot depends on the old myth that we’re only using 10–20
+percent of our brains, and that chemical enhancement can unlock
+the rest of our presumably unused potential. Sadly, while this works
+as a plot device, it’s pure scientific bunkum. Despite the tenacity of
+the myth, research has shown that we use every last ounce of our
+brain. Admittedly, we still don’t know precisely what parts of it are
+doing at any given time, or why they do what they do. But we do
+know that we don’t typically have unused cognitive capacity just
+waiting to be jump-started.
+
+more money, to publish more papers, or to be famous, leads to us
+ultimately risking what makes us who we are? And does this even
+matter?
+To many people, I suspect it doesn’t. And this leads into the ethics
+of smart drugs, regardless of what they can or cannot do for us.
+
+## If You Could, Would You?
+On April 1, 2008, a press release was published announcing that the
+US National Institutes of Health (NIH) was launching a new initiative
+to fight the use of brain-enhancing drugs by scientists. Spurred on
+by a perceived need to prevent pill-induced academic advantages, it
+claimed that:
+
+While “doping” is now accepted as a problem among athletes,
+it is less widely known that so-called “brain doping” has been
+affecting the competitive balance in scientific research as well.
+
+The release went on to announce the formation of the new World
+Anti-Brain Doping Authority, or WABDA.
+It should have been apparent from its publication date that the press
+release was an elaborate April Fool’s joke. It was the brainchild of
+Jonathan Eisen of the University of California, Davis,[^59] and it played
+into a growing interest in the use of nootropics and other cognitive
+enhancers in academia and the ethical questions that this raises.
+A few days after the press release hit the internet, the journal Nature
+published the results of its informal survey of 1,400 people on
+their academic smart-drug habits. The survey was an open, global
+online survey, and so at best provides only a rough indication of
+what academics were doing at the time. There was no control over
+who completed it, or how honest they were. Yet it still provided a
+fascinating insight into what, up to then, had been the stuff of rumor
+and conjecture.
+The survey asked participants whether they had ever used Ritalin,
+modafinil, and beta-blockers for non-medical purposes. Those that
+had were then asked a number of additional questions about their
+
+In stark contrast to competitive sports, these respondents
+were remarkably indifferent to their fellow scientists getting a
+drug-induced leg up.[^60] It seems—at least from this somewhat
+qualitative sample—that there’s an ambivalence around using
+brain enhancements to succeed academically that we don’t see in
+other areas.
+This is an attitude I’ve also come across in talking to colleagues,
+and it’s one that I must confess surprises me. Academia is deeply
+competitive, as are most professions that depend on mental skills.
+And yet, I find it hard to detect much concern over others getting a
+competitive advantage through what they imbibe. That doesn’t mean
+we shouldn’t be concerned, though.
+In his 2004 commentary on Cosmetic Neurology, Anjan Chatterjee
+asked five questions of readers that were designed to test their
+ethical boundaries. These included:
+1.
+
+Would you take a medication with minimal side effects half
+an hour before Italian lessons if it meant that you would learn
+the language more quickly?
+
+2.
+
+Would you give your child a medication with minimal side
+effects half an hour before piano lessons if it meant that they
+learned to play more expertly?
+
+3.
+
+Would you pay more for flights whose pilots were taking a
+medication that made them react better in emergencies? How
+much more?
+
+4.
+
+Would you want residents to take medications after nights
+on call that would make them less likely to make mistakes in
+caring for patients because of sleep deprivation?
+
+usage habits. Around one in five respondents said they had used
+one or more of these drugs to increase their focus, concentration,
+or memory. Ritalin was the most frequently-used substance, and
+respondents between eighteen and twenty-five years old were the
+most prevalent users (with an interesting spike for those between
+fifty-five and sixty-five, suggesting a fear of late-career performanceinadequacy). What was even more interesting to me was that 69
+percent of the respondents said they’d risk mild side effects to take
+these drugs themselves, and 80 percent thought that healthy adults
+should be free to use them if they wanted to.
+
+5.
+
+Would you take a medicine that selectively dampened
+memories that are deeply disturbing? Slightly disturbing?
+
+These were designed to get people thinking about their own values
+when considering cognition-enhancing drugs. To this list, I would
+add five more questions:
+1.
+
+Would you take a smart drug to help pass a
+professional exam?
+
+2.
+
+Would you take a smart drug to shine more than the
+competition in a job interview?
+
+3.
+
+Would you take a smart drug to increase your chances of
+winning a lucrative grant?
+
+4.
+
+Would you use a smart drug to help win a business contract?
+
+5.
+
+Would you use a smart drug to help get elected?
+
+On the face of them, Chatterjee’s questions focus on personal gains
+that either don’t adversely impact others, or that positively impact
+them. For instance, learning a language or the piano can be seen as
+personal enrichment and as developing a socially-useful skill. And
+ensuring that pilots and medical professionals are operating to the
+best of their abilities can only be a good thing, right?
+It’s hard to argue against these benefits of taking smart drugs. But
+there’s a darker side to these questions, and that is what happens
+if enhancement becomes the norm, and there is mounting social
+pressure to become a user.
+For instance, should you be expected to take medication to keep up
+with your fellow students? Should you feel you have to dose your
+child up so they don’t fall behind their piano-playing peers? Should
+medical staff be required to be on meds, with a threat of legal action
+if they make an error while not dosed-up?
+The potential normalization of nootropic use raises serious ethical
+questions around autonomy and agency, even where the arguments
+for their use seem reasonable.[^61] And because of this, there should
+probably be more consideration given to their socially responsible
+use. This is not to say that they should be banned or discouraged,
+and academics like Henry Greely and colleagues actively encourage
+
+In each of these additional questions, taking a cognitive enhancer
+gives the user a professional advantage. In some of these cases,
+I can imagine one-off use being enough to get someone over a
+career hurdle—outperforming the competition in a job interview,
+for example. In others, there’s a question of whether someone will
+only be able to do their job if they continue to self-medicate. Is it
+appropriate, for instance, if someone uses cognitive enhancers to
+gain a professional qualification, a teaching qualification, say, and
+then can only deliver on expectations through continued use?
+In all of these questions, there’s the implicit assumption that, by
+using an artificial aid to succeed, someone else is excluded from
+success. And this is where the ethics get really tricky.
+To understand this better, we need to go back to the Nature survey
+and the general acceptance of academics toward using smart drugs.
+For most academics, their success depends on shining brighter than
+their peers by winning more grants, making bigger discoveries,
+writing more widely cited papers, or gaining celebrity status.
+Despite the collegiality of academia (and by on large we are a highly
+collegial group), things can get pretty competitive when it comes
+to raising funds and getting promotion, or even securing a lucrative
+book deal. As a result, if your competitors are artificially boosting
+their intellectual performance and you are not, you’re potentially at
+a disadvantage.
+As it is, the pressure to do more and to do it better is intense within
+academic circles. Many academics regularly work sixty- to seventyhour weeks, and risk sacrificing their health and personal lives in
+order to be seen as successful. And believe me, if you’re fraying at
+the edges to keep up with those around you and you discover that
+they’ve been using artificial means to look super-smart, it’s not likely
+
+their responsible use.[^62] But we should at least be aware of
+the dangers of potentially stepping out on a slippery slope of
+marginalizing anyone who doesn’t feel comfortable self-medicating
+each day to succeed, or who feels pressured into medicating their
+kids for fear that they’ll flunk out otherwise. And this is where the
+issue flips from the “would you be OK” in Chatterjee’s questions, to
+the “would you do this” in my five follow-up questions.
+
+to sit easily with you, especially if you’re then faced with the choice
+of either joining the smart-drug crowd, or burning out.
+In most places, things aren’t this bad, and nootropic use isn’t so
+overtly prevalent that it presents a clear and present pressure. But
+this is a path that self-centered usage risks leading us down.
+To me, this is an ethically fraught pathway. The idea of being
+coerced into behaviors that you don’t want to engage in in order to
+succeed doesn’t sit comfortably with me. But beyond my personal
+concerns, it raises broader questions around equity and autonomy.
+These concerns don’t necessarily preclude the use of cognitive
+enhancers. Rather, they mean that, as a society, we need to work
+out what the rules, norms, and expectations of responsible use
+should be because, without a shadow of doubt, there are going to
+be occasions where their use is likely to benefit individuals and the
+communities that they are a part of.
+What puts an even finer point on these ethical and social questions
+is the likely emergence of increasingly effective nootropics. In the
+US and Europe, there are currently intense efforts to map out and
+better understand how our brains work.[^63] And as this research
+begins to extend the limits of what we know, there is no reason to
+think that we won’t find ways to develop more powerful nootropics.
+We may not get as far as a drug like NZT, but I see no reason why
+we won’t be able to create increasingly sophisticated drugs and drug
+combinations that substantially increase a user’s cognitive abilities.
+As we proceed down this route, we’re going to need new thinking
+on how, as a society, we use and regulate these chemical enhancers.
+And part of this is going to have to include making sure this
+technology doesn’t end up increasing social disparities between
+people who can afford the technology and those who cannot.
+
+## Privileged Technology
+One of the perennial challenges of new technologies is their
+potential to exacerbate social divides between people who can
+afford them, and as a consequence get the benefits from them, and
+those who cannot. Over time, technologies tend to trickle down
+through society, which is how so many people are able to afford
+
+Limitless’ Eddie provides an interesting case here. When we
+first meet him, he’s a failure. Compared to those around him—
+his soon-to-be-ex girlfriend in particular—he’s not performing
+particularly well. In fact, it’s fair to say that he has an ability and a
+lifestyle deficit.
+We’re left in no doubt that Eddie’s lack of ability puts him at a
+disadvantage compared to others. And, while we don’t know
+whether this is due to his personal choices or the cards he was dealt
+in life, let’s assume for the sake of argument that this deficit is not
+his fault. If this is the case, does he have the right to do something
+about it?
+If Eddie’s lack of success was due to a clearly diagnosed disease or
+disability, I suspect that the consensus would be “yes.” As a society,
+we’ve developed a pretty strong foundation of medical ethics around
+doing no harm (non-maleficence), doing good (beneficence), not
+being coerced into decisions (autonomy), and spreading the burdens
+and benefits of treatments across all members of society (justice). As
+long as a course of action didn’t lead to unacceptable harm, it would
+be easy to argue that Eddie should have access to treatments that
+would address what he’s lacking.
+Following this argument, if NZT simply brought Eddie up to par
+with those around him, its use would probably be seen as okay by
+most people. But let’s make this a little more complicated. What if
+NZT did indeed enable Eddie to be an ordinary, functional member
+
+cars these days, or own a cell phone. Yet it’s too easy to assume
+that technology trickle-down is a given, and to ignore some of the
+more egregious ways in which innovations can line the pockets of
+the rich at the expense of the poor (a theme we will come back
+to with the movie Elysium in chapter six). The relationship here
+between technological innovation and social disparity is complex,
+especially when enterprising entrepreneurs work out how to open
+new markets by slashing the cost of access to new tech. Yet it’s
+hard to avoid the reality that some technologies make it easier for
+the wealthy to succeed in life and, as a result, put poorer people at
+a disadvantage. And perhaps nowhere is this more apparent than
+when wealthy individuals have access to technologies that address
+their deficiencies or enhance their capabilities, in the process
+creating a positive feedback loop that further divides the rich and
+the poor.
+
+of the human race, but he could only get it illicitly. Would we still be
+alright with this?
+It wouldn’t surprise me if, in this case, a substantial part of the
+collective response was, “Why not legalize it?” Or, at the very
+least, ensure that anyone who wants to take advantage of the
+drug could get hold of it reasonably easily, without facing the risk
+of imprisonment.
+Imagine next a low-potency version of NZT that was legal and was
+marketed as a dietary supplement. I suspect that most people would
+think that this was alright, in part because there would be a choice
+of whether to take it or not. And if the substance addressed a minor
+deficit or displayed marginal benefits, there would be little pressure
+to use it. As a result, its use would probably slip quite comfortably
+into our sense of ethically appropriate behavior.
+So far, so good. In this Mildly Enhanced Eddie hypothetical, there
+don’t seem to be glaring ethical issues. But what if we now go back
+to the NZT that’s portrayed in the movie—a cognitive enhancer that
+provides the user with immense benefits over those around them?
+This moves us from thinking of the substance as a way of correcting
+a deficit, to one that confers a substantial advantage. And this is
+where medical ethics begin to run out of steam. But they still have
+some relevance, especially the medical ethic of “justice.”
+Imagine that, in the movie, NZT was as widely and readily available
+as a generic over-the-counter drug like Tylenol. Would this be okay?
+There are obviously questions here around how appropriate it
+would be for everyone to be dependent on a mind-enhancing
+substance. But, just on the basis of social justice, this scenario feels
+not-so-bad. Apart from the poorest of the poor, most people would
+be able to afford to pop a pill to increase their smarts if they wanted
+to. Because of this, the benefits and the risks of NZT would most
+likely end up being shared across society.
+This isn’t too different from where we find ourselves with caffeine,
+apart from the obvious difference that a shot of espresso doesn’t
+quite have the ability to transform a struggling writer into a genius
+(believe me, I know). Caffeine is a socially normalized drug that has
+mild benefits in terms of wakefulness and concentration. It’s also a
+substance that people feel they can opt out of using without feeling
+that this leaves them at a social or competitive disadvantage.
+
+How much would change, though, if NZT was an expensive
+proprietary drug? Still legal, and still accessible, but in this case,
+only available through exclusive clinics, and affordable to the superrich. This is a more plausible scenario, as any company making it
+would have to recoup their development costs, and as we know
+from current drug development, this can easily run into the billions
+of dollars.
+This scenario takes us into uneasy ethical territory, and again, it’s
+the ethic of justice that comes into play. This is a scenario where
+the benefits and the burdens of NZT would not be equitably shared
+across society. Rather, the rich would end up having access to a
+technology that gave them a vast advantage over the poor, or even
+the middle class. Using the technology, they would be able to
+make even more money, wield even more power, create even more
+exclusive technologies, and further distance themselves from the rest
+of society.
+This, of course, is the scenario that plays out in Limitless, but
+without the social commentary. The power players here are
+those who are on NZT or who have benefitted from it. These
+are the people who end up holding the reins of economic and
+political power, all because they have exclusive access to a mindenhancing substance.
+I must confess that this is not a scenario that I’m comfortable with.
+And it’s not one that I believe can be avoided through market-driven
+innovation alone. Without appropriate checks and balances in place,
+the free market simply provides a mechanism that prioritizes overall
+wealth creation over just and equitable wealth creation. Put simply,
+free-market economies can thrive on social inequity and injustice,
+as long as people are willing to buy and sell goods while asking
+few questions. And you can bet your bottom dollar that there would
+be a market for a smart drug that massively increased a wealthy
+individual’s chances of success. What is needed in a scenario like
+this is a system of checks and balances that help steer market forces
+toward social good.
+
+Whether something as powerful as NZT could be socialized in the
+same way is far from certain. It would depend a lot on the perceived
+and real benefits and risks. But that said, it is possible to imagine
+a pathway forward here for a cognition-enhancing substance to
+become socialized, if it was affordable and widely available.
+
+Here, approaching how we ensure the benefits of new technologies
+while avoiding unpleasant downsides is not about stymieing
+technologies that threaten us—far from it. But it does involve
+deciding what’s important, and having the foresight and commitment
+to ensuring that technology innovation supports what we believe
+is good and worthy, and avoids what we believe is not. In the
+language of medical ethics, we probably want to work on innovation
+pathways that demonstrate non-maleficence, are beneficent, that
+support autonomy, and that are just.
+To start with, though, we need to work out what we believe is
+important to us as a society. And that includes grappling with how
+we think about intelligence.
+
+## Our Obsession with Intelligence
+As a species, we’re obsessed with intelligence. It’s what gives us
+our evolutionary edge, and it’s what has led to our dominance as
+Homo sapiens. Our intelligence is what many of us depend on in
+our personal and professional lives. And, when it comes to artificial
+forms of intelligence, it’s something that some people worry will end
+up destroying us. But how we think about intelligence is remarkably
+colored by our sense of our own importance, and this in turn affects
+how we think about technologies that are designed to enhance it,
+including smart drugs.
+As a species, we’ve dominated our evolutionary niche. And we’ve
+done pretty well at expanding the boundaries of this niche, pushing
+other species out of the way as we go. As we’ve evolved, we’ve
+done amazingly well at learning how to use the natural resources
+around us to our advantage. We’ve adroitly developed the ability
+to imagine futures beyond the present that we inhabit. And we’ve
+become rather adept in crafting our own internal worlds of feelings,
+beliefs, desires, aspirations, and identities. We are, in our own eyes,
+exceptional.
+This assumption of exceptionality, though, is an evolutionary
+illusion. We are perfectly adapted to the evolutionary niche we
+inhabit, but this doesn’t make us superior to any other organism
+that’s happily succeeding in its own niche. And yet, despite our
+self-aggrandizement, we are an amazing species. Our ability to
+individually and collectively imagine futures that are different from
+the present, and to make these futures a reality, is truly astounding.
+This doesn’t make us superior to other organisms, but it does make
+
+This is where things begin to get a little gnarly, though, because
+while most people would agree that human intelligence is
+important, there’s not so much agreement on what intelligence
+is exactly. And this becomes relevant as we begin to develop
+technologies that either claim to enhance intelligence, or to
+replicate it.
+Understanding the nature of intelligence is, perhaps not surprisingly,
+something people have been grappling with for a long time. For
+millennia, we’ve tried to metaphorically pull ourselves up by our
+bootstraps by using our intelligence to better understand that
+selfsame intelligence. Each generation of thinkers and scholars has
+had its own ideas of what intelligence is, and where its value lies,
+and the current one is no different (although, naturally, being the
+most intelligent generation so far, we’re pretty sure we’re honing in
+on the right ideas this time[^64]).
+Broad definitions of intelligence tend to focus on our combined
+abilities to remember, reason, imagine, learn, build stuff, and use
+knowledge and materials to actively alter the world we live in.
+Together, these tap into traits that differentiate us as a species from
+others, and in this respect “intelligence” becomes a convenient
+shorthand for “that which makes us different.” Plenty of scholars
+have tried to pin things down more precisely, though.
+One school of thought that’s arisen over the past hundred years
+is that there is an innate characteristic of general intelligence that
+makes us different—a single measure, or quotient, of intelligence
+that captures all of humanity’s “specialness.” This was first suggested
+by Charles Spearman in 1904, and is the basis of generalized
+measures of intelligence such as the g-factor and Intelligence
+Quotient, or IQ. But these remain controversial measures
+of intelligence.
+In contrast, psychologist Howard Gardner proposed the idea that
+there are multiple types of intelligence, representing different
+aspects of human abilities and “different-ness.” These include
+musical intelligence, visual/spatial intelligence, verbal intelligence,
+logical intelligence, and a whole lot more (including an “existential
+intelligence” that begins to tap into aspects of belief and spirituality).
+
+us interesting. And at the root of what makes us an interesting
+species is what we collectively think of as “intelligence.”
+
+In Limitless, we are introduced to an understanding of intelligence
+that lies somewhere between Spearman’s general intelligence and
+Gardner’s multiple types of intelligence. What gives Enhanced Eddie
+his competitive edge is his ability to remember, recall, and use
+information faster and better when on NZT. It’s this combination
+of memory, recall, speed, and utilization that boosts Eddie’s
+performance within the movie, and transforms him from a struggling
+writer to a smart and successful author, businessman, and politician.
+And we’re led to believe that this performance boost is synonymous
+with an intelligence boost. Yet this is a restrictively narrow view
+of intelligence, and one that leads to a rather monochromatic
+perspective of success—especially when it comes to technological
+innovation. It suggests that the most relevant aspects of intelligence
+are memory, speed of thought, and reasoning ability, and that what
+establishes their importance is the degree to which they help us
+“win.”
+In Limitless, Eddie is transformed from a loser to a winner by NZT.
+In the Silicon Valley nootropic culture, taking the right “stacks” is
+seen as the route to winning as an entrepreneur and in business.
+Students take prescription drugs to win in their courses. Academics
+pop pills to win at grant applications, and to win at getting their
+papers published. And I have to assume that corporate executives
+self-medicate on occasion to win in business.
+In other words, smart drugs are not really about intelligence, but
+about selectively enhancing capabilities that provide a perceived
+performance advantage in a given situation. It’s just that we’ve
+collectively fallen into the habit of thinking about a small set of
+attributes as defining intelligence, and assuming that these are
+essential to winning in life. It’s all very “survival of the fittest.” It also
+creates a bit of a problem. As soon as we make the mental leap of
+assuming better memory and enhanced reasoning make us more
+likely to win at what we do, we become the victims of a cognitive
+delusion. And this has a profound impact on how we think about
+the development and use of smart drugs.
+If, as it’s assumed in Limitless, a single pill can increase someone’s
+chances of winning at whatever they are doing, we have to
+grapple with who gets access to this wonder pill, and what our
+collective norms and rules are for responsible use. This becomes
+challenging if the idea of someone else having a general advantage
+over you because of the meds they’re on becomes a serious threat
+to your ability to succeed, or to be seen as worthy. But if this
+
+If you believe that there are multiple ways of understanding and
+thinking about of intelligence, and there are multiple combinations
+of skills needed for success, then taking the wrong smart pill for
+the wrong purpose could be disastrous. It’d be like taking a tab of
+LSD to help wrap up a grant proposal—possibly entertaining for
+the reviewers, but not in the way you intended. On the other hand,
+taking the right smart pill for the right occasion could be rather
+useful, especially where this notion of “winning” leads to social
+good. This might include effective patient treatment, for instance, or
+problem-solving around natural disasters.
+In other words, having a clear sense of what intelligence is, and
+what intelligence enhancement means, is critical to the socially
+responsible development and use of smart drugs and intelligencerelated technologies more broadly. If you believe that better
+memory and reason are the most important factors in winning,
+or in determining someone’s worth, then drugs that substantially
+enhance them become something to be carefully managed within
+society. This way of thinking leads to smart drugs being framed as a
+potentially divisive technology that threatens to further prize open
+the divide between those who have access to the technology and
+those who do not. If we accept, on the other hand, that personal
+worth is not dependent on these two factors, but is instead a
+complex combination of ways you enhance the lives of others,
+and that winning is about more than fame, fortune, and being
+clever, then smart drugs potentially become an asset, and one to be
+nurtured.
+In setting out to navigate this ethical landscape, so much depends
+on how we think of intelligence, and this notion of “winning.”
+Sadly, we live in a society that values a rather narrow definition
+of intelligence which, intentionally or not, leaves the impression
+that personal worth is linked to how smart you are. This is seen
+in our education system, and the pressure that parents feel to do
+everything possible to increase their child’s IQ. It’s also seen in
+how we reward people, and who we assign value to in society. Yet
+there is little evidence that intelligence, when defined in this rather
+narrow way, leads to attributes like empathy, humility, kindness,
+and civility; all of which are profoundly important within a healthy
+
+pill only enhances someone’s chance of winning under specific
+circumstances, the threat it poses takes on a very different feel.
+
+society.[^65] On the contrary, intelligence as portrayed in Limitless, and
+as it is often perceived in real life, has no inherent moral compass.
+Being smart doesn’t make you good.
+That said, I can imagine a future where smart drugs are a powerful
+technology for benefitting lives as part of a suite of technologies that
+we use to build a better future. But to get there, we’re first going
+to have to recalibrate how we think about intelligence, and how it
+relates to what is socially useful and beneficial. Such a recalibration
+is important for technologies that alter and enhance how our
+minds work. But it’s also critically important to how we think
+about and develop artificial intelligences, or hybrid human-machine
+intelligences because, if we start off with a warped perspective of
+intelligence and success, you can guarantee that the “intelligenceenhancing” technologies we develop, and the pathways we develop
+them along, will be equally warped.
+There is a twist to this tale, though. While NZT may not make Eddie
+better than his peers, it certainly gives him what it takes to succeed
+in the life that he’s chosen. Whether you consider the drug to be
+intelligence-enhancing or performance-enhancing, Eddie gets ahead
+because he has access to it. And while the fictional pharmacology of
+NZT helps explain what he achieved once he started using, there’s
+a subtle but nevertheless important subplot to Limitless, which is
+that, in order to succeed, you needed to be privileged enough to
+have access to the smart drug in the first place. This in turn takes us
+to the challenges of what happens when only a privileged few have
+access to a powerful technology, and to the next movie: Elysium.
+
+
+[^45]: Andrew Maynard (2009) “Ten emerging technology trends to watch over the next decade” Posted on 2020 Science, December 25, 2009. https://2020science.org/2009/12/25/ten-emerging-technology-trends-to-watch/
+
+[^46]: It should be pointed out here that, because we have a habit of defining success as what humans do, we’d think we were phenomenally successful whatever we achieved as a species.
+
+[^47]: “SF Peak Performance meet-up: biohacking, fitness tech, nutrition.” https://www.meetup.com/PeakPerformance/
+
+[^48]: Sara Solovitch (2017). “Tweaking brains with ‘smart drugs’ to get ahead in Silicon Valley.” Washington Post, June 11, 2017 https://www.washingtonpost.com/national/health-science/tweaking-brains-with-smart-drugs-to-get-ahead-in-silicon-valley/2017/06/09/5bc9c064-0b35-11e7-93dc-00f9bdd74ed1_story.html
+
+[^49]: I checked—they can. Maybe not with the psychedelics included, but neuroIgnite, Neuro Spark, Genius Joy and many other concoctions are but a click away. Who knew?
+
+[^50]: Chaterjee, A. (2004). “Cosmetic neurology. The controversy over enhancing movement, mentation, and mood.” Neurology 63: 968–974. http://doi.org/10.1212/01.WNL.0000138438.88589.7C
+
+[^51]: Taken from “The World of Caffeine: The Science and Culture of the World’s Most Popular Drug,” by Bennett Alan Weinberg and Bonnie K. Bealer (Routledge, 2002). Balzac had a stupendous coffee habit, and ended up eating the grounds to achieve the enlightenment he craved. He died at age fortynine, not necessarily from hacking his brain with the brown stuff.
+
+[^52]: There’s surprisingly little evidence that Adderall does increase performance in healthy adults. There’s more evidence to suggest it can enhance how well you think you’re performing. Sadly, university professors rarely grade on how well you think you’ve done.
+
+[^53]: See Maxwell J. Mehlman (2004) “Cognition-Enhancing Drugs.” The Milbank Quarterly, volume 83 issue 3, pages 483–506 http://doi.org/10.1111/j.0887-378X.2004.00319.x
+
+[^54]: Sahakian, B. and S. Morein-Zamir (2007). “Professor’s little helper.” Nature 450: 1157. http://doi.org/10.1038/4501157a
+
+[^55]: Maher, B. (2008). “Poll results: look who’s doping.” Nature 452: 674-675. http://doi.org/10.1038/452674a
+
+[^56]: Admittedly, this one may be difficult to detect in academics.
+
+[^57]: Giurgea, C. (1973). “The ‘Nootropic’ Approach to the Pharmacology of the Integrative Activity of the Brain.” Conditional Reflex 8(2): 108–115. https://link.springer.com/article/10.1007/BF03000311
+
+[^58]: It’s amazing how readily we compare the human brain to the latest form of digital technology. Yet in reality our brains are nothing like the chips in our smartphones or laptops, or even the processors at the hearts of supercomputers.
+
+[^59]: The press release can still be read using Wayback Machine on the original WABDA website, set up especially for the occasion. https://web.archive.org/web/20080409091357/http://wabda.org:80/News.html
+
+[^60]: Most likely not all respondents were scientists or academics, but given the source of the poll, it’s likely that many were.
+
+[^61]: The use of cognitive enhancers isn’t unique here: Social pressures around working long hours, being hyper-productive, drinking, and many other behaviors, raise similar questions around what we expect of people, and the degree to which they are in control of their lives.
+
+[^62]: In 2008, Henry Greely and a number of colleagues published an opinion in the journal Nature calling for more efforts to support the responsible use of cognitive enhancers by healthy people. Greely, H. and colleagues (2008) “Towards responsible use of cognitive enhancing drugs by the healthy” Nature, 456, 11, pages 702-705. http://doi.org/10.1038/456702a
+
+[^63]: In 2013, President Obama launched the multi-year, multi-million-dollar US BRAIN Initiative (Brain Research through Advancing Innovative Neurotechnologies)—a public-private partnership that’s researching how the brain works in order to better treat neurological diseases. The same year, the European Commission launched the Human Brain Project, focusing on advancing brain research, cognitive neuroscience, and brain-inspired computing.
+
+[^64]: Just in case it isn’t clear, I’m being sarcastic—our capacity for delusion is only matched by that for hubris.
+
+[^65]: I actually did a search for “humility pills” while writing this, thinking how telling it is that so many people are interested in substances that purportedly increase how smart they are, but not how humble they are. To my surprise, I came across the following paper, which isn’t about humility pills as such, but is about how we might think more broadly and ethically about cognitive enhancement. Goodman, R. (2014). “Humility Pills: Building an Ethics of Cognitive Enhancement.” The Journal of Medicine and Philosophy: A Forum for Bioethics and Philosophy of Medicine 39(3): 258–278. http://doi.org/10.1093/jmp/jhu017
